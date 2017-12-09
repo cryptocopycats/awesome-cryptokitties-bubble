@@ -57,12 +57,13 @@ Dec/9:
 
 - Total Sales: 97 830
 - Total Unique Kittens Sold: 79 233
-- Total Ether Sold: 25 699.86 ether
+- Total Ether Sold: 25 699.86 ETH
 - Total USD Sold: $12 030 567.96
 - Average Sale Price: $122.97
 - Median Sale Price: $23.15
 
-Source: [CryptoKitties Sales](https://kittysales.herokuapp.com)
+Source: [CryptoKitties Sales](https://kittysales.co)
+
 
 
 ### Articles
