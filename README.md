@@ -140,6 +140,14 @@ See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/) for many m
 
 
 
+### More / Misc
+
+**Kitty Raririty Calculator** Browser (Fan Add-on) Extension (github: [HaJaeKyung/KittyExtension](https://github.com/HaJaeKyung/KittyExtension) by Ha Jae Kyung -- gives color coded rarity info by hovering; Pink: ultra rare,
+Orange: very rare,
+Purple: rare,
+Blue: uncommon,
+White: common
+
 
 ## CryptoPuppies (Yes, Cute Little Cartoon Dogs) on the Blockchain! (Upcoming)
 
