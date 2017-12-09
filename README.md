@@ -69,6 +69,12 @@ Source: [CryptoKitties Sales](https://kittysales.herokuapp.com)
 
 _Crypto Kitties marks the beginning of a (massive) digital revolution. To understand why, learn about the blockchain, blockchain, blockchain._
 
+[**Why we’re not doing an Initial Coin Offering (ICO)**](https://hackernoon.com/why-were-not-doing-an-initial-coin-offering-ico-5a6d6dfedca1) by Benny Giang, November 2017 
+
+> CryptoKitties is not holding an Initial Coin Offering (ICO). 
+> Instead, we're offering utility from day one and pursuing a sustainable revenue model based on our games' mechanics.
+
+
 [**CryptoKitties & Fun-tier Technologies**](https://medium.com/@vijayssundaram/cryptokitties-fun-tier-technologies-8e73903b98fc)
 by Vijay Sundaram, December 2017
 
