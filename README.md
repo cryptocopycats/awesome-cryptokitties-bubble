@@ -1,5 +1,5 @@
 
-Latest (and Greatest) Investment Opportunities
+The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, CryptoTulips - Latest (and Greatest) Investment Opportunities 
 
 > Blockchain has unlocked the magic of digital scarcity, and combining that with the power of
 > making the digital goods persistent gives them a potential value that is only limited by how much
@@ -11,7 +11,7 @@ Latest (and Greatest) Investment Opportunities
 
 # Awesome CryptoKitties
 
-A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain! - digital assets secured on a distributed public databases w/ crypto hashes.  CryptoPuppies are the new CryptoKitties.
+A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain! - digital assets secured on a distributed public databases w/ crypto hashes.  Are CryptoPuppies the new CryptoKitties?  Contributions welcome.
 
 
 
