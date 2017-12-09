@@ -21,6 +21,19 @@ Collectible. Breedable. Adorable.
 
 Collect and breed digital cats. Start meow. Buy! Sell! Hold!
 
+> Q: What's CryptoKitties? What's the big deal? 
+>
+> CryptoKitties is centered around breedable, collectible, and oh-so-adorable creatures 
+> we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you; 
+> it cannot be replicated, taken away, or destroyed.
+>
+> CryptoKitties is built on blockchain technology. 
+> You can buy, sell, or trade your CryptoKitty like it was a traditional collectible, 
+> secure in the knowledge that blockchain will track ownership securely.
+> But, unlike traditional collectibles, you can breed two CryptoKitties
+> to create a brand-new, genetically unique offspring.
+> It results in something special—just like you!
+
 Learn more @ [cryptokitties.co](https://cryptokitties.co), twitter: [CryptoKitties](https://twitter.com/CryptoKitties)
 
 ![](i/cryptokitties.png)
