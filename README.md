@@ -38,6 +38,7 @@ Learn more @ [cryptokitties.co](https://cryptokitties.co), twitter: [CryptoKitti
 >
 > -- [Anshul Dhawan](https://twitter.com/TheAnshulDhawan/status/938551642202324993)
 
+
 ### Code on the Blockchain - Electronic Contracts
 
 [CryptoKittiesCore.sol](CryptoKittiesCore.sol) in Ethereum Solidity -- copied from [Etherscan](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
@@ -45,13 +46,51 @@ Learn more @ [cryptokitties.co](https://cryptokitties.co), twitter: [CryptoKitti
 
 ### Special Collector's CryptoKitties
 
+- [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 - sold for $115 000
 - [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 
+
+
+
+### Sales Statistics
+
+Dec/9:
+
+- Total Sales: 97 830
+- Total Unique Kittens Sold: 79 233
+- Total Ether Sold: 25 699.86 ether
+- Total USD Sold: $12 030 567.96
+- Average Sale Price: $122.97
+- Median Sale Price: $23.15
+
+Source: [CryptoKitties Sales](https://kittysales.herokuapp.com)
 
 
 ### Articles
 
-- [CryptoKitties & Fun-tier Technologies](https://medium.com/@vijayssundaram/cryptokitties-fun-tier-technologies-8e73903b98fc) by Vijay Sundaram, December 2017
+_Crypto Kitties marks the beginning of a (massive) digital revolution. To understand why, learn about the blockchain, blockchain, blockchain._
 
+[**CryptoKitties & Fun-tier Technologies**](https://medium.com/@vijayssundaram/cryptokitties-fun-tier-technologies-8e73903b98fc)
+by Vijay Sundaram, December 2017
+
+
+[**People are spending $millions on digital cats and here's why it makes sense**](https://medium.com/swlh/people-are-spending-millions-on-digital-cats-and-heres-why-it-make-sense-aea431740bcf) 
+by Tony Aubé, December 2017 -- Crypto Kitties is about so much more than cats.
+
+> The blockchain changes everything we thought we knew about computers. 
+> By removing one of the computer's biggest feature - the ability to duplicate information - it opens up computing 
+> to a multitude of new, real-world use-cases that would have never been possible before.
+
+
+
+### Questions & Answers
+
+Q: **Couldn't CryptoKitties be hosted on many types of databases besides a blockchain?**
+
+> A: Crypto-collectibles have key properties that proprietary digital collectibles didn't: 
+> longevity, code-enforced scarcity and rules, resistance to actions of sponsoring company. 
+> Much closer to non-digital collectibles like baseball cards than pre-crypto digital goods.
+>
+> -- [Chris Dixon](https://twitter.com/cdixon/status/937671322724982784)
 
 
 
