@@ -78,6 +78,9 @@ _Crypto Kitties marks the beginning of a (massive) digital revolution. To unders
 [**CryptoKitties & Fun-tier Technologies**](https://medium.com/@vijayssundaram/cryptokitties-fun-tier-technologies-8e73903b98fc)
 by Vijay Sundaram, December 2017
 
+> These tokens ought to primarily flow to users and partners who participate in a well-designed economy, 
+> rather than just speculate on it. Almost by definition this approach will pay off even if the crypto tide goes out.
+
 
 [**People are spending $millions on digital cats and here's why it makes sense**](https://medium.com/swlh/people-are-spending-millions-on-digital-cats-and-heres-why-it-make-sense-aea431740bcf) 
 by Tony Aubé, December 2017 -- Crypto Kitties is about so much more than cats.
