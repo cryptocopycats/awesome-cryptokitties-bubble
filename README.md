@@ -148,7 +148,7 @@ Purple: rare,
 Blue: uncommon,
 White: common
 
-**Cattribute Predictor** (web: [kitty.services](http://www.kitty.services)) -- Genetics Fur Cats: Premier genetic testing services for your CryptoKitties based on machine learning and the blockchain - put in the IDs of your parents-to-be and we'll let you know what their offspring will look like.
+**Kitty Offspring Guesser / Cattribute Predictor** (web: [kitty.services](http://www.kitty.services)) -- Genetics Fur Cats: Premier genetic testing services for your CryptoKitties based on machine learning and the blockchain - put in the IDs of your parents-to-be and we'll let you know what their offspring will look like.
 
 
 
