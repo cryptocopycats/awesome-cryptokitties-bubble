@@ -46,7 +46,7 @@ Learn more @ [cryptokitties.co](https://cryptokitties.co), twitter: [CryptoKitti
 
 
 
-## CryptoPuppies (Yes, Cute Little Cartoon Dogs) on the Blockchain!
+## CryptoPuppies (Yes, Cute Little Cartoon Dogs) on the Blockchain! (Upcoming)
 
 Collectable. Breedable. Adorable. 
 
@@ -58,7 +58,7 @@ Learn more @ twitter: [Crypto_Puppies](https://twitter.com/Crypto_Puppies)
 
 
 
-## CryptoPets on the Blockchain!
+## CryptoPets on the Blockchain!  (Upcoming)
 
 The first five animals to be sold off...
 Please welcome the Dog, Galapagos Turtle, Giant Panda, T-Rex  and Unicorn  
