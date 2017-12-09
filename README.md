@@ -121,6 +121,15 @@ The first five animals to be sold off...
 Please welcome the Dog, Galapagos Turtle, Giant Panda, T-Rex  and Unicorn  
 as the founding species on CryptoPets!
 
+> CryptoPets are the newest breed of animals on the block... blockchain that is. 
+> Unlike cryptocurrencies, which require all tokens to be identical, 
+> your CryptoPet will be the only one of its kind in the entire world. 
+> These cute collectibles are cryptographically unique, non-fungible digital assets. 
+> CryptoPets uses the immutability of blockchain technology to verify and prove that each CryptoPet 
+> has its own special attributes and is entirely owned by you.  
+> Each species will have variations in specific attributes, 
+> including fur color, eye shape, paw, and feet type, to name a few.
+
 Learn more @ [cryptopets.co](https://cryptopets.co), twitter: [CryptoPets](https://twitter.com/CryptoPets)
 
 
