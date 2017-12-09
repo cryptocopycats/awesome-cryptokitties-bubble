@@ -34,7 +34,9 @@ Collect and breed digital cats. Start meow. Buy! Sell! Hold!
 > to create a brand-new, genetically unique offspring.
 > It results in something special—just like you!
 
-Learn more @ [cryptokitties.co](https://cryptokitties.co), twitter: [CryptoKitties](https://twitter.com/CryptoKitties)
+Learn more @ [cryptokitties.co](https://cryptokitties.co), 
+twitter: [CryptoKitties](https://twitter.com/CryptoKitties),
+reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 
 ![](i/cryptokitties.png)
 
@@ -144,7 +146,9 @@ as the founding species on CryptoPets!
 > Each species will have variations in specific attributes, 
 > including fur color, eye shape, paw, and feet type, to name a few.
 
-Learn more @ [cryptopets.co](https://cryptopets.co), twitter: [CryptoPets](https://twitter.com/CryptoPets)
+Learn more @ [cryptopets.co](https://cryptopets.co), 
+twitter: [CryptoPets](https://twitter.com/CryptoPets),
+reddit: [CryptoPets](https://www.reddit.com/r/CryptoPets)
 
 
 
