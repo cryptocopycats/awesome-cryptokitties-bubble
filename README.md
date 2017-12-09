@@ -142,11 +142,14 @@ See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/) for many m
 
 ### More / Misc
 
-**Kitty Raririty Calculator** Browser (Fan Add-on) Extension (github: [HaJaeKyung/KittyExtension](https://github.com/HaJaeKyung/KittyExtension) by Ha Jae Kyung -- gives color coded rarity info by hovering; Pink: ultra rare,
+**Kitty Raririty Calculator** Browser (Fan Add-on) Extension (github: [HaJaeKyung/KittyExtension](https://github.com/HaJaeKyung/KittyExtension)) by Ha Jae Kyung -- gives color coded rarity info by hovering; Pink: ultra rare,
 Orange: very rare,
 Purple: rare,
 Blue: uncommon,
 White: common
+
+**Cattribute Predictor** (web: [kitty.services](http://www.kitty.services)) -- Genetics Fur Cats: Premier genetic testing services for your CryptoKitties based on machine learning and the blockchain - put in the IDs of your parents-to-be and we'll let you know what their offspring will look like.
+
 
 
 ## CryptoPuppies (Yes, Cute Little Cartoon Dogs) on the Blockchain! (Upcoming)
