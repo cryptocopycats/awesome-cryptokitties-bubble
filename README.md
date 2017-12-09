@@ -38,10 +38,19 @@ Learn more @ [cryptokitties.co](https://cryptokitties.co), twitter: [CryptoKitti
 >
 > -- [Anshul Dhawan](https://twitter.com/TheAnshulDhawan/status/938551642202324993)
 
+### Code on the Blockchain - Electronic Contracts
 
-### Special Collector  CryptoKitties
+[CryptoKittiesCore.sol](CryptoKittiesCore.sol) in Ethereum Solidity -- copied from [Etherscan](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
+
+
+### Special Collector's CryptoKitties
 
 - [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 
+
+
+### Articles
+
+- [CryptoKitties & Fun-tier Technologies](https://medium.com/@vijayssundaram/cryptokitties-fun-tier-technologies-8e73903b98fc) by Vijay Sundaram, December 2017
 
 
 
