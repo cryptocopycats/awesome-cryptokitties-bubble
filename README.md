@@ -12,7 +12,7 @@ Collectible. Breedable. Adorable.
 
 Collect and breed digital cats. Start meow. Buy! Sell! Hold!
 
-Learn more @ [cryptokitties.co](https://cryptokitties.co), (twitter: []())
+Learn more @ [cryptokitties.co](https://cryptokitties.co), twitter: [CryptoKitties](https://twitter.com/CryptoKitties)
 
 ![](i/cryptokitties.png)
 
@@ -37,9 +37,23 @@ Latest (and Greatest) Investment Opportunity!
 > -- [Anshul Dhawan](https://twitter.com/TheAnshulDhawan/status/938551642202324993)
 
 
+### Collector Special CryptoKitties
+
+- [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 
+
+
+
+
 
 ## CryptoPuppies (Yes, Cute Little Cartoon Dogs) on the Blockchain!
 
+Collectable. Breedable. Adorable. 
+
+Learn more @ [cryptopuppies.org](http://cryptopuppies.org), twitter: [CryptoPuppies_](https://twitter.com/CryptoPuppies_)
+
+---
+
+Learn more @ twitter: [Crypto_Puppies](https://twitter.com/Crypto_Puppies)
 
 
 
@@ -49,7 +63,7 @@ The first five animals to be sold off...
 Please welcome the Dog, Galapagos Turtle, Giant Panda, T-Rex  and Unicorn  
 as the founding species on CryptoPets!
 
-Learn more @ [cryptopets.co](https://cryptopets.co), (twitter: [CryptoPets](https://twitter.com/CryptoPets))
+Learn more @ [cryptopets.co](https://cryptopets.co), twitter: [CryptoPets](https://twitter.com/CryptoPets)
 
 
 
