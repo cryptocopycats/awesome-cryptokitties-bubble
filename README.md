@@ -1,4 +1,13 @@
 
+Latest (and Greatest) Investment Opportunities
+
+> Blockchain has unlocked the magic of digital scarcity, and combining that with the power of
+> making the digital goods persistent gives them a potential value that is only limited by how much
+> prestige a wealthy person might place on ownership of the item.
+>
+> -- [Justin Poirier](https://twitter.com/tokenizedcap/status/938460753589424128)‏
+
+
 
 # Awesome CryptoKitties
 
@@ -16,13 +25,6 @@ Learn more @ [cryptokitties.co](https://cryptokitties.co), twitter: [CryptoKitti
 
 ![](i/cryptokitties.png)
 
-Latest (and Greatest) Investment Opportunity!
-
-> Blockchain has unlocked the magic of digital scarcity, and combining that with the power of
-> making the digital goods persistent gives them a potential value that is only limited by how much
-> prestige a wealthy person might place on ownership of the item.
->
-> -- [Justin Poirier](https://twitter.com/tokenizedcap/status/938460753589424128)‏
 
 > All I want for Christmas is a CryptoKitty.
 >
@@ -37,10 +39,9 @@ Latest (and Greatest) Investment Opportunity!
 > -- [Anshul Dhawan](https://twitter.com/TheAnshulDhawan/status/938551642202324993)
 
 
-### Collector Special CryptoKitties
+### Special Collector  CryptoKitties
 
 - [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 
-
 
 
 
