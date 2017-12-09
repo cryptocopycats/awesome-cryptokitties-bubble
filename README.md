@@ -109,6 +109,8 @@ by Tony Aubé, December 2017 -- Crypto Kitties is about so much more than cats.
 
 ### Questions & Answers
 
+#### Tech
+
 Q: **Couldn't CryptoKitties be hosted on many types of databases besides a blockchain?**
 
 > A: Crypto-collectibles have key properties that proprietary digital collectibles didn't: 
@@ -116,6 +118,26 @@ Q: **Couldn't CryptoKitties be hosted on many types of databases besides a block
 > Much closer to non-digital collectibles like baseball cards than pre-crypto digital goods.
 >
 > -- [Chris Dixon](https://twitter.com/cdixon/status/937671322724982784)
+
+#### Market & Gaming
+
+See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/) e.g.
+
+Q: **What's a good kitty?**
+
+A: Generally, anything gen 0/1/2/3/4, with fast/swift/snappy/brisk is a good kitty. Rare traits make it even better.
+
+Q: **What are rare traits? How do I know?**
+
+A: Use these website services:
+
+- [CryptoKittydex Cattributes](https://cryptokittydex.com/cattributes) 
+- [Kitty Explorer Cattributes](http://www.kittyexplorer.com/kitties/?cattributes=whixtensions)
+
+Currently mainecoon, whixtensions, and wingtips are the three rarest.
+
+And many more questions.
+
 
 
 
