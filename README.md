@@ -133,11 +133,51 @@ _Tech_
 _Market & Gaming_
 
 
-**Q: What's a good kitty?**
+**Q: What's the cost of playing?**
 
-A: Generally, anything gen 0/1/2/3/4, with fast/swift/snappy/brisk is a good kitty. Rare traits make it even better.
+A:
 
-**Q: What are rare traits? How do I know?**
+* Price of kitties that you purchase.
+* Fees for breeding two kitties together (about $0.50 to $0.60 as of 3rd December 2017).
+* Fees for listing the sale auction to sell your kitties (about $0.20 as of 3rd December 2017).
+* Additional funds in your wallet to allow the transactions to occur.
+
+
+**Q: What make's a kitty good?**
+
+A: Generally, anything gen(eration) 0/1/2/3/4, with fast/swift/snappy/brisk is a good kitty. Rare traits make it even better.
+The generation, cooldown speed, traits, and all affect the overall price and desirability of the kitties.
+
+**Generation.** The best generation of kitty is Gen 0. 
+The lower the generation number, the better starting cooldown the kitty is born with. 
+
+When breeding two kitties together, the resulting generation will be one higher than the highest generation parent. 
+For example:
+
+* If a Gen 0 and Gen 0 breed, the kitten will be Gen 1. 
+* If a Gen 5 and Gen 5 breed, the kitten will be Gen 6.
+* If a Gen 0 and a Gen 5 breed, the kitten will be Gen 6.
+
+**Cooldown speed.** Each time a kitty breeds, their cooldown moves down to the next level, 
+until it reaches Catatonic cooldown, where it will remain.
+
+For example a generation 2 kitty will start off with a swift cooldown when born, and a generation 14 will be born with a plodding cooldown.
+
+**Traits.** Certain traits are rarer than others, making the Kitty more desirable. 
+As more kitties are bred with these traits and new traits are discovered, the value of each one can change.
+
+Traits include:
+
+- Body and Tail: Chartreux Cymric Himalayan Laperm Mainecoon Munchkin Ragamuffin Sphynx
+- Pimary Color: Mauveover Cloudwhite Cottoncandy Salmon Shadowgrey Orangesoda Topaz Greymatter Cottoncandy Oldlace
+- Secondary Color: Peach Bloodred Emeraldgreen Granitegrey Kittencream
+- Pattern: Spock Tigerpunk Calicool Luckystripe Jaguar Totesbasic
+- Pattern Color: Barkbrown Cerulian Chocolate Coffee Lemonade Royalpurple Scarlet Skyblue Swampgreen Violet Wolfgrey
+- Eye Type: Wingtips Fabulous Otaku Raisedbrow Simple Crazy Thicccbrowz Googly
+- Eye Color / Background Color: Bubblegum Chestnut Gold Limegreen Mintgreen Sizzurp Strawberry Topaz
+- Mouth:  Whixtensions Dali Saycheese Beard Tongue Happygokitty Pouty Soserious Gerbil
+
+**Q: What are rare traits?**
 
 A: Use these website services:
 
@@ -147,7 +187,9 @@ A: Use these website services:
 Currently mainecoon, whixtensions, and wingtips are the three rarest.
 
 
-See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/) for many more questions.
+
+See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/) 
+or the [Crypto Kitties Wiki](http://cryptokitties.wikia.com/wiki/CryptoKitties_Wiki) for many more questions and answers.
 
 
 
