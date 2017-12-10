@@ -8,6 +8,15 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > -- [Justin Poirier](https://twitter.com/tokenizedcap/status/938460753589424128)‏
 
 
+> - I'm giving away a Gen 1 FAST Gold for free...
+> - Rarity: 0.00264% Gen 5 JAGUAR FABULOUS GOLD DALI!! VIRGIN! 
+> - Rarity: 0.0015% Princess Bubblegum is now for sale! Gen 12 | Brisk | Virgin | Chartreux | Bubblegum | Otaku | Emeraldgreen | Saycheese | Mauveover | Spock - Starts Ξ20/Ends Ξ10 
+> - Gold ducat , Gen 5 , Virgin , Swift. Very cheap 
+> - Selling a lot of GEN1-3 for less than .2 | Fire Sale
+>
+> -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
+
+
 
 # Awesome CryptoKitties
 
@@ -143,10 +152,16 @@ A:
 * Additional funds in your wallet to allow the transactions to occur.
 
 
+**Q: What's the population? How many gen0 kitties will there be?**
+
+A: 50_000 – Every 15 minutes a new gen0 kitty gets added until reaching a limit of 50_000.
+
+
+
 **Q: What make's a kitty good?**
 
-A: Generally, anything gen(eration) 0/1/2/3/4, with fast/swift/snappy/brisk is a good kitty. Rare traits make it even better.
-The generation, cooldown speed, traits, and all affect the overall price and desirability of the kitties.
+A: The generation, cooldown speed, traits, and all affect the overall price and desirability of the kitties.
+Generally, anything gen(eration) 0/1/2/3/4, with fast/swift/snappy/brisk is a good kitty. Rare traits make it even better.
 
 **Generation.** The best generation of kitty is Gen 0. 
 The lower the generation number, the better starting cooldown the kitty is born with. 
@@ -184,7 +199,7 @@ A: Use these website services:
 - [CryptoKittydex Cattributes](https://cryptokittydex.com/cattributes) 
 - [Kitty Explorer Cattributes](http://www.kittyexplorer.com/kitties/?cattributes=whixtensions)
 
-Currently mainecoon, whixtensions, and wingtips are the three rarest.
+Currently oldlace (81 kitties), wolfgrey (146 kitties), and gerbil (185 kitties) are the three rarest.
 
 
 
