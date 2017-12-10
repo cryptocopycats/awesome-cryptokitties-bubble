@@ -62,10 +62,12 @@ More contract scripts
 
 - [Sale auction](https://etherscan.io/address/0xb1690c08e213a35ed9bab7b318de14420fb57d8c#code)
 - [Siring auction](https://etherscan.io/address/0xc7af99fe5513eb6710e6d5f44f9989da40f27f26#code)
-- [CEO](https://etherscan.io/address/0xaf1e54b359b0897133f437fc961dd16f20c045e1#code)
-- [CFO](https://etherscan.io/address/0x2041bb7d8b49f0bde3aa1fa7fb506ac6c539394c#code)
-. [COO](https://etherscan.io/address/0xa21037849678af57f9865c6b9887f4e339f6377a#code)
 
+<!-- add why? why not?
+- [CEO](https://etherscan.io/address/0xaf1e54b359b0897133f437fc961dd16f20c045e1)
+- [CFO](https://etherscan.io/address/0x2041bb7d8b49f0bde3aa1fa7fb506ac6c539394c)
+- [COO](https://etherscan.io/address/0xa21037849678af57f9865c6b9887f4e339f6377a)
+  -->
 
 
 ### Special Collector's CryptoKitties
