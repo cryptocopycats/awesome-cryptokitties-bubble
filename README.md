@@ -155,7 +155,8 @@ A:
 
 **Q: What's the population? How many gen0 kitties will there be?**
 
-A: 50_000 – Every 15 minutes a new gen0 kitty gets added until reaching a limit of 50_000.
+A: 50_000 – Every 15 minutes a new gen0 kitty gets added (that is, 672 kitties per week) 
+until reaching a limit of 50_000 in one year (end of November 2018).
 
 
 
