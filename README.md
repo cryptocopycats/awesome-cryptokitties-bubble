@@ -1,20 +1,21 @@
 
 The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, CryptoTulips - Latest (and Greatest) Investment Opportunities 
 
-> Blockchain has unlocked the magic of digital scarcity, and combining that with the power of
-> making the digital goods persistent gives them a potential value that is only limited by how much
-> prestige a wealthy person might place on ownership of the item.
->
-> -- [Justin Poirier](https://twitter.com/tokenizedcap/status/938460753589424128)‏
-
 
 > - I'm giving away a Gen 1 FAST Gold for free...
 > - Rarity: 0.00264% Gen 5 JAGUAR FABULOUS GOLD DALI!! VIRGIN! 
 > - Rarity: 0.0015% Princess Bubblegum is now for sale! Gen 12 | Brisk | Virgin | Chartreux | Bubblegum | Otaku | Emeraldgreen | Saycheese | Mauveover | Spock - Starts Ξ20/Ends Ξ10 
-> - Gold ducat , Gen 5 , Virgin , Swift. Very cheap 
+> - Gold ducat, Gen 5, Virgin, Swift. Very cheap 
 > - Selling a lot of GEN1-3 for less than .2 | Fire Sale
 >
 > -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
+
+
+> Blockchain has unlocked the magic of digital scarcity, and combining that with the power of
+> making the digital goods persistent gives them a potential value that is only limited by how much
+> prestige a wealthy person might place on ownership of the item.
+>
+> -- [Justin Poirier](https://twitter.com/tokenizedcap/status/938460753589424128)
 
 
 
