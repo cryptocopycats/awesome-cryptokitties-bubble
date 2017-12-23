@@ -287,7 +287,7 @@ Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
 
-## More CryptoCopycats on the Blockchain!  (Upcoming)
+## More Crypto Copycats on the Blockchain!  (Upcoming)
 
 ### CryptoMons(ters)
 
