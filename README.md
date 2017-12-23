@@ -11,6 +11,7 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > - Selling account with 9 kitties (GEN1 - 2 cats, GEN2 - 5 cats, GEN3 - 2 cats), price = ETH 1.2
 > - Cheap Gen 1 cute kittie with rare genes! Only 0.125 ETH 
 > - UNIQUE Virgin Peach Googly Gold Mauveover gen:2 cooldown:1 0.87992% RARE
+> - SUPER CHEAP: Gerbil, Ragdoll, Scarlet, Chestnut, Cotton Candy!!! 0.02 ETH (~$14)
 >
 > -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
