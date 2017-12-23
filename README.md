@@ -282,9 +282,9 @@ Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
 ## More CryptoCopycats on the Blockchain!
 
-### CryptoMons(ter)
+### CryptoMons(ters)
 
-Collect. Combat. Trade. Digital collectible cards on the blockchain.
+Collect. Combat. Trade. Digital collectible (monster) cards on the blockchain.
 
 > Every CryptoMons(ter) has his own DNA that defines his aspect and stats: 
 > there are no two identical CryptoMons(ter).
@@ -293,8 +293,14 @@ Learn more @ [cryptomons.com](http://cryptomons.com),
 twitter: [cryptomons](https://twitter.com/cryptomons)
 
 
+### CryptoDrome (CryptoHorses)
 
+Collect. Breed. Compete. Raise your own champions.
 
+> We're CryptoHorses, and we were born to compete. Collect and become a champion of the CryptoDrome.
+
+Learn more @ [cryptodrome.co](http://cryptodrome.co), 
+twitter: [cryptodrome](https://twitter.com/cryptodrome)
 
 
 
