@@ -94,16 +94,18 @@ More contract scripts
 
 - [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 - sold for $115 000
 - [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 
+- [Ho Ho Ho - First Santa Claus Kittie](https://www.cryptokitties.co/kitty/275808)  #275808
 
 
 **[Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties)**.
 Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 
-How it works. [Mr. WikiLeaks](https://cryptokitties.co/kitty/301923) and [Mrs. WikiLeaks](https://cryptokitties.co/kitty/363461) 
-are two Generation 0 CryptoKitties. WikiLeaks will keep scarcity by breeding only one kitten per week 
-after the initial Christmas litter of 10 (of which only 8 will be for sale). 
-Kitties can be renamed and resold or gifted by their new owners. Their authenticity can be verified on the blockchain.
-WikiLeaks CryptoKitties will be auctioned at a variety of prices, starting at the highest bidding price which will decrease over the course of the four day auction or until a buyer acquires the kitty.
+> How it works. [Mr. WikiLeaks](https://cryptokitties.co/kitty/301923) and [Mrs. WikiLeaks](https://cryptokitties.co/kitty/363461) 
+> are two Generation 0 CryptoKitties. WikiLeaks will keep scarcity by breeding only one kitten per week 
+> after the initial Christmas litter of 10 (of which only 8 will be for sale). 
+> Kitties can be renamed and resold or gifted by their new owners. Their authenticity can be verified on the blockchain.
+> WikiLeaks CryptoKitties will be auctioned at a variety of prices, starting at the highest bidding price which will decrease over the 
+> course of the four day auction or until a buyer acquires the kitty.
 
 
 
@@ -167,6 +169,11 @@ A:
 * Fees for breeding two kitties together (about $0.50 to $0.60 as of 3rd December 2017).
 * Fees for listing the sale auction to sell your kitties (about $0.20 as of 3rd December 2017).
 * Additional funds in your wallet to allow the transactions to occur.
+
+> We have dropped the birthing fee from 0.015 ETH to 0.008 ETH. Happy breeding everyone!
+> 
+> -- [CryptoKitties](https://twitter.com/CryptoKitties/status/940302318792163328) - Dec/11
+
 
 
 **Q: What's the population? How many gen0 kitties will there be?**
@@ -280,7 +287,7 @@ Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
 
-## More CryptoCopycats on the Blockchain!
+## More CryptoCopycats on the Blockchain!  (Upcoming)
 
 ### CryptoMons(ters)
 
@@ -301,6 +308,18 @@ Collect. Breed. Compete. Raise your own champions.
 
 Learn more @ [cryptodrome.co](http://cryptodrome.co), 
 twitter: [cryptodrome](https://twitter.com/cryptodrome)
+
+
+### CryptoBirdies
+
+Buy. Sell. Breed birds. Hatch eggs.
+
+> CryptoBirdies offers a new blockchain experience.
+> CryptoBirdies is not just for Making Money. We want users to treat their birds as a real pet. 
+> They could Breed, Feed them, and put them in a Open Area where Birds and their owners can interact with each other.
+
+Learn more @
+twitter: [CryptoBirdies](https://twitter.com/CryptoBirdies)
 
 
 
