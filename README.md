@@ -370,9 +370,9 @@ Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
 
-## More Crypto Copycats on the Blockchain!  (Upcoming)
+## More Crypto Copycats on the Blockchain!
 
-### CryptoMons(ters)
+### CryptoMons(ters) on the Blockchain! (Upcoming)
 
 Collect. Combat. Trade. Digital collectible (monster) cards on the blockchain.
 
@@ -383,7 +383,7 @@ Learn more @ [cryptomons.com](http://cryptomons.com),
 twitter: [cryptomons](https://twitter.com/cryptomons)
 
 
-### CryptoDrome (CryptoHorses)
+### CryptoDrome (CryptoHorses) on the Blockchain! (Upcoming)
 
 Collect. Breed. Compete. Raise your own champions.
 
@@ -393,7 +393,7 @@ Learn more @ [cryptodrome.co](http://cryptodrome.co),
 twitter: [cryptodrome](https://twitter.com/cryptodrome)
 
 
-### CryptoBirdies
+### CryptoBirdies on the Blockchain! (Upcoming)
 
 Buy. Sell. Breed birds. Hatch eggs.
 
@@ -405,7 +405,7 @@ Learn more @
 twitter: [CryptoBirdies](https://twitter.com/CryptoBirdies)
 
 
-### CryptoBunnies
+### CryptoBunnies on the Blockchain! (Upcoming)
 
 Learn more @
 twitter: [CryptoBunniesHQ](https://twitter.com/CryptoBunniesHQ),
