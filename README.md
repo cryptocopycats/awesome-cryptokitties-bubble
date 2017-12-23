@@ -320,17 +320,17 @@ See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/)
 or the [Crypto Kitties Wiki](http://cryptokitties.wikia.com/wiki/CryptoKitties_Wiki) for many more questions and answers.
 
 
-#### More Questions and Answers
+#### More Questions & Answers
 
 Ask the [CryptoKitty team anything! @ CryptoKitties Reddit](https://www.reddit.com/r/CryptoKitties/comments/7kowyy/ask_the_cryptokitty_team_anything/) - Dec/14
 
 CryptoKitty Team @ Axiom Zen (Vancouver, Canada) Attending:
-- Arthur Camara / Developer / twitter: [@arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
-- Fabiano Pereira / Smart Contract Developer / twitter: [@FlockonUS](https://twitter.com/FlockonUS), reddit: [flockonus](https://www.reddit.com/u/flockonus)
-- Dieter Shirley / Technical Architect / twitter: [@dete73](https://twitter.com/dete73), reddit: [dete73](https://www.reddit.com/u/dete73)
-- Mack Flavelle / Product / twitter: [@mackflavelle](https://twitter.com/mackflavelle), reddit: [mackflavelle](https://www.reddit.com/u/mackflavelle)
-- Benny Giang / Product / twitter: [@BennyGiang](https://twitter.com/BennyGiang), reddit: [nezmoixa](https://www.reddit.com/u/nezmoixa)
-- Layne LaFrance / Product / twitter: [@laynelafrance](https://twitter.com/laynelafrance), reddit: [laynee77](https://www.reddit.com/u/laynee77)
+- Arthur Camara / Developer / twitter: [arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
+- Fabiano Pereira / Smart Contract Developer / twitter: [FlockonUS](https://twitter.com/FlockonUS), reddit: [flockonus](https://www.reddit.com/u/flockonus)
+- Dieter Shirley / Technical Architect / twitter: [dete73](https://twitter.com/dete73), reddit: [dete73](https://www.reddit.com/u/dete73)
+- Mack Flavelle / Product / twitter: [mackflavelle](https://twitter.com/mackflavelle), reddit: [mackflavelle](https://www.reddit.com/u/mackflavelle)
+- Benny Giang / Product  / twitter: [BennyGiang](https://twitter.com/BennyGiang), reddit: [nezmoixa](https://www.reddit.com/u/nezmoixa)
+- Layne LaFrance / Product / twitter: [laynelafrance](https://twitter.com/laynelafrance), reddit: [laynee77](https://www.reddit.com/u/laynee77)
 
 
 
