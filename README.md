@@ -76,7 +76,7 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 
 
 
-### Code on the Blockchain - Electronic Contracts
+### Code on the Blockchain - Electronic Contract Scripts
 
 [CryptoKittiesCore.sol](CryptoKittiesCore.sol) in Ethereum Solidity -- copied from [Etherscan](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
 
@@ -184,7 +184,7 @@ Source: [CryptoKitties Sales](https://kittysales.co)
 
 ### Articles
 
-_Crypto Kitties marks the beginning of a (massive) digital revolution. To understand why, learn about the blockchain, blockchain, blockchain._
+_CryptoKitties marks the beginning of a (massive) digital revolution. To understand why, learn about the blockchain, blockchain, blockchain._
 
 [**Why we’re not doing an Initial Coin Offering (ICO)**](https://www.axiomzen.co/news/article/why-were-not-doing-an-initial-coin-offering-ico) by Benny Giang (Axiom Zen, Vancouver, Canada), November 2017 
 
