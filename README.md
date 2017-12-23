@@ -360,7 +360,7 @@ Cat names was an awesome way to have personality in the marketplace but unfortun
 there were too many people taking advantage 
 and tricking new users.
 
-> Q: How does having names in the breeding screen trick new users? They're your own cats...
+> Q: How does having names in the breeding screen trick new users? They are your own cats...
 >
 >> I list my gen 15 cat for sale and name it "RARE gen 0 SANTA mom" 
 >> and new people not yet understanding how things work buy it. That was happening ALOT.
@@ -400,7 +400,7 @@ new interactions. And remember: there will only ever be 50,000 gen0 kitties, we 
 _Benny Giang_: There are some interesting ideas around limiting the supply of kitties that we will explore in 2018.
 
 
-**Q: Please let us have a option to recycle / trash worthless kitties in exchange for something**
+**Q: Please let us have an option to recycle / trash worthless kitties in exchange for something.**
 
 _Benny Giang_: Yup, a "kitty sink" could be useful for the market 
 but there are also various of other viable solutions.
