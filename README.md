@@ -109,7 +109,7 @@ For more contract scripts see:
 > 
 > Where users are expected to acquire their gen0 kitten. It is also a marketplace where anyone can post their kitten for auction.
 > [See Dutch/Clock auction](https://en.wikipedia.org/wiki/Dutch_auction) - note we also accept an increasing price.
-> ps: CK auctions take an initial time and duration, and after duration is over they are not closed. 
+> ps: CryptoKitties auctions take an initial time and duration, and after duration is over they are not closed. 
 > Instead they hold the final price indefinitely
 >
 > ##### SiringClockAuction.sol - `0x07ca8a3a1446109468c3cf249abb53578a2bbe40`
