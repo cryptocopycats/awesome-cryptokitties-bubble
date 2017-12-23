@@ -513,7 +513,15 @@ reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
 
 ### CryptoPunks on the Blockchain!
 
-10,000 unique collectible 8-bit characters with proof of ownership stored on the blockchain. Buy, sell and trade CryptoPunks!
+10,000 unique collectible 8-bit characters with proof of ownership stored on the blockchain. 
+
+> What is a CryptoPunk?
+>
+> The CryptoPunks are 24x24 pixel art images, generated algorithmically.
+> Most are punky-looking guys and girls, but there are a few rarer types mixed in:
+> Apes, Zombies and even the odd Alien. 
+
+Buy, sell and trade CryptoPunks!
 
 > - [Punk #1812](https://www.larvalabs.com/cryptopunks/details/1812) offered for 1Ξ ($829.51) -- Male, Earring, Nerd Glasses, Normal Beard, Headband
 > - [Punk #324](https://www.larvalabs.com/cryptopunks/details/324) new bid 0Ξ ($2.49) -- Female, Hot Lipstick, Earring, Blonde Bob 
