@@ -264,6 +264,22 @@ Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
 
+## More CryptoCopycats on the Blockchain!
+
+### CryptoMons(ter)
+
+Collect. Combat. Trade. Digital colleptible cards on the blockchain.
+
+> Every cryptomon(ster) has his own DNA that defines his aspect and stats: 
+> there are no two identical cryptomon(ster).
+
+Learn more @ [cryptomons.com](http://cryptomons.com), 
+twitter: [cryptomons](https://twitter.com/cryptomons)
+
+
+
+
+
 ## Meta
 
 **License**
