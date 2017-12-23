@@ -348,7 +348,7 @@ CryptoKitty Team @ Axiom Zen (Vancouver, Canada) Attending:
 
 **Q: Where do you see CryptoKitties 6 months from now?**
 
-_Arthur Camara_:  
+_Arthur Camara_:
 6 months from now: there'll be tons of new genes, fancy cats, new features that enhance the gameplay. Managing larger collections will be easy and fun. Cats of all prices will be meaningful and we'll find new ways for people to play with their kitties. We want to enhance the meaning of ownership and make it even more fun.
 
   * * *
@@ -369,7 +369,7 @@ and tricking new users.
    
 **Q: We have 365k kitties now and under 196k total sales (kitties traded or sired). 
 That combined with the drop in values suggests that the demand isn't keeping pace with the supply
-[...] causing the market to tank. What do you guys think caused the crash? 
+[...] causing the market to tank. What do you think caused the crash? 
 Are you working on strategies to increase kitty values or do you want the value to stabilize at $1 per cat or so as rumored?**
 
 **Q: Any plans to make the market more sustainable for small investors? 
