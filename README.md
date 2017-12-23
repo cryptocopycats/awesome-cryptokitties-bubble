@@ -513,9 +513,9 @@ reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
 
 ### CryptoPunks on the Blockchain!
 
-10,000 unique collectible 8-bit characters with proof of ownership stored on the blockchain. 
+10 000 unique collectible 8-bit characters with proof of ownership stored on the blockchain. 
 
-> What is a CryptoPunk?
+> Q: What's a CryptoPunk?
 >
 > The CryptoPunks are 24x24 pixel art images, generated algorithmically.
 > Most are punky-looking guys and girls, but there are a few rarer types mixed in:
