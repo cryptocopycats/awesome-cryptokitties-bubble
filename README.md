@@ -324,6 +324,13 @@ Learn more @
 twitter: [CryptoBirdies](https://twitter.com/CryptoBirdies)
 
 
+### CryptoBunnies
+
+Learn more @
+twitter: [CryptoBunniesHQ](https://twitter.com/CryptoBunniesHQ),
+reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
+
+
 
 ## Meta
 
