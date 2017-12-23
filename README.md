@@ -63,6 +63,14 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 >
 > -- [Anshul Dhawan](https://twitter.com/TheAnshulDhawan/status/938551642202324993)
 
+> WikiLeaks now accepts #CryptoKitties as a contribution method. 
+> In many jurisdictions you can write them down for tax purposes as an investment.
+> [Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties) -
+> Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
+>  
+> -- [WikiLeaks](https://twitter.com/wikileaks/status/944209405377101824)
+
+
 
 ### Code on the Blockchain - Electronic Contracts
 
@@ -86,17 +94,23 @@ More contract scripts
 - [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 
 
 
+**[Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties)**.
+Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
+
+How it works. [Mr. WikiLeaks](https://cryptokitties.co/kitty/301923) and [Mrs. WikiLeaks](https://cryptokitties.co/kitty/363461) 
+are two Generation 0 CryptoKitties. WikiLeaks will keep scarcity by breeding only one kitten per week 
+after the initial Christmas litter of 10 (of which only 8 will be for sale). 
+Kitties can be renamed and resold or gifted by their new owners. Their authenticity can be verified on the blockchain.
+WikiLeaks CryptoKitties will be auctioned at a variety of prices, starting at the highest bidding price which will decrease over the course of the four day auction or until a buyer acquires the kitty.
+
+
 
 ### Sales Statistics
 
-Dec/9:
-
-- Total Sales: 97 830
-- Total Unique Kittens Sold: 79 233
-- Total Ether Sold: 25 699.86 ETH
-- Total USD Sold: $12 030 567.96
-- Average Sale Price: $122.97
-- Median Sale Price: $23.15
+|Date    | Total Sales | Total Unique Kittens | Total Sold (ETH) | Total Sold ($) | Average Sale Price | Median Sale Price  |
+|--------|-------------|----------------------|------------------|----------------|--------------------|--------------------|
+| Dec/23 |     220 946 |              174 122 |    35 631.34 ETH | $17 471 050.47 |      $79.07        |  $14.06            |
+| Dec/9  |      97 830 |               79 233 |    25 699.86 ETH | $12 030 567.96 |     $122.97        |  $23.15            |
 
 Source: [CryptoKitties Sales](https://kittysales.co)
 
@@ -268,13 +282,15 @@ Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
 ### CryptoMons(ter)
 
-Collect. Combat. Trade. Digital colleptible cards on the blockchain.
+Collect. Combat. Trade. Digital collectible cards on the blockchain.
 
-> Every cryptomon(ster) has his own DNA that defines his aspect and stats: 
-> there are no two identical cryptomon(ster).
+> Every CryptoMons(ter) has his own DNA that defines his aspect and stats: 
+> there are no two identical CryptoMons(ter).
 
 Learn more @ [cryptomons.com](http://cryptomons.com), 
 twitter: [cryptomons](https://twitter.com/cryptomons)
+
+
 
 
 
