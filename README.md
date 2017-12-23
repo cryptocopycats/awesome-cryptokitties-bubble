@@ -392,11 +392,18 @@ Q1 of 2018 we have plans to stabilize the economy and reduce the volatility - in
 Over time the economy will expand to be truly fun and valuable for high net worth players and new, exploratory players - a bigger, healthier economy creates value for everyone inside it. 
 
 
-_Benny Giang_: There are some interesting ideas around limiting the supply of kitties that we will explore in 2018.
-
 _Arthur Camara_: 
 I believe we're building long term value to CryptoKitties with amazing features that are coming, new ways to play with the kitties, 
 new interactions. And remember: there will only ever be 50,000 gen0 kitties, we are constantly adding features, fancy kitties are constantly being discovered.
+
+
+_Benny Giang_: There are some interesting ideas around limiting the supply of kitties that we will explore in 2018.
+
+
+**Q: Please let us have a option to recycle / trash worthless kitties in exchange for something**
+
+_Benny Giang_: Yup, a "kitty sink" could be useful for the market 
+but there are also various of other viable solutions.
 
 
 **Q: Where do you see CryptoKitties 6 years from now?**
