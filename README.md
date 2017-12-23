@@ -6,9 +6,11 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > - Rarity: 0.00264% Gen 5 JAGUAR FABULOUS GOLD DALI!! VIRGIN! 
 > - Rarity: 0.0015% Princess Bubblegum is now for sale! Gen 12 | Brisk | Virgin | Chartreux | Bubblegum | Otaku | Emeraldgreen | Saycheese | Mauveover | Spock - Starts ETH 20/Ends ETH 10 
 > - Gold ducat, Gen 5, Virgin, Swift. Very cheap 
-> - Selling a lot of GEN1-3 for less than .2 | Fire Sale
-> - Sell ALL my kitties for just ETH 0.5 
+> - Selling a lot of GEN1-3 for less than .2 | Fire Sale 
+> - Selling all kitties for .45 ETH - 9 kitties, quick cooldowns, early generations, rare traits
 > - Selling account with 9 kitties (GEN1 - 2 cats, GEN2 - 5 cats, GEN3 - 2 cats), price = ETH 1.2
+> - Cheap Gen 1 cute kittie with rare genes! Only 0.125 ETH 
+> - UNIQUE Virgin Peach Googly Gold Mauveover gen:2 cooldown:1 0.87992% RARE
 >
 > -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
