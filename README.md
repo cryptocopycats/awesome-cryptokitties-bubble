@@ -232,6 +232,20 @@ _Tech_
 >
 > -- [Chris Dixon](https://twitter.com/cdixon/status/937671322724982784)
 
+
+_legal_
+
+**Q: Do you really own your CryptoKitties?**
+
+> A: Spoiler: No.
+>
+> CryptoKitties are made up of two pieces: the DNA written to the blockchain, and the graphics 
+> assembled to represent each CryptoKitty. Axiom Zen owns the graphics, 
+> and makes it clear you have no rights to those in their Terms of Use.
+>
+> -- [Greg McMullen](https://medium.com/@gmcmullen/do-you-really-own-your-cryptokitties-d2731d3491a9)
+
+
 _Market & Gaming_
 
 
@@ -332,7 +346,64 @@ CryptoKitty Team @ Axiom Zen (Vancouver, Canada) Attending:
 - Benny Giang / Product  / twitter: [BennyGiang](https://twitter.com/BennyGiang), reddit: [nezmoixa](https://www.reddit.com/u/nezmoixa)
 - Layne LaFrance / Product / twitter: [laynelafrance](https://twitter.com/laynelafrance), reddit: [laynee77](https://www.reddit.com/u/laynee77)
 
+**Q: Where do you see CryptoKitties 6 months from now?**
 
+Arthur Camara [#](https://www.reddit.com/r/CryptoKitties/comments/7kowyy/ask_the_cryptokitty_team_anything/drg1aeu/):  
+6 months from now: there'll be tons of new genes, fancy cats, new features that enhance the gameplay. Managing larger collections will be easy and fun. Cats of all prices will be meaningful and we'll find new ways for people to play with their kitties. We want to enhance the meaning of ownership and make it even more fun.
+
+  * * *
+
+**Q: Can you please return the cat names to the breeding screen?**
+
+Benny Giang [#](https://www.reddit.com/r/CryptoKitties/comments/7kowyy/ask_the_cryptokitty_team_anything/drg2mg8/):
+Cat names was an awesome way to have personality in the marketplace but unfortunately, 
+there were too many people taking advantage 
+and tricking new users.
+
+> Q: How does having names in the breeding screen trick new users? They're your own cats...
+>
+>> I list my gen 15 cat for sale and name it "RARE gen 0 SANTA mom" 
+>> and new people not yet understanding how things work buy it. That was happening ALOT.
+
+  * * *
+   
+**Q: We have 365k kitties now and under 196k total sales (kitties traded or sired). 
+That combined with the drop in values suggests that the demand isn't keeping pace with the supply
+[...] causing the market to tank. What do you guys think caused the crash? 
+Are you working on strategies to increase kitty values or do you want the value to stabilize at $1 per cat or so as rumored?**
+
+**Q: Any plans to make the market more sustainable for small investors? 
+Currently, someone who invests only $10 can barely buy two kitties, let alone cover the cost to breed them. 
+To make that worse, the likelihood that they'll be able to sell the offspring is minimal. What's your take?**
+
+**Q: Any modification in plan regarding the mass supply of Gen 0s overcoming the demand?**
+
+Mack Flavelle: To be honest, the market has been unpredictable for users and for us. We don't have any more visibility 
+on what will happen next than any other user.
+
+The market excelled much more quickly than we expected - the Gen 0 pricing is 50% more than the average of the last 5 kitties so it is completely determined by the market not us.
+
+We really do believe that long term the kitties will capture a ton of value for users and fans, 
+but it's important to remember that CryptoKitties is a decentralized game. 
+We have very little control on the economy for good or for bad. 
+
+Q1 of 2018 we have plans to stabilize the economy and reduce the volatility - in the long run we believe the kitties will be valuable.
+
+Over time the economy will expand to be truly fun and valuable for high net worth players and new, exploratory players - a bigger, healthier economy creates value for everyone inside it. 
+
+
+Benny Giang: There are some interesting ideas around limiting the supply of kitties that we will explore in 2018.
+
+Arthur Camara: 
+I believe we're building long term value to CryptoKitties with amazing features that are coming, new ways to play with the kitties, 
+new interactions. And remember: there will only ever be 50,000 gen0 kitties, we are constantly adding features, fancy kitties are constantly being discovered.
+
+
+**Q: Where do you see CryptoKitties 6 years from now?**
+
+Arthur Camara: CryptoKitties will be a global brand (way before that, actually). 
+People will give CryptoKitties to their children 
+on their first birthday. There'll be a complex ecosystem around the game, with lots of features and tools.
 
 
 ### More / Misc
