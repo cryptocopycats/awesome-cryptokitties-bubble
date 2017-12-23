@@ -521,7 +521,7 @@ reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
 > - [Punk #1781](https://www.larvalabs.com/cryptopunks/details/1781) offered for 0.14Ξ ($116.13) -- Male, Normal Beard, Headband
 
 Learn more @ [larvalabs.com/cryptopunks](https://www.larvalabs.com/cryptopunks),
-github (contract scripts sources): [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks)
+github: [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) (contract scripts sources)
 
 
 
