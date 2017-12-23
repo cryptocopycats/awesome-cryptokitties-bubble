@@ -191,7 +191,7 @@ _Crypto Kitties marks the beginning of a (massive) digital revolution. To unders
 > CryptoKitties is not holding an Initial Coin Offering (ICO). 
 > Instead, we're offering utility from day one and pursuing a sustainable revenue model based on our games' mechanics.
 
-[**Cryptokitties @ Wikipedia](https://en.wikipedia.org/wiki/Cryptokitties)
+[**Cryptokitties @ Wikipedia**](https://en.wikipedia.org/wiki/Cryptokitties)
 
 > CryptoKitties offers something similar to a cryptocurrency: each CryptoKitty is one-of-a-kind, 100% owned by the user, validated
 > through the blockchain, and the value can appreciate or depreciate based on the market.
@@ -199,7 +199,7 @@ _Crypto Kitties marks the beginning of a (massive) digital revolution. To unders
 
 
 [**CryptoKitties & Fun-tier Technologies**](https://medium.com/@vijayssundaram/cryptokitties-fun-tier-technologies-8e73903b98fc)
-by Vijay Sundaram (), December 2017
+by Vijay Sundaram, December 2017
 
 > These tokens ought to primarily flow to users and partners who participate in a well-designed economy, 
 > rather than just speculate on it. Almost by definition this approach will pay off even if the crypto tide goes out.
@@ -267,10 +267,24 @@ For example:
 * If a Gen 5 and Gen 5 breed, the kitten will be Gen 6.
 * If a Gen 0 and a Gen 5 breed, the kitten will be Gen 6.
 
-**Cooldown speed.** Each time a kitty breeds, their cooldown moves down to the next level, 
-until it reaches Catatonic cooldown, where it will remain.
+**Cooldowns.**  Each time a kitty breeds another kitty it needs a
+period of cooldown time to recover. The cooldown wait time increases (moves down one level) each time the kitty breeds
+until it reaches "catatonic" cooldown, where it will remain.
+
+
+| Cooldowns  | Time to recover |
+|------------|-----------------|
+| Fast       |              1m |
+| Swift      |         2m - 5m |
+| Snappy     |       10m - 30m |
+| Brisk      |         1h - 2h |
+| Plodding   |         4h - 8h |
+| Slow       |       16h - 24h |
+| Sluggish   |         2d - 4d |
+| Catatonic  |          1 week |
 
 For example a generation 2 kitty will start off with a swift cooldown when born, and a generation 14 will be born with a plodding cooldown.
+
 
 **Traits.** Certain traits are rarer than others, making the Kitty more desirable. 
 As more kitties are bred with these traits and new traits are discovered, the value of each one can change.
