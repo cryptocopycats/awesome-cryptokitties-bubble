@@ -511,6 +511,19 @@ twitter: [CryptoBunniesHQ](https://twitter.com/CryptoBunniesHQ),
 reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
 
 
+### CryptoPunks on the Blockchain!
+
+10,000 unique collectible 8-bit characters with proof of ownership stored on the blockchain. Buy, sell and trade CryptoPunks!
+
+> - [Punk #1812](https://www.larvalabs.com/cryptopunks/details/1812) offered for 1Ξ ($829.51) -- Male, Earring, Nerd Glasses, Normal Beard, Headband
+> - [Punk #324](https://www.larvalabs.com/cryptopunks/details/324) new bid 0Ξ ($2.49) -- Female, Hot Lipstick, Earring, Blonde Bob 
+> - [Punk #323](https://www.larvalabs.com/cryptopunks/details/323) new bid 0Ξ ($0.83) -- Male, Mohawk Dark 
+> - [Punk #1781](https://www.larvalabs.com/cryptopunks/details/1781) offered for 0.14Ξ ($116.13) -- Male, Normal Beard, Headband
+
+Learn more @ [larvalabs.com/cryptopunks](https://www.larvalabs.com/cryptopunks),
+github (contract scripts sources): [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks)
+
+
 
 ## Meta
 
