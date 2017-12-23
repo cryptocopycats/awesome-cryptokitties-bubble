@@ -233,7 +233,7 @@ _Tech_
 > -- [Chris Dixon](https://twitter.com/cdixon/status/937671322724982784)
 
 
-_legal_
+_Legal_
 
 **Q: Do you really own your CryptoKitties?**
 
@@ -246,7 +246,7 @@ _legal_
 > -- [Greg McMullen](https://medium.com/@gmcmullen/do-you-really-own-your-cryptokitties-d2731d3491a9)
 
 
-_Market & Gaming_
+_Market & Gaming / Investing_
 
 
 **Q: What's the cost of playing?**
@@ -348,14 +348,14 @@ CryptoKitty Team @ Axiom Zen (Vancouver, Canada) Attending:
 
 **Q: Where do you see CryptoKitties 6 months from now?**
 
-Arthur Camara [#](https://www.reddit.com/r/CryptoKitties/comments/7kowyy/ask_the_cryptokitty_team_anything/drg1aeu/):  
+_Arthur Camara_:  
 6 months from now: there'll be tons of new genes, fancy cats, new features that enhance the gameplay. Managing larger collections will be easy and fun. Cats of all prices will be meaningful and we'll find new ways for people to play with their kitties. We want to enhance the meaning of ownership and make it even more fun.
 
   * * *
 
 **Q: Can you please return the cat names to the breeding screen?**
 
-Benny Giang [#](https://www.reddit.com/r/CryptoKitties/comments/7kowyy/ask_the_cryptokitty_team_anything/drg2mg8/):
+_Benny Giang_:
 Cat names was an awesome way to have personality in the marketplace but unfortunately, 
 there were too many people taking advantage 
 and tricking new users.
@@ -378,7 +378,7 @@ To make that worse, the likelihood that they'll be able to sell the offspring is
 
 **Q: Any modification in plan regarding the mass supply of Gen 0s overcoming the demand?**
 
-Mack Flavelle: To be honest, the market has been unpredictable for users and for us. We don't have any more visibility 
+_Mack Flavelle_: To be honest, the market has been unpredictable for users and for us. We don't have any more visibility 
 on what will happen next than any other user.
 
 The market excelled much more quickly than we expected - the Gen 0 pricing is 50% more than the average of the last 5 kitties so it is completely determined by the market not us.
@@ -392,18 +392,19 @@ Q1 of 2018 we have plans to stabilize the economy and reduce the volatility - in
 Over time the economy will expand to be truly fun and valuable for high net worth players and new, exploratory players - a bigger, healthier economy creates value for everyone inside it. 
 
 
-Benny Giang: There are some interesting ideas around limiting the supply of kitties that we will explore in 2018.
+_Benny Giang_: There are some interesting ideas around limiting the supply of kitties that we will explore in 2018.
 
-Arthur Camara: 
+_Arthur Camara_: 
 I believe we're building long term value to CryptoKitties with amazing features that are coming, new ways to play with the kitties, 
 new interactions. And remember: there will only ever be 50,000 gen0 kitties, we are constantly adding features, fancy kitties are constantly being discovered.
 
 
 **Q: Where do you see CryptoKitties 6 years from now?**
 
-Arthur Camara: CryptoKitties will be a global brand (way before that, actually). 
+_Arthur Camara_: CryptoKitties will be a global brand (way before that, actually). 
 People will give CryptoKitties to their children 
 on their first birthday. There'll be a complex ecosystem around the game, with lots of features and tools.
+
 
 
 ### More / Misc
