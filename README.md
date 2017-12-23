@@ -67,6 +67,10 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 >
 > -- [Anshul Dhawan](https://twitter.com/TheAnshulDhawan/status/938551642202324993)
 
+> Celebrating 100 000 Kitties!
+>
+> -- [CryptoKitties](https://twitter.com/CryptoKitties/status/938223161232916481) - Dec/5
+
 > WikiLeaks now accepts #CryptoKitties as a contribution method. 
 > In many jurisdictions you can write them down for tax purposes as an investment.
 > [Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties) -
@@ -157,6 +161,7 @@ For more contract scripts see:
 - [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Cattributes: Exclusive Genesis) - sold for $115 000
 - [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Cattributes: Fancy Mistletoe) 
 - [Ho Ho Ho - First Santa Claus Kittie](https://www.cryptokitties.co/kitty/275808)  #275808 (Cattributes: Fancy SantaClaws)
+- [Kitty No. 100 000](https://www.cryptokitties.co/kitty/100000) #100000 - celebrating 100 000 CryptoKitties (on Dec/5)
 
 
 **[Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties)**.
