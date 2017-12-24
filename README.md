@@ -544,17 +544,6 @@ reddit: [CryptoPets](https://www.reddit.com/r/CryptoPets)
 
 
 
-
-### CryptoTulips on the Blockchain!  (Upcoming)
-
-Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! 
-Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
-
-![](i/cryptotulips.png)
-
-Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
-
-
 ### CryptoMons(ters) on the Blockchain! (Upcoming)
 
 Collect. Combat. Trade. Digital collectible (monster) cards on the blockchain.
@@ -620,6 +609,17 @@ Buy, sell and trade CryptoPunks!
 
 Learn more @ [larvalabs.com/cryptopunks](https://www.larvalabs.com/cryptopunks),
 github: [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) (contract script sources)
+
+
+
+### CryptoTulips on the Blockchain!  (Upcoming)
+
+Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! 
+Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
+
+![](i/cryptotulips.png)
+
+Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
 
 ### More
