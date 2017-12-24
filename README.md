@@ -493,7 +493,9 @@ White: common
 
 
 
-## CryptoPuppies (Yes, Cute Little Cartoon Dogs) on the Blockchain! (Upcoming)
+## Crypto Copycats on the Blockchain!
+
+### CryptoPuppies (Yes, Cute Little Cartoon Dogs) on the Blockchain! (Upcoming)
 
 Collectable. Breedable. Adorable. 
 
@@ -508,7 +510,7 @@ Learn more @ [cryptopuppies.org](http://cryptopuppies.org), twitter: [CryptoPupp
 Learn more @ twitter: [Crypto_Puppies](https://twitter.com/Crypto_Puppies)
 
 
-## HashPuppies on the Blockchain! (Upcoming)
+### HashPuppies on the Blockchain! (Upcoming)
 
 ![](i/hashpuppies.png)
 
@@ -518,7 +520,7 @@ reddit: [HashPuppies](https://www.reddit.com/r/HashPuppies)
 
 
 
-## CryptoPets on the Blockchain!  (Upcoming)
+### CryptoPets on the Blockchain!  (Upcoming)
 
 The first five animals to be sold off...
 Please welcome the Dog, Galapagos Turtle, Giant Panda, T-Rex  and Unicorn  
@@ -543,7 +545,7 @@ reddit: [CryptoPets](https://www.reddit.com/r/CryptoPets)
 
 
 
-## CryptoTulips on the Blockchain!  (Upcoming)
+### CryptoTulips on the Blockchain!  (Upcoming)
 
 Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! 
 Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
@@ -552,8 +554,6 @@ Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 
 Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
-
-## More Crypto Copycats on the Blockchain!
 
 ### CryptoMons(ters) on the Blockchain! (Upcoming)
 
