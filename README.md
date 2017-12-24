@@ -497,11 +497,24 @@ White: common
 
 Collectable. Breedable. Adorable. 
 
+![](i/cryptopuppies_i.png)
+
 Learn more @ [cryptopuppies.org](http://cryptopuppies.org), twitter: [CryptoPuppies_](https://twitter.com/CryptoPuppies_)
 
 ---
 
+![](i/cryptopuppies_ii.png)
+
 Learn more @ twitter: [Crypto_Puppies](https://twitter.com/Crypto_Puppies)
+
+
+## HashPuppies on the Blockchain! (Upcoming)
+
+![](i/hashpuppies.png)
+
+Learn more @ [hashpuppi.es](https://hashpuppi.es), 
+twitter: [hash_puppies](https://twitter.com/hash_puppies),
+reddit: [HashPuppies/](https://www.reddit.com/r/HashPuppies)
 
 
 
@@ -520,6 +533,9 @@ as the founding species on CryptoPets!
 > Each species will have variations in specific attributes, 
 > including fur color, eye shape, paw, and feet type, to name a few.
 
+
+![](i/cryptopets.png)
+
 Learn more @ [cryptopets.co](https://cryptopets.co), 
 twitter: [CryptoPets](https://twitter.com/CryptoPets),
 reddit: [CryptoPets](https://www.reddit.com/r/CryptoPets)
@@ -531,6 +547,8 @@ reddit: [CryptoPets](https://www.reddit.com/r/CryptoPets)
 
 Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! 
 Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
+
+![](i/cryptotulips.png)
 
 Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
@@ -544,6 +562,8 @@ Collect. Combat. Trade. Digital collectible (monster) cards on the blockchain.
 > Every CryptoMons(ter) has his own DNA that defines his aspect and stats: 
 > there are no two identical CryptoMons(ter).
 
+![](i/cryptomons.png)
+
 Learn more @ [cryptomons.com](http://cryptomons.com), 
 twitter: [cryptomons](https://twitter.com/cryptomons)
 
@@ -553,6 +573,8 @@ twitter: [cryptomons](https://twitter.com/cryptomons)
 Collect. Breed. Compete. Raise your own champions.
 
 > We're CryptoHorses, and we were born to compete. Collect and become a champion of the CryptoDrome.
+
+![](i/cryptodrome.png)
 
 Learn more @ [cryptodrome.co](http://cryptodrome.co), 
 twitter: [cryptodrome](https://twitter.com/cryptodrome)
@@ -565,6 +587,8 @@ Buy. Sell. Breed birds. Hatch eggs.
 > CryptoBirdies offers a new blockchain experience.
 > CryptoBirdies is not just for Making Money. We want users to treat their birds as a real pet. 
 > They could Breed, Feed them, and put them in a Open Area where Birds and their owners can interact with each other.
+
+![](i/cryptobirdies.png)
 
 Learn more @
 twitter: [CryptoBirdies](https://twitter.com/CryptoBirdies)
@@ -596,6 +620,13 @@ Buy, sell and trade CryptoPunks!
 
 Learn more @ [larvalabs.com/cryptopunks](https://www.larvalabs.com/cryptopunks),
 github: [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) (contract script sources)
+
+
+### More
+
+**CryptoGames on the Blockchain!**
+
+See web: [cryptogamer.net](http://www.cryptogamer.net), twitter: [CryptoGamerNet](https://twitter.com/CryptoGamerNet)
 
 
 
