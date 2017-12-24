@@ -375,7 +375,9 @@ A: Use these website services:
 
 Currently oldlace (81 kitties), wolfgrey (146 kitties), and gerbil (185 kitties) are the three rarest.
 
+![](i/cryptokittydex.png)
 
+(Source: [CryptoKittydex](https://cryptokittydex.com))
 
 See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/) 
 or the [Crypto Kitties Wiki](http://cryptokitties.wikia.com/wiki/CryptoKitties_Wiki) for many more questions and answers.
