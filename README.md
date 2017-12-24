@@ -171,10 +171,20 @@ For more contract scripts see:
 
 ### Special Collector's CryptoKitties
 
-- [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Cattributes: Exclusive Genesis) - sold for $115 000
-- [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Cattributes: Fancy Mistletoe) 
-- [Ho Ho Ho - First Santa Claus Kittie](https://www.cryptokitties.co/kitty/275808)  #275808 (Cattributes: Fancy SantaClaws)
-- [Kitty No. 100 000](https://www.cryptokitties.co/kitty/100000) #100000 - celebrating 100 000 CryptoKitties (on Dec/5)
+![](i/kitty1.png)
+
+[Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Cattributes: Exclusive Genesis) - sold for $115 000
+
+![](i/kitty174756.png)
+
+[First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Cattributes: Fancy Mistletoe) 
+
+![](i/kitty275808.png)
+
+[Ho Ho Ho - First Santa Claus Kittie](https://www.cryptokitties.co/kitty/275808)  #275808 (Cattributes: Fancy SantaClaws)
+
+
+[Kitty No. 100 000](https://www.cryptokitties.co/kitty/100000) #100000 - celebrating 100 000 CryptoKitties (on Dec/5)
 
 
 **[Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties)**.
