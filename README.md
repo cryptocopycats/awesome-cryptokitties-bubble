@@ -193,7 +193,7 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 
 |Date    | Total Sales | Total Unique Kittens | Total Sold (ETH) | Total Sold ($) | Average Sale Price | Median Sale Price  |
 |--------|-------------|----------------------|------------------|----------------|--------------------|--------------------|
-| Dec/24 |     224 779 |              177 064 |    35 778.48 ETH | $17 576 604.36 |      $78.20        |  $13.48            |
+| Dec/24 |     224 735 |              177 043 |    35 776.17 ETH | $17 575 048.39 |      $78.20        |  $12.62            |
 | Dec/9  |      97 830 |               79 233 |    25 699.86 ETH | $12 030 567.96 |     $122.97        |  $23.15            |
 
 
