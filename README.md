@@ -316,6 +316,10 @@ A:
 A: 50_000 – Every 15 minutes a new gen0 kitty gets added (that is, 672 kitties per week) 
 until reaching a limit of 50_000 in one year (end of November 2018).
 
+![](i/cryptokitties-gen.png)
+
+(Source: [Kitty Explorer / Generation Breakdown](http://www.kittyexplorer.com))
+
 
 
 **Q: What make's a kitty good?**
@@ -373,11 +377,25 @@ A: Use these website services:
 - [CryptoKittydex Cattributes](https://cryptokittydex.com/cattributes) 
 - [Kitty Explorer Cattributes](http://www.kittyexplorer.com/kitties/?cattributes=whixtensions)
 
-Currently oldlace (81 kitties), wolfgrey (146 kitties), and gerbil (185 kitties) are the three rarest.
+Currently 
+hintomint (144 kitties), alien (652 kitties),  serpent (900 kitties),  manx (1 082 kitties),  
+hotrod (1 223 kitties), daffodil (1 347 kitties) are the three rarest.
+ 
+<!-- was:
+oldlace (81 kitties), wolfgrey (146 kitties), and gerbil (185 kitties)
+-->
+
+Example:
 
 ![](i/cryptokittydex.png)
 
-(Source: [CryptoKittydex](https://cryptokittydex.com))
+(Source: [CryptoKittydex / Cattributes](https://cryptokittydex.com))
+
+![](i/cryptokitties-cattributes.png)
+
+(Source: [Kitty Explorer / Cattributes](https://cryptokittydex.com))
+
+
 
 See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/) 
 or the [Crypto Kitties Wiki](http://cryptokitties.wikia.com/wiki/CryptoKitties_Wiki) for many more questions and answers.
