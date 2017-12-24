@@ -23,7 +23,7 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > -- [Justin Poirier](https://twitter.com/tokenizedcap/status/938460753589424128)
 
 
-> 3 days of up and 19 days of down down down.. And the 3 up days were right at the start. Yeah, looking real good.
+> 3 days of up and 19 days of down down down... And the 3 up days were right at the start. Yeah, looking real good.
 >
 > Nobody wants to pay $300 for a hexadecimal string. That's LITERALLY all you’re buying.
 > All the website does is display a picture of a cat. You're paying hundreds of dollars for a picture of a cat. 
@@ -196,6 +196,26 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 Source: [CryptoKitties Sales](https://kittysales.co)
 
 
+New Kitties / Day:
+- Highest on Dec/10 -  31 642 New Kitties
+- Lowest  on Nov/27 -   781 New Kitties
+
+![](i/cryptokitties-new-per-day.png)
+
+
+Sales / Day:
+- Highest on Dec/10 - 16 993 Kitties Sold
+
+![](i/cryptokitties-sales-per-day.png)
+
+Average Kitty Price / Day:
+- Highest on Dec/4 - 0.4185 ETH Average / 0.878 ETH Median
+
+![](i/cryptokitties-average-price.png)
+
+
+
+Source: [Kitty Explorer Stats](http://www.kittyexplorer.com/stats/)
 
 ### Articles
 
