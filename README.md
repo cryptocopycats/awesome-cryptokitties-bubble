@@ -512,6 +512,12 @@ Learn more @ twitter: [Crypto_Puppies](https://twitter.com/Crypto_Puppies)
 
 ### HashPuppies on the Blockchain! (Upcoming)
 
+> We want to have a presale first so we can raise funds to hire more devs and artists 
+> and pay for scalable infrastructure, 
+> to have a really great and responsive game. 
+> We are working out the legal aspects of the presale right now, 
+> because there is a lot of uncertainty right now around crowdfunding with cryptocurrency.
+
 ![](i/hashpuppies.png)
 
 Learn more @ [hashpuppi.es](https://hashpuppi.es), 
