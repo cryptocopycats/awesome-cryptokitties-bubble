@@ -30,7 +30,7 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > Let that sink in.
 >
 > This was a modern tulip bubble. You were buying hex strings that tied to the picture of a cat. 
-> People were paying 10-20-30 ETH for a cat picture. 10 ETH was around $4000?. For a cat picture. Yeah...
+> People were paying 10-20-30 ETH for a cat picture. 10 ETH was around $4000? For a cat picture. Yeah...
 >
 > -- [CrypoKitties](https://www.reddit.com/r/CryptoKitties)
 
@@ -193,7 +193,7 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 
 |Date    | Total Sales | Total Unique Kittens | Total Sold (ETH) | Total Sold ($) | Average Sale Price | Median Sale Price  |
 |--------|-------------|----------------------|------------------|----------------|--------------------|--------------------|
-| Dec/23 |     220 946 |              174 122 |    35 631.34 ETH | $17 471 050.47 |      $79.07        |  $14.06            |
+| Dec/24 |     224 779 |              177 064 |    35 778.48 ETH | $17 576 604.36 |      $78.20        |  $13.48            |
 | Dec/9  |      97 830 |               79 233 |    25 699.86 ETH | $12 030 567.96 |     $122.97        |  $23.15            |
 
 
