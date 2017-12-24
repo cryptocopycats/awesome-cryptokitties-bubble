@@ -514,7 +514,7 @@ Learn more @ twitter: [Crypto_Puppies](https://twitter.com/Crypto_Puppies)
 
 Learn more @ [hashpuppi.es](https://hashpuppi.es), 
 twitter: [hash_puppies](https://twitter.com/hash_puppies),
-reddit: [HashPuppies/](https://www.reddit.com/r/HashPuppies)
+reddit: [HashPuppies](https://www.reddit.com/r/HashPuppies)
 
 
 
@@ -624,7 +624,7 @@ github: [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) (contr
 
 ### More
 
-**CryptoGames on the Blockchain!**
+**CryptoGames on the Blockchain! News**
 
 See web: [cryptogamer.net](http://www.cryptogamer.net), twitter: [CryptoGamerNet](https://twitter.com/CryptoGamerNet)
 
