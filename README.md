@@ -228,9 +228,9 @@ def mixGenes(mGenes[48], sGenes[48], babyGenes[48]):
 
 ![](i/kitty1.png)
 
-Genes (kai) `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
-
 [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Cattributes: Exclusive Genesis) - sold for $115 000
+
+Genes `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
 
 ``` json
 {"id": 1, "name": "Genesis", "generation":0,
@@ -254,10 +254,10 @@ Genes (kai) `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
 (Source: [api.cryptokitties.co/kitties/1](https://api.cryptokitties.co/kitties/1))
 
 ![](i/kitty174756.png)
-
-Genes (kai) `cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea`
  
 [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Cattributes: Fancy Mistletoe) 
+
+Genes `cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea`
 
 ``` json
 {"id":174756, "name":"👑FIRST Mistletoe born!🎄⛄🎅🎁", "generation":8,
