@@ -176,7 +176,7 @@ For more contract scripts see:
 [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Cattributes: Exclusive Genesis) - sold for $115 000
 
 ``` json
-{"id":1,"name":"Genesis","generation":0,
+{"id": 1, "name": "Genesis", "generation":0,
  "created_at":"2017-11-23T06:19:59.000Z",
  "image_url":"https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/1.png",
  "color":"sizzurp",
@@ -199,6 +199,32 @@ For more contract scripts see:
 ![](i/kitty174756.png)
 
 [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Cattributes: Fancy Mistletoe) 
+
+``` json
+{"id":174756, "name":"👑FIRST Mistletoe born!🎄⛄🎅🎁", "generation":8,
+ "created_at":"2017-12-09T06:34:56.000Z",
+ "image_url":"https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/174756.png",
+ "color":"bubblegum",
+ "bio":"Heyo! I'm 👑FIRST Mistletoe born!🎄⛄🎅🎁. All you need to know about me is I hate chocolate with a passion. Some people say I'm the Peter Griffin of the group. This will be an amewsing friendship.",
+ "is_fancy":true,
+ "is_exclusive":false,
+ "fancy_type":"Mistletoe",
+ "status":{"is_ready":true,"is_gestating":false,"cooldown":1513646373784,"cooldown_index":10},
+ "purrs":{"count":2},
+ "auction":{"id":343464, "type":"sale",
+   "start_price":"10500000000000000000","end_price":"10000000000000000000",
+   "start_time":"1513922541000","end_time":"1514095341000",
+   "current_price":"10000000000000000000","duration":"172800000","status":"open",
+   "seller":{"address":"0x9037382b938117d4a147f460c0a313bd9b793c22","nickname":"earthtraveler","image":"3"}},
+ "owner":{"address":"0xb1690c08e213a35ed9bab7b318de14420fb57d8c","image":"16","nickname":"CK Auction Contract 🌻"},
+ "matron":{"id":172555,"name":"Oldlace+Gerbil+Gold","generation":7,"owner_wallet_address":"0x2829f8689dc90a60b1d011af2dfb0cf859bd4c48","created_at":"2017-12-09T04:57:44.000Z","image_url":"...","color":"gold","is_fancy":false,"is_exclusive":false,"fancy_type":null,"status":{"is_ready":true,"is_gestating":false,"cooldown":1512905129457}},
+ "sire":{"id":169197,"name":"Yay!","generation":6,"owner_wallet_address":"0x2829f8689dc90a60b1d011af2dfb0cf859bd4c48","created_at":"2017-12-09T02:08:19.000Z","image_url":"...","color":"gold","is_fancy":false,"is_exclusive":false,"fancy_type":null,"status":{"is_ready":true,"is_gestating":false,"cooldown":1512901074755}},
+ "children":["..."],
+ "cattributes":[]}
+```
+
+(Source: [api.cryptokitties.co/kitties/174756](https://api.cryptokitties.co/kitties/174756))
+
 
 ![](i/kitty275808.png)
 
