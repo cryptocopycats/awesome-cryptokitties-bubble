@@ -260,6 +260,37 @@ For more contract scripts see:
 [Kitty No. 100 000](https://www.cryptokitties.co/kitty/100000) #100000 - celebrating 100 000 CryptoKitties (on Dec/5)
 
 
+``` json
+{"id":100000,"name":"A X","generation":7,
+ "created_at":"2017-12-06T01:30:46.000Z",
+ "image_url":"https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/100000.svg",
+ "color":"strawberry",
+ "bio":"Ugh! I'm A X. I believe that one day cats will rule this planet. I put marmalade on everything. Like, everything: hot dogs, ice cream—everything! Let's pawty!",
+ "is_fancy":false,
+ "is_exclusive":false,
+ "fancy_type":null,
+ "status":{"is_ready":true,"is_gestating":false,"cooldown":1512535624262,"cooldown_index":5},
+ "purrs":{"count":2},"
+ auction":{},
+ "owner":{"address":"0x38910a53f9fa365a59b804ed707942fe8d9d127d","image":"3","nickname":"Poppy"},
+ "matron":{"id":88446,"name":"A3B3-1","generation":6,"owner_wallet_address":"0x959cfe31806d07207116e82b5796e91bb739eab0","created_at":"2017-12-05T13:47:59.000Z","image_url":"...","color":"strawberry","is_fancy":false,"is_exclusive":false,"fancy_type":null,"status":{"is_ready":true,"is_gestating":false,"cooldown":1512541490934}},
+ "sire":{"id":97722,"name":"A4B4-1","generation":6,"owner_wallet_address":"0x959cfe31806d07207116e82b5796e91bb739eab0","created_at":"2017-12-05T23:46:57.000Z","image_url":"...","color":"mintgreen","is_fancy":false,"is_exclusive":false,"fancy_type":null,"status":{"is_ready":true,"is_gestating":false,"cooldown":1512537865020}},
+ "children":["..."],
+ "cattributes":[
+  {"description":"lemonade","type":"color"},
+  {"description":"bloodred","type":"color"},
+  {"description":"munchkin","type":"body"},
+  {"description":"greymatter","type":"colorbody"},
+  {"description":"strawberry","type":"coloreyes"},
+  {"description":"crazy","type":"eyes"},
+  {"description":"luckystripe","type":"pattern"},
+  {"description":"soserious","type":"mouth"}]}
+```
+
+(Source: [api.cryptokitties.co/kitties/100000](https://api.cryptokitties.co/kitties/100000))
+
+
+
 **[Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties)**.
 Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 
