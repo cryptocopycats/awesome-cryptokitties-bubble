@@ -230,6 +230,32 @@ For more contract scripts see:
 
 [Ho Ho Ho - First Santa Claus Kittie](https://www.cryptokitties.co/kitty/275808)  #275808 (Cattributes: Fancy SantaClaws)
 
+``` json
+{"id":275808,"name":"the First SantaClaws! 🎅","generation":6,
+ "created_at":"2017-12-12T19:02:00.000Z",
+ "image_url":"https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/275808.png",
+ "color":"limegreen",
+ "bio":"Ciao! I'm the First SantaClaws! 🎅. My friends describe me as raunchy and annoying. When I'm not summoning ghosts, I'm volunteering at the local kitten rescue shelter! I hope you like kitten around as much as I do!",
+ "is_fancy":true,
+ "is_exclusive":false,
+ "fancy_type":"SantaClaws",
+ "status":{"is_ready":true,"is_gestating":false,"cooldown":1513108763494,"cooldown_index":4},
+ "purrs":{"count":2},
+ "auction":{"id":585047,"type":"sale",
+   "start_price":"7500000000000000000","end_price":"7500000000000000000",
+   "start_time":"1514164770000","end_time":"1514251170000",
+   "current_price":"7500000000000000000","duration":"86400000","status":"open",
+   "seller":{"address":"0xd28dfb56343774a4b461aa6722870b11ef2abf58","nickname":"kjkjh;kj","image":"17"}},
+ "owner":{"address":"0xb1690c08e213a35ed9bab7b318de14420fb57d8c","image":"16","nickname":"CK Auction Contract 🌻"},
+ "matron":{"id":261160,"name":"ow+ó!","generation":5,"owner_wallet_address":"0x2f9bfadb9b39e24e6db89e176f7a1d99d6ed9aa8","created_at":"2017-12-12T04:42:09.000Z","image_url":"...","color":"limegreen","is_fancy":false,"is_exclusive":false,"fancy_type":null,"status":{"is_ready":true,"is_gestating":false,"cooldown":1513210822602}},
+ "sire":{"id":235050,"name":"Rare Kitty Kawai!","generation":5,"owner_wallet_address":"0x2f9bfadb9b39e24e6db89e176f7a1d99d6ed9aa8","created_at":"2017-12-11T05:39:27.000Z","image_url":"...","color":"gold","is_fancy":false,"is_exclusive":false,"fancy_type":null,"status":{"is_ready":true,"is_gestating":false,"cooldown":1513236004508}},
+ "children":["..."],
+ "cattributes":[]}
+```
+
+(Source: [api.cryptokitties.co/kitties/275808](https://api.cryptokitties.co/kitties/275808))
+
+
 
 [Kitty No. 100 000](https://www.cryptokitties.co/kitty/100000) #100000 - celebrating 100 000 CryptoKitties (on Dec/5)
 
