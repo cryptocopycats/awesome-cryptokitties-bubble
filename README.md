@@ -167,11 +167,68 @@ For more contract scripts see:
 > -- [Basics of CryptoKitties](https://github.com/axiomzen/cryptokitties-bounty/blob/master/CryptoKitty%20Basics.md)
 
 
+### Inside CryptoKitties Genetics
+
+_cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea_
+
+
+[**The CryptoKitties Genome Project**](https://medium.com/@kaigani/the-cryptokitties-genome-project-68582016f687) by Kai, Dec 19 
+
+> Here's what I've found:
+> - Genes are stored in 12 blocks of 4x5-bit codes
+> - Each 5-bit code represents a cattribute associated with the position in the gene (body, pattern type, eye color, eye type, primary color, pattern color, secondary color, fancy type, mouth)
+> - Each block of 4 codes represents 1 dominant trait expressed in the Kitty followed by 3 recessive traits.
+> - Codes are passed from either parent to child, with a low probability of swapping from the 1st recessive, and a lower probability of swapping from the 2nd or 3rd recessive.
+> [...]
+
+
+[**CryptoKitties mixGenes Function**](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80) by Sean Soria, Dec 22
+
+> The mixGenes function gets called when you breed two cats. This is how the baby’s genes are calculated. [...]
+> Here’s the pseudocode to start:
+
+```
+def mixGenes(mGenes[48], sGenes[48], babyGenes[48]):
+  # PARENT GENE SWAPPING
+  for (i = 0; i < 12; i++):
+    index = 4 * i
+    for (j = 3; j > 0; j--):
+      if random() < 0.25:
+        swap(mGenes, index+j, index+j-1)
+      if random() < 0.25:
+        swap(sGenes, index+j, index+j-1)
+  # BABY GENES
+  for (i = 0; i < 48; i++):
+    mutation = 0
+    # CHECK MUTATION
+    if i % 4 == 0:
+      gene1 = mGene[i]
+      gene2 = sGene[i]
+      if gene1 > gene2:
+        gene1, gene2 = gene2, gene1
+      if (gene2 - gene1) == 1 and iseven(gene1):
+        probability = 0.25
+        if gene1 > 23:
+          probability /= 2
+        if random() < probability:
+          mutation = (gene1 / 2) + 16
+    # GIVE BABY GENES
+    if mutation:
+      baby[i] = mutation
+    else:
+      if random() < 0.5:
+        babyGenes[i] = mGene[i]
+      else:
+        babyGenes[i] = sGene[i]
+```
+
 
 
 ### Special Collector's CryptoKitties
 
 ![](i/kitty1.png)
+
+Genes (kai) `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
 
 [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Cattributes: Exclusive Genesis) - sold for $115 000
 
@@ -198,6 +255,8 @@ For more contract scripts see:
 
 ![](i/kitty174756.png)
 
+Genes (kai) `cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea`
+ 
 [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Cattributes: Fancy Mistletoe) 
 
 ``` json
