@@ -175,6 +175,27 @@ For more contract scripts see:
 
 [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Cattributes: Exclusive Genesis) - sold for $115 000
 
+``` json
+{"id":1,"name":"Genesis","generation":0,
+ "created_at":"2017-11-23T06:19:59.000Z",
+ "image_url":"https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/1.png",
+ "color":"sizzurp",
+ "bio":"Greetings, human. I am Genesis. The dogs know me as alpha; the cats know me as omega. To your kind, I am a riddle wrapped in an enigma, first found by a user in Mystery, Alaska. I looked into the void and the void looked back. Then I lost interest. I can’t wait to be your new owner!",
+ "is_fancy":true,
+ "is_exclusive":true,
+ "fancy_type":"Genesis",
+ "status":{"is_ready":true,"is_gestating":false,"cooldown":1442286378458,"cooldown_index":0},
+ "purrs":{"count":286},
+ "auction":{},
+ "owner":{"address":"0x79bd592415ff6c91cfe69a7f9cd091354fc65a18","image":"19","nickname":"Stimpson J. Cat"},
+ "matron":{},
+ "sire":{},
+ "children":[],
+ "cattributes":[]}
+```
+
+(Source: [api.cryptokitties.co/kitties/1](https://api.cryptokitties.co/kitties/1))
+
 ![](i/kitty174756.png)
 
 [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Cattributes: Fancy Mistletoe) 
