@@ -228,7 +228,7 @@ def mixGenes(mGenes[48], sGenes[48], babyGenes[48]):
 
 ![](i/kitty1.png)
 
-[Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Exclusive Genesis) - Sold for 246.926 ETH (~$115 000) on Dec 2  
+[Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Exclusive Genesis) - Sold for 246.926 ETH (~$115 000) on Dec/2  
 
 Genes `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
 
@@ -255,7 +255,7 @@ Genes `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
 
 ![](i/kitty174756.png)
  
-[First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Fancy Mistletoe) 
+[First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Fancy Mistletoe) - Sold for 2.097 ETH	on Dec/10
 
 Genes `cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea`
 
@@ -287,7 +287,7 @@ Genes `cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea`
 
 ![](i/kitty275808.png)
 
-[Ho Ho Ho - First Santa Claus Kittie](https://www.cryptokitties.co/kitty/275808)  #275808 (Fancy SantaClaws)
+[Ho Ho Ho - First Santa Claus Kittie](https://www.cryptokitties.co/kitty/275808)  #275808 (Fancy SantaClaws) - Sold for 7.258 ETH on	Dec/13
 
 ``` json
 {"id":275808,"name":"the First SantaClaws! 🎅","generation":6,
@@ -315,9 +315,9 @@ Genes `cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea`
 (Source: [api.cryptokitties.co/kitties/275808](https://api.cryptokitties.co/kitties/275808))
 
 
+Celebrating 100 000 CryptoKitties on Dec/6
 
-[Kitty No. 100 000](https://www.cryptokitties.co/kitty/100000) #100000 - celebrating 100 000 CryptoKitties (on Dec/5)
-
+[Kitty No. 100 000](https://www.cryptokitties.co/kitty/100000) #100000 - Sold for 0.052 ETH on Dec/6
 
 ``` json
 {"id":100000,"name":"A X","generation":7,
