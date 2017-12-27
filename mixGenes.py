@@ -2,7 +2,7 @@
 # CryptoKitties GeneScience algorithm by Alex Hegyi, Dec 23
 #   see https://medium.com/@alexhegyi/cryptokitties-genescience-1f5b41963b0d
 #
-# > M winter holiday thus far has consisted of staring at disassembled Ethereum bytecode 
+# > My winter holiday thus far has consisted of staring at disassembled bytecode 
 # > until I had everything figured out:
 #
 # Source:
@@ -168,8 +168,8 @@ for cnt in range(0x30):
 print(hex(outs))
 print(hex(outs2))
 
-#=> 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
-#=> 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
+# => 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
+# => 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
 
 
 
