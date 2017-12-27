@@ -92,6 +92,34 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 > -- [WikiLeaks](https://twitter.com/wikileaks/status/944209405377101824)
 
 
+### Press Coverage
+
+- [**People have spent over $1M buying virtual cats on the Ethereum blockchain**](https://techcrunch.com/2017/12/03/people-have-spent-over-1m-buying-virtual-cats-on-the-ethereum-blockchain/), TechCrunch. Dec/3
+- [**CryptoKitties Mania Overwhelms Ethereum Network's Processing**](https://www.bloomberg.com/news/articles/2017-12-04/cryptokitties-quickly-becomes-most-widely-used-ethereum-app), Bloomberg, Dec/4
+- [**Meet CryptoKitties, the $100,000 digital beanie babies epitomizing the cryptocurrency mania**](https://www.cnbc.com/2017/12/06/meet-cryptokitties-the-new-digital-beanie-babies-selling-for-100k.html), CNBC, Dec/6
+
+
+### Timeline
+
+_CryptoKitties History_ 
+
+- 2017 Oct/19 - Test version of CryptoKitties unveiled at ETH Waterloo (in Ontario, Canada) - an Ethereum hackathon.
+- 2017 Dec/2  - Highest selling cat was sold for 246.9255 ETH (~$117,712 USD).
+- 2017 Dec/6  - Celebrating 100 000 CryptoKitties  <!-- check date? add tweet -->
+- 2017 Dec/21  - WikiLeaks Accepts (Sells) CryptoKittes for Donations  <!-- check date? add tweet  -->
+
+
+_More (Minor) Milestones_
+
+<!-- break 
+     move to traits? -->
+
+- 2017 Dec/20  - New Trait - Serpent (eye type)
+- 2017 Dec/20  - New Trait - Alien (eye type)
+- 2017 Dec/22  - New Trait - Hintomint (body color)
+- 2017 Dec/22-24 - Winter CryptoKitties Giveaway Contest
+
+
 
 ### Code on the Blockchain - Electronic Contract Scripts
 
