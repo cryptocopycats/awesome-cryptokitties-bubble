@@ -103,10 +103,27 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 
 _CryptoKitties History_ 
 
-- 2017 Oct/19 - Test version of CryptoKitties unveiled at ETH Waterloo (in Ontario, Canada) - an Ethereum hackathon.
-- 2017 Dec/2  - Highest selling cat was sold for 246.9255 ETH (~$117,712 USD).
+
+- 2017 Oct/19 - CryptoKitties alpha test starts at ETH Waterloo (in Ontario, Canada) - an Ethereum hackathon; hundreds of users bred thousands of cats
+- 2017 Nov/22 - CryptoKitties contract scripts uploaded onto the public Ethereum blockchain
+- 2017 Nov/23 - CryptoKitties closed beta starts; one of the top three most active Ethereum contracts within three hours
+- 2017 Nov/28 - CryptoKitties it's official; open to the public - let's wecome everyon to collect, buy, sell, and breed digital cartoon cats on the blockchain
+- 2017 Dec/2  - Highest selling cat - Kitty #1 (Gen 0, Genesis Exclusive) - sold for Ξ 246.9255 ETH (~$114_481.59) 
+- 2017 Dec/5  - ~60k registered users; over $5M USD in transactions; CryptoKitties accounts for ~25% of world-wide Ethereum traffic
 - 2017 Dec/6  - Celebrating 100 000 CryptoKitties  <!-- check date? add tweet -->
+- 2017 Dec/6  - Highest selling cat - Kitty #4 (Gen 0) - sold for Ξ 247.0000 ETH (~$107_816.49)
+- 2017 Dec/7  - Highest selling cat - Kitty #18 (Gen 0) - sold for Ξ 253.3368 ETH (~$110_707.16)
+- 2017 Dec/10 - Celebrating 200_000 CryptoKitties
+- 2017 Dece/12 - 150k+ registered users; $15M USD in transactions
+- 2017 Dec/14 - Celebrating 300_000 CryptoKitties
 - 2017 Dec/21  - WikiLeaks Accepts (Sells) CryptoKittes for Donations  <!-- check date? add tweet  -->
+- 2017 Dec/24 - Celebrating 400_000 CryptoKitties
+
+_Upcoming (Planed) Milestones_
+
+- Spring 2018  - The CryptoKitties mobile app starts
+- Early 2018   - CryptoKitties plans to accept dollars, euros and yen or credit cards as soon as possible.
+- November 2018 - The last of the 50_000 Gen 0 CryptoKitties auctioned off to the public; CryptoKitties can now only grow by breeding.
 
 
 _More (Minor) Milestones_
