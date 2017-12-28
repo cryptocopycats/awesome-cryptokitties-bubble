@@ -359,6 +359,11 @@ and genotypes (what you don't see).
 > - Codes are passed from either parent to child, with a low probability of swapping from the 1st recessive, and a lower probability of swapping from the 2nd or 3rd recessive.
 > [...]
 
+![](i/cryptokittydex-kaittributes.png)
+
+(Source: [CryptoKittydex, Kaittributes](https://cryptokittydex.com/kaittributes))
+
+
 
 [**CryptoKitties mixGenes Function**](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80) by Sean Soria, Dec 22
 
