@@ -155,9 +155,16 @@ _More (Minor) Milestones_
 
 ### Owners / Producers
 
-**Axiom Zen** (web: [axiomzen.co](https://www.axiomzen.co), twitter: [axiomzenteam](https://twitter.com/axiomzenteam), github: [axiomzen](https://github.com/axiomzen)) in Vancouver, Canada 
+**Axiom Zen** (web: [axiomzen.co](https://www.axiomzen.co), twitter: [axiomzenteam](https://twitter.com/axiomzenteam), github: [axiomzen](https://github.com/axiomzen))
 
-> a venture studio working at the cutting edge of emerging tech to build and scale future-facing companies
+Founded in 2013. Headquarters in Vancouver, British Columbia (BC), Canada.
+
+> Axiom Zen is a venture studio. We specialize in new venture creation - building products and companies
+> at the cutting edge of technology.
+>
+> Our team of fifty founder-quality engineers, product leads, and designers combine a wealth of experience from fast-growing startups
+> and companies.
+
 
 #### Team
 
@@ -169,18 +176,29 @@ _Meet the CryptoKitties Makers_
 (Source: [CryptoKittes For Press / Team](https://www.cryptokitties.co/press))
 
 
-CryptoKitty Team (*):
+CryptoKitty Team :
 
-- **Arthur Camara** / Developer / twitter: [arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
-- **Fabiano Pereira** / Smart Contract Developer / twitter: [FlockonUS](https://twitter.com/FlockonUS), reddit: [flockonus](https://www.reddit.com/u/flockonus)
-- **Dieter Shirley** / Technical Architect / twitter: [dete73](https://twitter.com/dete73), reddit: [dete73](https://www.reddit.com/u/dete73), github: [dete](https://github.com/dete)
-- **Mack Flavelle** / Product / twitter: [mackflavelle](https://twitter.com/mackflavelle), reddit: [mackflavelle](https://www.reddit.com/u/mackflavelle)
-- **Benny Giang** / Product  / twitter: [BennyGiang](https://twitter.com/BennyGiang), reddit: [nezmoixa](https://www.reddit.com/u/nezmoixa)
-- **Layne LaFrance** / Product / twitter: [laynelafrance](https://twitter.com/laynelafrance), reddit: [laynee77](https://www.reddit.com/u/laynee77)
+- **Arthur Camara** (*) / Product and Development / twitter: [arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
+- **Fabiano Pereira** (*) / Blockchain Contract Scripter / twitter: [FlockonUS](https://twitter.com/FlockonUS), reddit: [flockonus](https://www.reddit.com/u/flockonus)
+- **Dieter Shirley**  (*)/ Director of Blockchain / twitter: [dete73](https://twitter.com/dete73), reddit: [dete73](https://www.reddit.com/u/dete73), github: [dete](https://github.com/dete)
+- **Mack Flavelle**  (*) / Product / twitter: [mackflavelle](https://twitter.com/mackflavelle), reddit: [mackflavelle](https://www.reddit.com/u/mackflavelle)
+- **Benny Giang** (*) / Community  / twitter: [BennyGiang](https://twitter.com/BennyGiang), reddit: [nezmoixa](https://www.reddit.com/u/nezmoixa)
+- **Layne LaFrance** (*) / Business and Support / twitter: [laynelafrance](https://twitter.com/laynelafrance), reddit: [laynee77](https://www.reddit.com/u/laynee77)
+- **Yasmine Nadery** / Marketing
+- **Elsa Wilk** / Marketing
+- **Bryce Bladon** / Brand and Communications
+- **David Huynh** / Design
+- **Vivian Hu**  / Design
+- **Guile Twardowski** / Art and design
+- **Daniela Diaz** / Product
+- **Nick Salloum** / Development
+- **Maximiliano Castro** / Development
+- **Jordan Schalm** / Development
+- **Fabio Kenji** / Development
+- **Fabiano Soriani** / Development
+- **Andrew Burian** / Operations
 
 (*): from the Ask the Team Anything on CryptoKitties Reddit
-
-
 
 
 
