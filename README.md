@@ -326,6 +326,7 @@ Celebrating 100 000 CryptoKitties on Dec/6
 (Source: [api.cryptokitties.co/kitties/100000](https://api.cryptokitties.co/kitties/100000))
 
 
+![](i/cryptokitties-wikileaks.png)
 
 **[Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties)**.
 Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
