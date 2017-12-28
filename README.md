@@ -201,385 +201,6 @@ CryptoKitty Team :
 (*): from the Ask the Team Anything on CryptoKitties Reddit
 
 
-
-### Code on the Blockchain - Electronic Contract Scripts
-
-
-#### Contract Structure
-
-> The day-one functionality of the contract scripts includes:
->                
-> - Keep track of the genes of upcoming gen0 CryptoKitties
-> - Introducing the genes of gen0 CryptoKitties to the Core Contract
-> - Launching the auctions for gen0 CryptoKitties (including price determination)
-> - Combining the genotypes of two parent CryptoKitties to determine the genotype of the new CryptoKitten
-> - Managing the auctions of CryptoKitties (both gen-0 cats being auctioned to users and user-to-user auctions) and siring tokens
-> - Managing siring auctions (including initiating the breeding when successful).
->
->  All functionality for breeding, buying, selling, and transferring cats 
-> will be possible for any user by interacting directly with the contracts on the blockchain.
-> Any auctions or sales conducted through our auction contract 
-> will include a 3.75% commission (no minimum) taken from the seller's portion.
-
-(Source: [CryptoKitties Technical Details / Contract Structure](https://www.cryptokitties.co/Technical-details))
-
-
-#### Contract Script (Public) Source Code
-
-[CryptoKittiesCore.sol](CryptoKittiesCore.sol) in Ethereum Solidity -- copied from [Etherscan](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
-
-More contract scripts
-
-- [Sale auction](https://etherscan.io/address/0xb1690c08e213a35ed9bab7b318de14420fb57d8c#code)
-- [Siring auction](https://etherscan.io/address/0xc7af99fe5513eb6710e6d5f44f9989da40f27f26#code)
-
-<!-- add why? why not?
-- [CEO](https://etherscan.io/address/0xaf1e54b359b0897133f437fc961dd16f20c045e1)
-- [CFO](https://etherscan.io/address/0x2041bb7d8b49f0bde3aa1fa7fb506ac6c539394c)
-- [COO](https://etherscan.io/address/0xa21037849678af57f9865c6b9887f4e339f6377a)
-  -->
-
-
-#### Non-fungible Token (NFT) Standard - Ethereum Request for Comments #721 (ERC-721)
-
-_CryptoKitties provides a practical use case for digital scarcity 
-and digital collectibles by pioneering ERC-721, a non-fungible token protocol_
-
-
-A standard interface allows any Non-fungible Token (NFTs) on Ethereum 
-to be handled by general-purpose applications. 
-In particular, it will allow for Non-fungible Token (NFTs) 
-to be tracked in standardized wallets and traded on exchanges.
-
-
-Compatibility Functions for Ethereum Request for Comments #20 (ERC-20)
-
-- function **name**() constant returns (string name)
-- function **symbol**() constant returns (string symbol)
-- function **totalSupply**() constant returns (uint256 totalSupply)
-- function **balanceOf**(address _owner) constant returns (uint256 balance)
-
-Basic Ownership Functions
-
-- function **ownerOf**(uint256 _tokenId) constant returns (address owner)
-- function **approve**(address _to, uint256 _tokenId)
-- function **takeOwnership**(uint256 _tokenId)
-- function **transfer**(address _to, uint256 _tokenId)
-- function **tokenOfOwnerByIndex**(address _owner, uint256 _index) constant returns (uint tokenId)
-
-Metadata Functions
-
-- function **tokenMetadata**(uint256 _tokenId) constant returns (string infoUrl)
-
-Events
-
-- event **Transfer**(address indexed _from, address indexed _to, uint256 _tokenId)
-- event **Approval**(address indexed _owner, address indexed _approved, uint256 _tokenId) 
-
-
-(Source: [Ethereum, Non-fungible Token (NFT) Standard #721](https://github.com/ethereum/EIPs/issues/721))
-
-
-#### More About Contract Scripts
-
-For more contract scripts see:
-
-**The CryptoKitty Bounty Program** (github: [axiomzen/cryptokitties-bounty](https://github.com/axiomzen/cryptokitties-bounty)) 
-
-> CryptoKitties is composed of 4 public facing contracts. Below we'll provide an overview on these contracts:
->
-> ##### KittyCore.sol - `0x16baf0de678e52367adc69fd067e5edd1d33e3bf`
->
-> Also referred as the main contract, is where Kitties and their ownership are stored.
-> This also mediates all the main operations, such as breeding, exchange, and part of auctions.
-> 
-> For this release, the actual bytecode released for the contract is `KittyCoreRinkeby.sol`, explained below.
-> 
-> ##### SaleClockAuction.sol - `0x8a316edee51b65e1627c801dbc09aa413c8f97c2`
-> 
-> Where users are expected to acquire their gen0 kitten. It is also a marketplace where anyone can post their kitten for auction.
-> [See Dutch/Clock auction](https://en.wikipedia.org/wiki/Dutch_auction) - note we also accept an increasing price.
-> ps: CryptoKitties auctions take an initial time and duration, and after duration is over they are not closed. 
-> Instead they hold the final price indefinitely
->
-> ##### SiringClockAuction.sol - `0x07ca8a3a1446109468c3cf249abb53578a2bbe40`
->
-> A marketplace where any user can offer their Kitty as a potential sire for any takers.
->
-> ##### GeneScience.sol
->
-> It's a mystery! Not public for this release.
->
->
-> [...]
->
-> ### Common functions
->
-> Here's what we expect to be the most usual flow, and what function are to be called.
->
-> 1. COO will periodically put a kitten to gen0 auction (Main `createGen0Auction()`)
-> 1. user go an buy gen0 kittens (Sale Auction `bid()`)
-> 1. user can get kitty data (Main `getKitty()`)
-> 1. user can breed their own kittens (Main `breedWith()` or `breedWithAuto()`)
-> 1. after cooldown is passed, any user can have a pregnant kitty giving birth (Main `giveBirth()`)
-> 1. user can offer one of their kitties as sire via auction (Main `createSiringAuction()`)
-> 1. user can offer their kitty as sire to another user (Main `approveSiring()`)
-> 1. user can bid on an active siring auction (Main `createSiringAuction()`)
-> 1. user can put their kitty for sale on auction (Main `createSaleAuction()`)
-> 1. user can buy a kitty that is on auction from another user (Sale Auction `bid()`)
-> 1. user can check info of a kitty that is to auction (Sale/Siring Auction `getAuction()`)
-> 1. user can cancel an auction they started (Sale/Siring Auction `cancelAuction()`)
-> 1. user can transfer a kitty they own to another user (Main `transfer()`)
-> 1. user can allow another user to take ownership of a kitty they own (Main `approve()`)
-> 1. once an user has a kitty ownership approved, they can claim a kitty (Main `transferFrom()`)
-> 1. CEO is the only one that may replace COO or CTO (Main `setCEO()` `setCFO()` `setCOO()`)
-> 1. COO can mint and distribute promotional kittens (Main `createPromoKitty()`)
-> 1. COO can transfer the balance from auctions (Main `withdrawAuctionBalances()`)
-> 1. CFO can drain funds from main contract (Main `withdrawBalance()`)
->
-> -- [Basics of CryptoKitties](https://github.com/axiomzen/cryptokitties-bounty/blob/master/CryptoKitty%20Basics.md)
-
-
-### Inside CryptoKitties Genetics
-
-_cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea_
-
-
-The 256-bit genome (genes) have over 4-billion variations of phenotypes (what you see) 
-and genotypes (what you don't see).
-
-![](i/cryptokitties-genes.png)
-
-[**The CryptoKitties Genome Project**](https://medium.com/@kaigani/the-cryptokitties-genome-project-68582016f687) by Kai, Dec 19 
-
-> Here's what I've found:
-> - Genes are stored in 12 blocks of 4x5-bit codes
-> - Each 5-bit code represents a cattribute associated with the position in the gene (body, pattern type, eye color, eye type, primary color, pattern color, secondary color, fancy type, mouth)
-> - Each block of 4 codes represents 1 dominant trait expressed in the Kitty followed by 3 recessive traits.
-> - Codes are passed from either parent to child, with a low probability of swapping from the 1st recessive, and a lower probability of swapping from the 2nd or 3rd recessive.
-> [...]
-
-![](i/cryptokittydex-kaittributes.png)
-
-(Source: [CryptoKittydex, Kaittributes](https://cryptokittydex.com/kaittributes))
-
-
-
-[**CryptoKitties mixGenes Function**](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80) by Sean Soria, Dec 22
-
-> The mixGenes function gets called when you breed two cats. This is how the baby's genes are calculated. [...]
-> Here’s the pseudocode to start:
-
-```
-def mixGenes(mGenes[48], sGenes[48], babyGenes[48]):
-  # PARENT GENE SWAPPING
-  for (i = 0; i < 12; i++):
-    index = 4 * i
-    for (j = 3; j > 0; j--):
-      if random() < 0.25:
-        swap(mGenes, index+j, index+j-1)
-      if random() < 0.25:
-        swap(sGenes, index+j, index+j-1)
-  # BABY GENES
-  for (i = 0; i < 48; i++):
-    mutation = 0
-    # CHECK MUTATION
-    if i % 4 == 0:
-      gene1 = mGene[i]
-      gene2 = sGene[i]
-      if gene1 > gene2:
-        gene1, gene2 = gene2, gene1
-      if (gene2 - gene1) == 1 and iseven(gene1):
-        probability = 0.25
-        if gene1 > 23:
-          probability /= 2
-        if random() < probability:
-          mutation = (gene1 / 2) + 16
-    # GIVE BABY GENES
-    if mutation:
-      baby[i] = mutation
-    else:
-      if random() < 0.5:
-        babyGenes[i] = mGene[i]
-      else:
-        babyGenes[i] = sGene[i]
-```
-
-
-[**CryptoKitties GeneScience algorithm**](https://medium.com/@alexhegyi/cryptokitties-genescience-1f5b41963b0d) by Alex Hegyi, Dec 23
-
-> My winter holiday thus far has consisted of staring at disassembled bytecode 
-> until I had everything figured out:
-
-``` python
-
-# These examples are from Tx 0xa7b0ac87684771f6d6204a09b5a0bf0b97f6adf61b78138e8fd264828e36b956
-
-# matron.genes
-arg1 = 0x000063169218f348dc640d171b000208934b5a90189038cb3084624a50f7316c
-
-# sire.genes
-arg2 = 0x00005a13429085339c6521ef0300011c82438c628cc431a63298e3721f772d29
-
-# matron.cooldownEndBlock - 1
-arg3 = 0x000000000000000000000000000000000000000000000000000000000047ff27
-
-# BLOCKHASH of block number equal to arg3
-blockhash = 0xf9dd4486d68b13839d2f7b345f5223f17abae39a951f2cea5b0ca0dd6dc8db83
-
-
-# load arguments into bytes arrays in big-Endian order
-
-args1 = []
-for cnt in range(32):
-    args1.append(arg1//((1<<8)**cnt)&0xff)
-args1.reverse()
-args1 = bytes(args1)
-
-args2 = []
-for cnt in range(32):
-    args2.append(arg2//((1<<8)**cnt)&0xff)
-args2.reverse()
-args2 = bytes(args2)
-
-
-args3 = []
-for cnt in range(32):
-    args3.append(arg3//((1<<8)**cnt)&0xff)
-args3.reverse()
-args3 = bytes(args3)
-
-blockhashes = []
-for cnt in range(32):
-    blockhashes.append(blockhash//((1<<8)**cnt)&0xff)
-blockhashes.reverse()
-blockhashes = bytes(blockhashes)
-
-# concatenate bytes arrays
-
-alls =  blockhashes + args1 + args2 + args3
-
-
-# get hash of bytes arrays. This is your source of "randomness"
-
-hash = sha3.keccak_256(alls)
-hash = int.from_bytes(hash.digest(), byteorder = 'big')
-
-print(hex(hash))
-
-# => 0xe30dd999bfba6dd6cd4540fb58c5a1c117e6938c0931459b1c9f6e01d865c19e
-
-
-# get 5-bit chunks of matron and sire
-
-def masker(arg, start, numbytes):
-    mask = 2**numbytes - 1
-    mask = mask << start
-    out = arg & mask
-    out = out >> start
-    
-    return out
-
-arg1masks = []
-for cnt in range(0x30):
-    arg1masks.append(masker(arg1, 5*cnt, 5))
-    
-arg2masks = []
-for cnt in range(0x30):
-    arg2masks.append(masker(arg2, 5*cnt, 5))
-    
-arg1maskscopy = arg1masks.copy()
-arg2maskscopy = arg2masks.copy()
-
-# note in worst case hashindex wont reach 256 so no need for modulo
-hashindex = 0
-
-# swap dominant/recessive genes according to masked_hash
-for bigcounter in range(0x0c):
-    for smallcounter in range(3, 0, -1):
-        count = 4*bigcounter + smallcounter
-        
-        masked_hash = masker(hash, hashindex, 2)
-        hashindex += 2
-        if masked_hash == 0:
-            tmp = arg1maskscopy[count - 1]
-            arg1maskscopy[count - 1] = arg1maskscopy[count]
-            arg1maskscopy[count] = tmp
-            
-        masked_hash = masker(hash, hashindex, 2)
-        hashindex += 2
-        if masked_hash == 0:
-            tmp = arg2maskscopy[count - 1]
-            arg2maskscopy[count - 1] = arg2maskscopy[count]
-            arg2maskscopy[count] = tmp
-
-# combine genes from swapped parent genes, introducing mutations
-
-outmasks = []
-for cnt in range(0x30):
-    rando_byte = 0
-    
-    # mutate only on dominant genes
-    if cnt%4 == 0:
-        tmp1 = arg1maskscopy[cnt]&1
-        tmp2 = arg2maskscopy[cnt]&1
-
-        if tmp1 != tmp2:
-            masked_hash = masker(hash, hashindex, 3)
-            hashindex += 3
-            
-            mask1 = arg1maskscopy[cnt]
-            mask2 = arg2maskscopy[cnt]
-            
-            # mutate only if the two parent dominant genes differ by 1...
-            if abs(mask2 - mask1) == 1:
-                min_mask = min(mask1, mask2)
-                # and the smaller of the two is even...
-                if min_mask % 2 == 0:
-                    if min_mask < 0x17:
-                        trial = masked_hash > 1
-                    else:
-                        trial = masked_hash > 0
-                    if not trial:
-                        # mutation is the smaller of the two parent dominant genes,
-                        # divided by two, plus 16
-                        rando_byte = (min_mask >> 1) + 0x10
-        
-        if rando_byte > 0:
-            print(cnt)
-            outmasks.append(rando_byte)
-            continue
-                                
-    masked_hash = masker(hash, hashindex, 1)
-    hashindex += 1
-    
-    if masked_hash == 0:
-        outmasks.append(arg1maskscopy[cnt])
-    else:
-        outmasks.append(arg2maskscopy[cnt])
-
-
-# this is where we will accumulate the calculated child genes
-outs = 0
-
-# this is where you can put the known child genes, for testing
-outs2 = 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
-
-for cnt in range(0x30):
-    outs |= outmasks[cnt] << 5*cnt
-
-# print both for comparison
-print(hex(outs))
-print(hex(outs2))
-
-# => 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
-# => 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
-```
-
-(Source: [Alex Hegyi, CryptoKitties GeneScience](https://github.com/heglex/gene-science/blob/master/Cryptokitties%20mixGenes%20test.ipynb))
-
-
-
 ### Special Collector's CryptoKitties
 
 ![](i/kitty1.png)
@@ -1010,6 +631,385 @@ but there are also various of other viable solutions.
 _Arthur Camara_: CryptoKitties will be a global brand (way before that, actually). 
 People will give CryptoKitties to their children 
 on their first birthday. There'll be a complex ecosystem around the game, with lots of features and tools.
+
+
+
+### Code on the Blockchain - Electronic Contract Scripts
+
+
+#### Contract Structure
+
+> The day-one functionality of the contract scripts includes:
+>                
+> - Keep track of the genes of upcoming gen0 CryptoKitties
+> - Introducing the genes of gen0 CryptoKitties to the Core Contract
+> - Launching the auctions for gen0 CryptoKitties (including price determination)
+> - Combining the genotypes of two parent CryptoKitties to determine the genotype of the new CryptoKitten
+> - Managing the auctions of CryptoKitties (both gen-0 cats being auctioned to users and user-to-user auctions) and siring tokens
+> - Managing siring auctions (including initiating the breeding when successful).
+>
+>  All functionality for breeding, buying, selling, and transferring cats 
+> will be possible for any user by interacting directly with the contracts on the blockchain.
+> Any auctions or sales conducted through our auction contract 
+> will include a 3.75% commission (no minimum) taken from the seller's portion.
+
+(Source: [CryptoKitties Technical Details / Contract Structure](https://www.cryptokitties.co/Technical-details))
+
+
+#### Contract Script (Public) Source Code
+
+[CryptoKittiesCore.sol](CryptoKittiesCore.sol) in Ethereum Solidity -- copied from [Etherscan](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
+
+More contract scripts
+
+- [Sale auction](https://etherscan.io/address/0xb1690c08e213a35ed9bab7b318de14420fb57d8c#code)
+- [Siring auction](https://etherscan.io/address/0xc7af99fe5513eb6710e6d5f44f9989da40f27f26#code)
+
+<!-- add why? why not?
+- [CEO](https://etherscan.io/address/0xaf1e54b359b0897133f437fc961dd16f20c045e1)
+- [CFO](https://etherscan.io/address/0x2041bb7d8b49f0bde3aa1fa7fb506ac6c539394c)
+- [COO](https://etherscan.io/address/0xa21037849678af57f9865c6b9887f4e339f6377a)
+  -->
+
+
+#### Non-fungible Token (NFT) Standard - Ethereum Request for Comments #721 (ERC-721)
+
+_CryptoKitties provides a practical use case for digital scarcity 
+and digital collectibles by pioneering ERC-721, a non-fungible token protocol_
+
+
+A standard interface allows any Non-fungible Token (NFTs) on Ethereum 
+to be handled by general-purpose applications. 
+In particular, it will allow for Non-fungible Token (NFTs) 
+to be tracked in standardized wallets and traded on exchanges.
+
+
+Compatibility Functions for Ethereum Request for Comments #20 (ERC-20)
+
+- function **name**() constant returns (string name)
+- function **symbol**() constant returns (string symbol)
+- function **totalSupply**() constant returns (uint256 totalSupply)
+- function **balanceOf**(address _owner) constant returns (uint256 balance)
+
+Basic Ownership Functions
+
+- function **ownerOf**(uint256 _tokenId) constant returns (address owner)
+- function **approve**(address _to, uint256 _tokenId)
+- function **takeOwnership**(uint256 _tokenId)
+- function **transfer**(address _to, uint256 _tokenId)
+- function **tokenOfOwnerByIndex**(address _owner, uint256 _index) constant returns (uint tokenId)
+
+Metadata Functions
+
+- function **tokenMetadata**(uint256 _tokenId) constant returns (string infoUrl)
+
+Events
+
+- event **Transfer**(address indexed _from, address indexed _to, uint256 _tokenId)
+- event **Approval**(address indexed _owner, address indexed _approved, uint256 _tokenId) 
+
+
+(Source: [Ethereum, Non-fungible Token (NFT) Standard #721](https://github.com/ethereum/EIPs/issues/721))
+
+
+#### More About Contract Scripts
+
+For more contract scripts see:
+
+**The CryptoKitty Bounty Program** (github: [axiomzen/cryptokitties-bounty](https://github.com/axiomzen/cryptokitties-bounty)) 
+
+> CryptoKitties is composed of 4 public facing contracts. Below we'll provide an overview on these contracts:
+>
+> ##### KittyCore.sol - `0x16baf0de678e52367adc69fd067e5edd1d33e3bf`
+>
+> Also referred as the main contract, is where Kitties and their ownership are stored.
+> This also mediates all the main operations, such as breeding, exchange, and part of auctions.
+> 
+> For this release, the actual bytecode released for the contract is `KittyCoreRinkeby.sol`, explained below.
+> 
+> ##### SaleClockAuction.sol - `0x8a316edee51b65e1627c801dbc09aa413c8f97c2`
+> 
+> Where users are expected to acquire their gen0 kitten. It is also a marketplace where anyone can post their kitten for auction.
+> [See Dutch/Clock auction](https://en.wikipedia.org/wiki/Dutch_auction) - note we also accept an increasing price.
+> ps: CryptoKitties auctions take an initial time and duration, and after duration is over they are not closed. 
+> Instead they hold the final price indefinitely
+>
+> ##### SiringClockAuction.sol - `0x07ca8a3a1446109468c3cf249abb53578a2bbe40`
+>
+> A marketplace where any user can offer their Kitty as a potential sire for any takers.
+>
+> ##### GeneScience.sol
+>
+> It's a mystery! Not public for this release.
+>
+>
+> [...]
+>
+> ### Common functions
+>
+> Here's what we expect to be the most usual flow, and what function are to be called.
+>
+> 1. COO will periodically put a kitten to gen0 auction (Main `createGen0Auction()`)
+> 1. user go an buy gen0 kittens (Sale Auction `bid()`)
+> 1. user can get kitty data (Main `getKitty()`)
+> 1. user can breed their own kittens (Main `breedWith()` or `breedWithAuto()`)
+> 1. after cooldown is passed, any user can have a pregnant kitty giving birth (Main `giveBirth()`)
+> 1. user can offer one of their kitties as sire via auction (Main `createSiringAuction()`)
+> 1. user can offer their kitty as sire to another user (Main `approveSiring()`)
+> 1. user can bid on an active siring auction (Main `createSiringAuction()`)
+> 1. user can put their kitty for sale on auction (Main `createSaleAuction()`)
+> 1. user can buy a kitty that is on auction from another user (Sale Auction `bid()`)
+> 1. user can check info of a kitty that is to auction (Sale/Siring Auction `getAuction()`)
+> 1. user can cancel an auction they started (Sale/Siring Auction `cancelAuction()`)
+> 1. user can transfer a kitty they own to another user (Main `transfer()`)
+> 1. user can allow another user to take ownership of a kitty they own (Main `approve()`)
+> 1. once an user has a kitty ownership approved, they can claim a kitty (Main `transferFrom()`)
+> 1. CEO is the only one that may replace COO or CTO (Main `setCEO()` `setCFO()` `setCOO()`)
+> 1. COO can mint and distribute promotional kittens (Main `createPromoKitty()`)
+> 1. COO can transfer the balance from auctions (Main `withdrawAuctionBalances()`)
+> 1. CFO can drain funds from main contract (Main `withdrawBalance()`)
+>
+> -- [Basics of CryptoKitties](https://github.com/axiomzen/cryptokitties-bounty/blob/master/CryptoKitty%20Basics.md)
+
+
+
+### Inside CryptoKitties Genetics
+
+_cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea_
+
+
+The 256-bit genome (genes) have over 4-billion variations of phenotypes (what you see) 
+and genotypes (what you don't see).
+
+![](i/cryptokitties-genes.png)
+
+[**The CryptoKitties Genome Project**](https://medium.com/@kaigani/the-cryptokitties-genome-project-68582016f687) by Kai, Dec 19 
+
+> Here's what I've found:
+> - Genes are stored in 12 blocks of 4x5-bit codes
+> - Each 5-bit code represents a cattribute associated with the position in the gene (body, pattern type, eye color, eye type, primary color, pattern color, secondary color, fancy type, mouth)
+> - Each block of 4 codes represents 1 dominant trait expressed in the Kitty followed by 3 recessive traits.
+> - Codes are passed from either parent to child, with a low probability of swapping from the 1st recessive, and a lower probability of swapping from the 2nd or 3rd recessive.
+> [...]
+
+![](i/cryptokittydex-kaittributes.png)
+
+(Source: [CryptoKittydex, Kaittributes](https://cryptokittydex.com/kaittributes))
+
+
+
+[**CryptoKitties mixGenes Function**](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80) by Sean Soria, Dec 22
+
+> The mixGenes function gets called when you breed two cats. This is how the baby's genes are calculated. [...]
+> Here’s the pseudocode to start:
+
+```
+def mixGenes(mGenes[48], sGenes[48], babyGenes[48]):
+  # PARENT GENE SWAPPING
+  for (i = 0; i < 12; i++):
+    index = 4 * i
+    for (j = 3; j > 0; j--):
+      if random() < 0.25:
+        swap(mGenes, index+j, index+j-1)
+      if random() < 0.25:
+        swap(sGenes, index+j, index+j-1)
+  # BABY GENES
+  for (i = 0; i < 48; i++):
+    mutation = 0
+    # CHECK MUTATION
+    if i % 4 == 0:
+      gene1 = mGene[i]
+      gene2 = sGene[i]
+      if gene1 > gene2:
+        gene1, gene2 = gene2, gene1
+      if (gene2 - gene1) == 1 and iseven(gene1):
+        probability = 0.25
+        if gene1 > 23:
+          probability /= 2
+        if random() < probability:
+          mutation = (gene1 / 2) + 16
+    # GIVE BABY GENES
+    if mutation:
+      baby[i] = mutation
+    else:
+      if random() < 0.5:
+        babyGenes[i] = mGene[i]
+      else:
+        babyGenes[i] = sGene[i]
+```
+
+
+[**CryptoKitties GeneScience algorithm**](https://medium.com/@alexhegyi/cryptokitties-genescience-1f5b41963b0d) by Alex Hegyi, Dec 23
+
+> My winter holiday thus far has consisted of staring at disassembled bytecode 
+> until I had everything figured out:
+
+``` python
+
+# These examples are from Tx 0xa7b0ac87684771f6d6204a09b5a0bf0b97f6adf61b78138e8fd264828e36b956
+
+# matron.genes
+arg1 = 0x000063169218f348dc640d171b000208934b5a90189038cb3084624a50f7316c
+
+# sire.genes
+arg2 = 0x00005a13429085339c6521ef0300011c82438c628cc431a63298e3721f772d29
+
+# matron.cooldownEndBlock - 1
+arg3 = 0x000000000000000000000000000000000000000000000000000000000047ff27
+
+# BLOCKHASH of block number equal to arg3
+blockhash = 0xf9dd4486d68b13839d2f7b345f5223f17abae39a951f2cea5b0ca0dd6dc8db83
+
+
+# load arguments into bytes arrays in big-Endian order
+
+args1 = []
+for cnt in range(32):
+    args1.append(arg1//((1<<8)**cnt)&0xff)
+args1.reverse()
+args1 = bytes(args1)
+
+args2 = []
+for cnt in range(32):
+    args2.append(arg2//((1<<8)**cnt)&0xff)
+args2.reverse()
+args2 = bytes(args2)
+
+
+args3 = []
+for cnt in range(32):
+    args3.append(arg3//((1<<8)**cnt)&0xff)
+args3.reverse()
+args3 = bytes(args3)
+
+blockhashes = []
+for cnt in range(32):
+    blockhashes.append(blockhash//((1<<8)**cnt)&0xff)
+blockhashes.reverse()
+blockhashes = bytes(blockhashes)
+
+# concatenate bytes arrays
+
+alls =  blockhashes + args1 + args2 + args3
+
+
+# get hash of bytes arrays. This is your source of "randomness"
+
+hash = sha3.keccak_256(alls)
+hash = int.from_bytes(hash.digest(), byteorder = 'big')
+
+print(hex(hash))
+
+# => 0xe30dd999bfba6dd6cd4540fb58c5a1c117e6938c0931459b1c9f6e01d865c19e
+
+
+# get 5-bit chunks of matron and sire
+
+def masker(arg, start, numbytes):
+    mask = 2**numbytes - 1
+    mask = mask << start
+    out = arg & mask
+    out = out >> start
+    
+    return out
+
+arg1masks = []
+for cnt in range(0x30):
+    arg1masks.append(masker(arg1, 5*cnt, 5))
+    
+arg2masks = []
+for cnt in range(0x30):
+    arg2masks.append(masker(arg2, 5*cnt, 5))
+    
+arg1maskscopy = arg1masks.copy()
+arg2maskscopy = arg2masks.copy()
+
+# note in worst case hashindex wont reach 256 so no need for modulo
+hashindex = 0
+
+# swap dominant/recessive genes according to masked_hash
+for bigcounter in range(0x0c):
+    for smallcounter in range(3, 0, -1):
+        count = 4*bigcounter + smallcounter
+        
+        masked_hash = masker(hash, hashindex, 2)
+        hashindex += 2
+        if masked_hash == 0:
+            tmp = arg1maskscopy[count - 1]
+            arg1maskscopy[count - 1] = arg1maskscopy[count]
+            arg1maskscopy[count] = tmp
+            
+        masked_hash = masker(hash, hashindex, 2)
+        hashindex += 2
+        if masked_hash == 0:
+            tmp = arg2maskscopy[count - 1]
+            arg2maskscopy[count - 1] = arg2maskscopy[count]
+            arg2maskscopy[count] = tmp
+
+# combine genes from swapped parent genes, introducing mutations
+
+outmasks = []
+for cnt in range(0x30):
+    rando_byte = 0
+    
+    # mutate only on dominant genes
+    if cnt%4 == 0:
+        tmp1 = arg1maskscopy[cnt]&1
+        tmp2 = arg2maskscopy[cnt]&1
+
+        if tmp1 != tmp2:
+            masked_hash = masker(hash, hashindex, 3)
+            hashindex += 3
+            
+            mask1 = arg1maskscopy[cnt]
+            mask2 = arg2maskscopy[cnt]
+            
+            # mutate only if the two parent dominant genes differ by 1...
+            if abs(mask2 - mask1) == 1:
+                min_mask = min(mask1, mask2)
+                # and the smaller of the two is even...
+                if min_mask % 2 == 0:
+                    if min_mask < 0x17:
+                        trial = masked_hash > 1
+                    else:
+                        trial = masked_hash > 0
+                    if not trial:
+                        # mutation is the smaller of the two parent dominant genes,
+                        # divided by two, plus 16
+                        rando_byte = (min_mask >> 1) + 0x10
+        
+        if rando_byte > 0:
+            print(cnt)
+            outmasks.append(rando_byte)
+            continue
+                                
+    masked_hash = masker(hash, hashindex, 1)
+    hashindex += 1
+    
+    if masked_hash == 0:
+        outmasks.append(arg1maskscopy[cnt])
+    else:
+        outmasks.append(arg2maskscopy[cnt])
+
+
+# this is where we will accumulate the calculated child genes
+outs = 0
+
+# this is where you can put the known child genes, for testing
+outs2 = 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
+
+for cnt in range(0x30):
+    outs |= outmasks[cnt] << 5*cnt
+
+# print both for comparison
+print(hex(outs))
+print(hex(outs2))
+
+# => 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
+# => 0x5b174298a44b9c6521176000021c53734c9018c431a73298674a5177316c
+```
+
+(Source: [Alex Hegyi, CryptoKitties GeneScience](https://github.com/heglex/gene-science/blob/master/Cryptokitties%20mixGenes%20test.ipynb))
 
 
 
