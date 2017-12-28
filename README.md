@@ -51,7 +51,7 @@ Collect and breed digital cats. Start meow. Buy! Sell! Hold!
 > Q: What's CryptoKitties? What's the big deal? 
 >
 > CryptoKitties is centered around breedable, collectible, and oh-so-adorable creatures 
-> we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you; 
+> we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you (*); 
 > it cannot be replicated, taken away, or destroyed.
 >
 > CryptoKitties is built on blockchain technology. 
@@ -60,6 +60,8 @@ Collect and breed digital cats. Start meow. Buy! Sell! Hold!
 > But, unlike traditional collectibles, you can breed two CryptoKitties
 > to create a brand-new, genetically unique offspring.
 > It results in something special—just like you!
+
+(*): See Q: Do you really own your CryptoKitties? A: Spoiler: No.
 
 Learn more @ [cryptokitties.co](https://cryptokitties.co), 
 twitter: [CryptoKitties](https://twitter.com/CryptoKitties),
@@ -113,7 +115,7 @@ _CryptoKitties History_
 - 2017 Nov/23 - CryptoKitties closed beta starts; one of the top three most active Ethereum contracts within three hours
 - 2017 Nov/28 - CryptoKitties it's official; open to the public - let's wecome everyon to collect, buy, sell, and breed digital cartoon cats on the blockchain
 - 2017 Nov/28 - $4_700 USD kitty sold on day of launch
-- 2017 [Nov/30](https://twitter.com/CryptoKitties/status/936349761644273664) - 873 users with an average of 15 kitties each; 19_264 CryptoKitties created or bred; over 120 ETH (~$51_000) in transcations within 1 week; 3.5% of ALL Ethereum transactions (2nd contract on the blockchain)
+- 2017 Nov/30 - 873 users with an average of 15 kitties each; 19_264 CryptoKitties created or bred; over 120 ETH (~$51_000) in transcations within 1 week; 3.5% of ALL Ethereum transactions (2nd contract on the blockchain)  <!-- source: https://twitter.com/CryptoKitties/status/936349761644273664 -->
 - 2017 Dec/2  - Highest selling cat - Kitty #1 (Gen 0, Genesis Exclusive) - sold for Ξ 246.9255 ETH (~$114_481.59) 
 - 2017 Dec/5  - ~60k registered users; over $5M USD in transactions; CryptoKitties accounts for ~25% of world-wide Ethereum traffic
 - 2017 Dec/6  - Celebrating 100 000 CryptoKitties  <!-- check date? add tweet -->
@@ -137,10 +139,15 @@ _More (Minor) Milestones_
 <!-- break 
      move to traits? -->
 
+- 2017 Dec/3 -  Due to network congestion, we are increasing the birthing fee from 0.001 ETH to 0.002 ETH. This will ensure your kittens are born on time! The extra is needed to incentivize miners to add birthing txs to the chain. Long-term solution will be explored very soon!
+- 2017 Dec/4 - DUE TO CONGESTION ON THE NETWORK WE ARE INCREASING THE BIRTHING FEE FROM 0.002 ETH TO 0.015 ETH. WE HOPE THIS WILL ALLOW MORE KITTENS TO BE BORN ON TIME AS THERE HAVE BEEN SIGNIFICANT DELAYS 
+- 2017 Dec/6 - WE ARE INCREASING THE RECOMMENDED DEFAULT GAS PRICE FROM 25 TO 40 GWEI IN ORDER TO INCENTIVIZE THE MINERS. AS ALWAYS YOU ARE ABLE TO ADJUST THIS AT YOUR OWN DISCRETION
+- 2017 Dec/11 - We have dropped the birthing fee from 0.015 ETH to 0.008 ETH. Happy breeding everyone!
 - 2017 Dec/20  - New Trait - Serpent (eye type)
 - 2017 Dec/20  - New Trait - Alien (eye type)
 - 2017 Dec/22  - New Trait - Hintomint (body color)
 - 2017 Dec/22-24 - Winter CryptoKitties Giveaway Contest
+
 
 
 
@@ -163,7 +170,7 @@ _More (Minor) Milestones_
 > Any auctions or sales conducted through our auction contract 
 > will include a 3.75% commission (no minimum) taken from the seller's portion.
 
-(Source: [CryptoKitties Technical Details / Contract Structure](https://www.cryptokitties.co/Technical-details)
+(Source: [CryptoKitties Technical Details / Contract Structure](https://www.cryptokitties.co/Technical-details))
 
 
 #### Contract Script (Public) Source Code
@@ -768,12 +775,24 @@ A:
 
 **Q: What's the population? How many gen0 kitties will there be?**
 
-A: 50_000 – Every 15 minutes a new gen0 kitty gets added (that is, 672 kitties per week) 
-until reaching a limit of 50_000 in one year (end of November 2018).
+A: 50_000 – Every 15 minutes a new gen0 kitty gets added (that is, 4 gen0 kitties/hour, 96 gen0 kitties/day, 672 gen0 kitties/week)
+and sold by clock auction (*) until reaching a limit of 50_000 in one year (end of November 2018).
+
+(*): A gen0 kitty's (also known as "clock cat") price is automatically calculated by the average price 
+of the last five CryptoKitty sales, plus 50% and sold by a descending clock auction.
 
 ![](i/cryptokitties-gen.png)
 
 (Source: [Kitty Explorer / Generation Breakdown](http://www.kittyexplorer.com))
+
+
+**Q: What's a clock auction?
+
+It's an auction with an automatically calculated descending price by clock (that is, the prices depends on the time of the purchase). 
+Sellers choose a high opening bid, a minimum closing bid, and a timeframe for the auction to run.
+Buyers choose their purchase price along that spectrum by purchasing when the price aligns with their perceived value of the CryptoKitty being sold - as long as someone else doesn't buy it befor. 
+Note: Buyers pay gas when they complete a purchase and sellers pay gas to start an auction. 
+
 
 
 
