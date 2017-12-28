@@ -1,5 +1,8 @@
 
-The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, CryptoMonsters, CryptoTulips - Latest (and Greatest) Investment Opportunities 
+![](i/cryptokitties-genes01.png)
+
+
+The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, CryptoMonsters, CryptoTulips - Latest (and Greatest) Investment Opportunities - The Future is Meow
 
 
 > - I'm giving away a Gen 1 FAST Gold for free...
@@ -297,6 +300,7 @@ _cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea_
 The 256-bit genome (genes) have over 4-billion variations of phenotypes (what you see) 
 and genotypes (what you don't see).
 
+![](i/cryptokitties-genes.png)
 
 [**The CryptoKitties Genome Project**](https://medium.com/@kaigani/the-cryptokitties-genome-project-68582016f687) by Kai, Dec 19 
 
