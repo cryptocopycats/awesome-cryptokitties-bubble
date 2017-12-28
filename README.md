@@ -1208,6 +1208,8 @@ _Collectibles on the Blockchain before CryptoKitties_
 > Most are punky-looking guys and girls, but there are a few rarer types mixed in:
 > Apes, Zombies and even the odd Alien. 
 
+![](i/cyperpunks.png)
+
 Buy, sell and trade CryptoPunks!
 
 > - [Punk #1812](https://www.larvalabs.com/cryptopunks/details/1812) offered for 1Ξ ($829.51) -- Male, Earring, Nerd Glasses, Normal Beard, Headband
