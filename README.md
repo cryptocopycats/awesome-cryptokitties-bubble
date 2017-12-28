@@ -790,7 +790,7 @@ of the last five CryptoKitty sales, plus 50% and sold by a descending clock auct
 (Source: [Kitty Explorer / Generation Breakdown](http://www.kittyexplorer.com))
 
 
-**Q: What's a clock auction?
+**Q: What's a clock auction?**
 
 It's an auction with an automatically calculated descending price by clock (that is, the prices depends on the time of the purchase). 
 Sellers choose a high opening bid, a minimum closing bid, and a timeframe for the auction to run.
