@@ -153,6 +153,31 @@ _More (Minor) Milestones_
 
 
 
+### Owners / Producers
+
+**Axiom Zen** (web: [axiomzen.co](https://www.axiomzen.co), twitter: [axiomzenteam](https://twitter.com/axiomzenteam), github: [axiomzen](https://github.com/axiomzen)) in Vancouver, Canada 
+
+> a venture studio working at the cutting edge of emerging tech to build and scale future-facing companies
+
+#### Team
+
+_Meet the CryptoKitties Makers_
+
+
+CryptoKitty Team (*):
+
+- **Arthur Camara** / Developer / twitter: [arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
+- **Fabiano Pereira** / Smart Contract Developer / twitter: [FlockonUS](https://twitter.com/FlockonUS), reddit: [flockonus](https://www.reddit.com/u/flockonus)
+- **Dieter Shirley** / Technical Architect / twitter: [dete73](https://twitter.com/dete73), reddit: [dete73](https://www.reddit.com/u/dete73), github: [dete](https://github.com/dete)
+- **Mack Flavelle** / Product / twitter: [mackflavelle](https://twitter.com/mackflavelle), reddit: [mackflavelle](https://www.reddit.com/u/mackflavelle)
+- **Benny Giang** / Product  / twitter: [BennyGiang](https://twitter.com/BennyGiang), reddit: [nezmoixa](https://www.reddit.com/u/nezmoixa)
+- **Layne LaFrance** / Product / twitter: [laynelafrance](https://twitter.com/laynelafrance), reddit: [laynee77](https://www.reddit.com/u/laynee77)
+
+(*): from the Ask the Team Anything on CryptoKitties Reddit
+
+
+
+
 
 ### Code on the Blockchain - Electronic Contract Scripts
 
@@ -884,12 +909,13 @@ or the [Crypto Kitties Wiki](http://cryptokitties.wikia.com/wiki/CryptoKitties_W
 Ask the [CryptoKitty team anything! @ CryptoKitties Reddit](https://www.reddit.com/r/CryptoKitties/comments/7kowyy/ask_the_cryptokitty_team_anything/) - Dec/14
 
 CryptoKitty Team @ Axiom Zen (Vancouver, Canada) Attending:
-- Arthur Camara / Developer / twitter: [arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
-- Fabiano Pereira / Smart Contract Developer / twitter: [FlockonUS](https://twitter.com/FlockonUS), reddit: [flockonus](https://www.reddit.com/u/flockonus)
-- Dieter Shirley / Technical Architect / twitter: [dete73](https://twitter.com/dete73), reddit: [dete73](https://www.reddit.com/u/dete73)
-- Mack Flavelle / Product / twitter: [mackflavelle](https://twitter.com/mackflavelle), reddit: [mackflavelle](https://www.reddit.com/u/mackflavelle)
-- Benny Giang / Product  / twitter: [BennyGiang](https://twitter.com/BennyGiang), reddit: [nezmoixa](https://www.reddit.com/u/nezmoixa)
-- Layne LaFrance / Product / twitter: [laynelafrance](https://twitter.com/laynelafrance), reddit: [laynee77](https://www.reddit.com/u/laynee77)
+
+- Arthur Camara / Developer
+- Fabiano Pereira / Smart Contract Developer
+- Dieter Shirley / Technical Architect 
+- Mack Flavelle / Product 
+- Benny Giang / Product 
+- Layne LaFrance / Product 
 
 **Q: Where do you see CryptoKitties 6 months from now?**
 
