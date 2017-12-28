@@ -96,7 +96,11 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 
 - [**People have spent over $1M buying virtual cats on the Ethereum blockchain**](https://techcrunch.com/2017/12/03/people-have-spent-over-1m-buying-virtual-cats-on-the-ethereum-blockchain/), TechCrunch. Dec/3
 - [**CryptoKitties Mania Overwhelms Ethereum Network's Processing**](https://www.bloomberg.com/news/articles/2017-12-04/cryptokitties-quickly-becomes-most-widely-used-ethereum-app), Bloomberg, Dec/4
+- [**Introducing CryptoKitties, the New Digital Pets Taking Ethereum by Storm**](http://fortune.com/2017/12/04/blockchain-cryptokitties-ethereum/), Fortune, Dec/4 
+- [**This Game Combines The Internet's Favorite Things: Cats & Cryptocurrency**](https://www.youtube.com/watch?v=qk7gRljIKww), Vice, Dec/5
 - [**Meet CryptoKitties, the $100,000 digital beanie babies epitomizing the cryptocurrency mania**](https://www.cnbc.com/2017/12/06/meet-cryptokitties-the-new-digital-beanie-babies-selling-for-100k.html), CNBC, Dec/6
+- [**Ethereum Network Copes With Surge of Activity as Virtual Kitten Game Goes Viral**](https://blogs.wsj.com/cio/2017/12/07/ethereum-network-copes-with-surge-of-activity-as-virtual-kitten-game-goes-viral/), The Wall Street Journal, Dec/7
+
 
 
 ### Timeline
@@ -108,6 +112,8 @@ _CryptoKitties History_
 - 2017 Nov/22 - CryptoKitties contract scripts uploaded onto the public Ethereum blockchain
 - 2017 Nov/23 - CryptoKitties closed beta starts; one of the top three most active Ethereum contracts within three hours
 - 2017 Nov/28 - CryptoKitties it's official; open to the public - let's wecome everyon to collect, buy, sell, and breed digital cartoon cats on the blockchain
+- 2017 Nov/28 - $4_700 USD kitty sold on day of launch
+- 2017 [Nov/30](https://twitter.com/CryptoKitties/status/936349761644273664) - 873 users with an average of 15 kitties each; 19_264 CryptoKitties created or bred; over 120 ETH (~$51_000) in transcations within 1 week; 3.5% of ALL Ethereum transactions (2nd contract on the blockchain)
 - 2017 Dec/2  - Highest selling cat - Kitty #1 (Gen 0, Genesis Exclusive) - sold for Ξ 246.9255 ETH (~$114_481.59) 
 - 2017 Dec/5  - ~60k registered users; over $5M USD in transactions; CryptoKitties accounts for ~25% of world-wide Ethereum traffic
 - 2017 Dec/6  - Celebrating 100 000 CryptoKitties  <!-- check date? add tweet -->
@@ -140,6 +146,28 @@ _More (Minor) Milestones_
 
 ### Code on the Blockchain - Electronic Contract Scripts
 
+
+#### Contract Structure
+
+> The day-one functionality of the contract scripts includes:
+>                
+> - Keep track of the genes of upcoming gen0 CryptoKitties
+> - Introducing the genes of gen0 CryptoKitties to the Core Contract
+> - Launching the auctions for gen0 CryptoKitties (including price determination)
+> - Combining the genotypes of two parent CryptoKitties to determine the genotype of the new CryptoKitten
+> - Managing the auctions of CryptoKitties (both gen-0 cats being auctioned to users and user-to-user auctions) and siring tokens
+> - Managing siring auctions (including initiating the breeding when successful).
+>
+>  All functionality for breeding, buying, selling, and transferring cats 
+> will be possible for any user by interacting directly with the contracts on the blockchain.
+> Any auctions or sales conducted through our auction contract 
+> will include a 3.75% commission (no minimum) taken from the seller's portion.
+
+(Source: [CryptoKitties Technical Details / Contract Structure](https://www.cryptokitties.co/Technical-details)
+
+
+#### Contract Script (Public) Source Code
+
 [CryptoKittiesCore.sol](CryptoKittiesCore.sol) in Ethereum Solidity -- copied from [Etherscan](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
 
 More contract scripts
@@ -153,6 +181,48 @@ More contract scripts
 - [COO](https://etherscan.io/address/0xa21037849678af57f9865c6b9887f4e339f6377a)
   -->
 
+
+#### Non-fungible Token (NFT) Standard - Ethereum Request for Comments #721 (ERC-721)
+
+_CryptoKitties provides a practical use case for digital scarcity 
+and digital collectibles by pioneering ERC-721, a non-fungible token protocol_
+
+
+A standard interface allows any Non-fungible Token (NFTs) on Ethereum 
+to be handled by general-purpose applications. 
+In particular, it will allow for Non-fungible Token (NFTs) 
+to be tracked in standardized wallets and traded on exchanges.
+
+
+Compatibility Functions for Ethereum Request for Comments #20 (ERC-20)
+
+- function **name**() constant returns (string name)
+- function **symbol**() constant returns (string symbol)
+- function **totalSupply**() constant returns (uint256 totalSupply)
+- function **balanceOf**(address _owner) constant returns (uint256 balance)
+
+Basic Ownership Functions
+
+- function **ownerOf**(uint256 _tokenId) constant returns (address owner)
+- function **approve**(address _to, uint256 _tokenId)
+- function **takeOwnership**(uint256 _tokenId)
+- function **transfer**(address _to, uint256 _tokenId)
+- function **tokenOfOwnerByIndex**(address _owner, uint256 _index) constant returns (uint tokenId)
+
+Metadata Functions
+
+- function **tokenMetadata**(uint256 _tokenId) constant returns (string infoUrl)
+
+Events
+
+- event **Transfer**(address indexed _from, address indexed _to, uint256 _tokenId)
+- event **Approval**(address indexed _owner, address indexed _approved, uint256 _tokenId) 
+
+
+(Source: [Ethereum, Non-fungible Token (NFT) Standard #721](https://github.com/ethereum/EIPs/issues/721))
+
+
+#### More About Contract Scripts
 
 For more contract scripts see:
 
@@ -215,6 +285,10 @@ For more contract scripts see:
 ### Inside CryptoKitties Genetics
 
 _cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea_
+
+
+The 256-bit genome (genes) have over 4-billion variations of phenotypes (what you see) 
+and genotypes (what you don't see).
 
 
 [**The CryptoKitties Genome Project**](https://medium.com/@kaigani/the-cryptokitties-genome-project-68582016f687) by Kai, Dec 19 
