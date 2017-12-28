@@ -1142,8 +1142,30 @@ web: [cryptofighters.io](http://cryptofighters.io),
 twitter: [CryptoFighters](https://twitter.com/CryptoFighters)
 
 
+### CryptoTulips on the Blockchain!  (Upcoming)
 
-### CryptoPunks on the Blockchain!
+Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! 
+Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
+
+![](i/cryptotulips.png)
+
+Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
+
+
+### More
+
+**CryptoGames on the Blockchain! News**
+
+See web: [cryptogamer.net](http://www.cryptogamer.net), twitter: [CryptoGamerNet](https://twitter.com/CryptoGamerNet)
+
+
+
+
+### History Corner
+
+_Collectibles on the Blockchain before CryptoKitties_
+
+#### CryptoPunks on the Blockchain!
 
 10 000 unique collectible 8-bit characters with proof of ownership stored on the blockchain. 
 
@@ -1164,22 +1186,12 @@ Learn more @ [larvalabs.com/cryptopunks](https://www.larvalabs.com/cryptopunks),
 github: [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) (contract script sources)
 
 
+**Q: What's different?**
 
-### CryptoTulips on the Blockchain!  (Upcoming)
+Too simple. Buy, sell and hodl (collect). That's it. 
+Fixed 10 000  collection. No new CyperPunks creation (eg. pairing of genomes) possible. 
+No growth. No "mystery" genome and new surprise genes and attributes etc.
 
-Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! 
-Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
-
-![](i/cryptotulips.png)
-
-Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
-
-
-### More
-
-**CryptoGames on the Blockchain! News**
-
-See web: [cryptogamer.net](http://www.cryptogamer.net), twitter: [CryptoGamerNet](https://twitter.com/CryptoGamerNet)
 
 
 
