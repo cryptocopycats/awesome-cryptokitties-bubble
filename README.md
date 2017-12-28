@@ -1101,6 +1101,11 @@ Collect. Breed. Compete. Raise your own champions.
 Learn more @ [cryptodrome.co](http://cryptodrome.co), 
 twitter: [cryptodrome](https://twitter.com/cryptodrome)
 
+Team:
+
+- **Miguel Ángel Fort** (twitter: [@mafp86](https://twitter.com/mafp86))
+
+
 
 ### CryptoBirdies on the Blockchain! (Upcoming)
 
