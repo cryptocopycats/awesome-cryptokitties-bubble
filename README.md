@@ -137,7 +137,7 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 - [**This Game Combines The Internet's Favorite Things: Cats & Cryptocurrency**](https://www.youtube.com/watch?v=qk7gRljIKww), Vice, Dec/5
 - [**Meet CryptoKitties, the $100,000 digital beanie babies epitomizing the cryptocurrency mania**](https://www.cnbc.com/2017/12/06/meet-cryptokitties-the-new-digital-beanie-babies-selling-for-100k.html), CNBC, Dec/6
 - [**Ethereum Network Copes With Surge of Activity as Virtual Kitten Game Goes Viral**](https://blogs.wsj.com/cio/2017/12/07/ethereum-network-copes-with-surge-of-activity-as-virtual-kitten-game-goes-viral/), The Wall Street Journal, Dec/7
-
+- [**Reigning Cats -How to buy cryptocurrency Ethereum – is it worth as much as Bitcoin and what are CryptoKitties?**](https://www.thesun.co.uk/money/5087162/how-to-buy-ethereum-price-cryptocurrency-cryptokitties-bitcoin/), The Sun, Dec/28 - Players can buy and sell virtual cats for as much as $10,000 on the new digital currency - with their rather valuable 'Cattributes'
 
 
 ### Timeline
