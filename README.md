@@ -1222,7 +1222,7 @@ github: [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) (contr
 
 Too simple. Buy, sell and hodl (collect). That's it. 
 Fixed 10 000  collection. No new CyperPunks creation (eg. pairing of genomes) possible. 
-No growth. No "mystery" genome and new surprise genes and attributes etc.
+No growth. No "mystery" genome and new surprise genes and attributes etc. Where's the fun? :-).
 
 
 
