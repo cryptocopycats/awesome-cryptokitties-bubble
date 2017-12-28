@@ -164,6 +164,11 @@ _More (Minor) Milestones_
 _Meet the CryptoKitties Makers_
 
 
+![](i/cryptokitties-team.png)
+
+(Source: [CryptoKittes For Press / Team](https://www.cryptokitties.co/press))
+
+
 CryptoKitty Team (*):
 
 - **Arthur Camara** / Developer / twitter: [arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
