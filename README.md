@@ -1123,6 +1123,16 @@ twitter: [CryptoBunniesHQ](https://twitter.com/CryptoBunniesHQ),
 reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
 
 
+### CryptoFighters on the Blockchain! (Upcoming)
+
+> Collectible fighters on the blockchain. Level up and start battling!
+
+Learn more @
+web:[cryptofighters.io](http://cryptofighters.io),
+twitter: [CryptoFighters](https://twitter.com/CryptoFighters)
+
+
+
 ### CryptoPunks on the Blockchain!
 
 10 000 unique collectible 8-bit characters with proof of ownership stored on the blockchain. 
