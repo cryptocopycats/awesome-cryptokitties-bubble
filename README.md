@@ -1125,10 +1125,10 @@ reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
 
 ### CryptoFighters on the Blockchain! (Upcoming)
 
-> Collectible fighters on the blockchain. Level up and start battling!
+Collectible fighters. Level up and start battling.
 
 Learn more @
-web:[cryptofighters.io](http://cryptofighters.io),
+web: [cryptofighters.io](http://cryptofighters.io),
 twitter: [CryptoFighters](https://twitter.com/CryptoFighters)
 
 
