@@ -9,12 +9,10 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > - Rarity: 0.00264% Gen 5 JAGUAR FABULOUS GOLD DALI!! VIRGIN! 
 > - Rarity: 0.0015% Princess Bubblegum is now for sale! Gen 12 | Brisk | Virgin | Chartreux | Bubblegum | Otaku | Emeraldgreen | Saycheese | Mauveover | Spock - Starts ETH 20/Ends ETH 10 
 > - Gold ducat, Gen 5, Virgin, Swift. Very cheap 
-> - Selling a lot of GEN1-3 for less than .2 | Fire Sale 
-> - Selling all kitties for .45 ETH - 9 kitties, quick cooldowns, early generations, rare traits
-> - Selling account with 9 kitties (GEN1 - 2 cats, GEN2 - 5 cats, GEN3 - 2 cats), price = ETH 1.2
 > - Cheap Gen 1 cute kittie with rare genes! Only 0.125 ETH 
 > - UNIQUE Virgin Peach Googly Gold Mauveover gen:2 cooldown:1 0.87992% RARE
 > - SUPER CHEAP: Gerbil, Ragdoll, Scarlet, Chestnut, Cotton Candy!!! 0.02 ETH (~$14)
+> - Fabulous Persian Spock Gerbil Gold Cottoncandy - Extremely rare gen 5 swift virgin | 2.9 ETH
 >
 > -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
@@ -440,6 +438,133 @@ by Tony Aubé, December 2017 -- Crypto Kitties is about so much more than cats.
 
 
 
+### Money, Money, Money $$$
+
+_Gambling with CryptoKitties - Welcome to the Casino - Get-Rich-Quick_
+
+
+
+#### How Do the Founder Make Money with CryptoKitties?
+
+- The founder auctioned off 100 founder gen 0 kitties on startup.
+- The founder auctions off a new gen 0 kitty every 15 minutes until reaching 50 000 gen 0 ktties in November 2018.
+  Note: The auction price gets automatically calculated from the last five sales plus 50%.
+- The founder get a 3.75% cut (no minimum) on every transaction (selling auction, siring auction, etc.)
+  on the official CryptoKitties marketplace.
+
+Note: If you buy kitties you do NOT own the pictures (*) just the 256-bit hex string (on the blockchain),
+thus, the founder can sell merchandise or license the pictures for profit. What a franchise!
+
+(*): See Q: Do you really own your CryptoKitties? A: Spoiler: No.
+
+
+#### How Can You Make Money with CryptoKitties?
+
+No. 1 - Sell your kitties to a greater fool for a higher price!
+
+No. 2 - Put up your kitties for siring (breeding) a new kitty in an auction and earn money for the service! 
+The rarer your kitties traits the higher your service fee income!
+
+No. 3 - Breed your own new kitties and sell to a greater fool for a higher price!
+
+
+
+
+#### Scams, Scams, Scams - The Art of the Steal
+
+_Buyer Beware! Seller Beware! Here Be Dragons!_
+
+**Scam #1: Selling Fake Labeled Cheap Kittens Expensive to Newbies (First Timers)**
+
+It's like selling (fake) cheap Gucci handbags for the expensive Gucci price.
+Best of both worlds. Buy low, sell high :-). Profit!
+
+Example: I list my gen 15 cat for sale and name it "RARE gen 0 SANTA mom"
+and new people not yet understanding how things work buy it.
+That was happening ALOT.
+
+Q: Can you please return the cat names to the breeding screen?
+
+_Benny Giang_:
+Cat names was an awesome way to have personality in the marketplace but unfortunately,
+there were too many people taking advantage
+and tricking new users.
+
+
+**Scam #2: Fake Services Phising (Stealing) Your Private Keys (Kitties)**
+
+Put up a website that offers to find the perfect soul mate (with machine learing)
+for siring new kitties with the rarest or the rarest traits.
+Please enter your private key to get started. Thank you!
+Now you've got new kitties for free. Profit!
+
+**REMINDER: Trading or selling kitties off of the CryptoKitties marketplace can put your account at EXTREMELY HIGH RISK. NEVER expose your private key on any website for any matter at all. If you do so, you put yourself in a vulnerable position!**
+
+(Source: [CryptoKitties](https://twitter.com/CryptoKitties/status/942799255315521537))
+
+
+
+#### Is CryptoKitties a Scam? Is CryptoKitties a Pyramid (Gambling) Scheme?
+
+First the official answer from the CryptoKitties F.A.Q.:
+
+**Q: Is CryptoKitties a scam?**
+
+> No, this isn’t a scam.
+> Anyone with insider knowledge of CryptoKitties - including our developers -
+> are banned from participating.
+> This is to prevent anyone from using their knowledge of the breeding algorithm
+> to create the most valuable kinds of cat.
+
+**Q: Are CryptoKitties like dollars or like stuffed animals?**
+
+> CryptoKitties are NOT a cryptocurrency.
+> They're more like a crypto collectible.
+> The real-world analogy for a cryptocurrency is dollars or pounds;
+a crypto collectible’s real world analogy is closer to stuffed animals beanie babys or fine tulip flower bulps.
+>
+> As dictated by the contract script on the blockchain, any CryptoKitty you own belongs to you (*).
+> Like any product or property you can own, the market price is determined by what a greater fool
+> is ready to pay (depending on demand, scarcity, and only limited by your asking price).
+
+(Source: [CryptoKitties F.A.Q.](https://www.cryptokitties.co/faq))
+
+(*): Note: See Q: Do you really own your CryptoKitties? A: Spoiler: No.
+
+
+---
+
+And here's an independent ("unofficial") answer:
+
+**Q: Is CryptoKitties a pyramid (gambling) scheme?**
+
+Yes, of course. It's gambling. CryptoKitties is designed on purpose for viral spreading.
+
+With human nature is what it is - fear of missing out of getting-rich-quick and so on -
+it works everytime like a charm once the hype starts (and prices go up and up).
+
+More and more new greater fools buy more and more 256-bit hex strings (kitties on the blockchain)
+until in the end running out of new greater fools paying ever higher prices.
+
+Facebook has more than 1 000 000 000+ internet user. CryptoKitties is world-wide.
+Will CryptoKitties ever run out of new greater fools?
+
+> - Selling a lot of GEN1-3 for less than .2 | Fire Sale
+> - Selling all kitties for .45 ETH - 9 kitties, quick cooldowns, early generations, rare traits
+> - Selling account with 9 kitties (GEN1 - 2 cats, GEN2 - 5 cats, GEN3 - 2 cats), price = ETH 1.2
+> - Selling almost 100 kitties!
+> - Sell all my kitties for a great price!
+> - Selling whole Account with 10 ultra amur cats. Perfect Starter. (For only 0.25 ETH). Fastest gets it.
+> - Selling all kitties for .45 ETH - 9 kitties, quick cooldowns, early generations, rare traits
+> - Selling whole account with 18 good kitties (10 amurs, rare traits, 1 fancy, max gen.3-9) - Make me an offer!
+>
+> -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
+
+
+
+
+
+
 ### Questions & Answers
 
 _Tech_
@@ -603,20 +728,6 @@ CryptoKitty Team @ Axiom Zen (Vancouver, Canada) Attending:
 
 _Arthur Camara_:
 6 months from now: there'll be tons of new genes, fancy cats, new features that enhance the gameplay. Managing larger collections will be easy and fun. Cats of all prices will be meaningful and we'll find new ways for people to play with their kitties. We want to enhance the meaning of ownership and make it even more fun.
-
-  * * *
-
-**Q: Can you please return the cat names to the breeding screen?**
-
-_Benny Giang_:
-Cat names was an awesome way to have personality in the marketplace but unfortunately, 
-there were too many people taking advantage 
-and tricking new users.
-
-> Q: How does having names in the breeding screen trick new users? They are your own cats...
->
->> I list my gen 15 cat for sale and name it "RARE gen 0 SANTA mom" 
->> and new people not yet understanding how things work buy it. That was happening ALOT.
 
   * * *
    
