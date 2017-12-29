@@ -4,15 +4,14 @@
 
 The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, CryptoMonsters, CryptoTulips - Latest (and Greatest) Investment Opportunities - The Future is Meow
 
-
-> - I'm giving away a Gen 1 FAST Gold for free...
+> - Fabulous Persian Spock Gerbil Gold Cottoncandy - Extremely rare gen 5 swift virgin | 2.9 ETH
 > - Rarity: 0.00264% Gen 5 JAGUAR FABULOUS GOLD DALI!! VIRGIN! 
 > - Rarity: 0.0015% Princess Bubblegum is now for sale! Gen 12 | Brisk | Virgin | Chartreux | Bubblegum | Otaku | Emeraldgreen | Saycheese | Mauveover | Spock - Starts ETH 20/Ends ETH 10 
 > - Gold ducat, Gen 5, Virgin, Swift. Very cheap 
 > - Cheap Gen 1 cute kittie with rare genes! Only 0.125 ETH 
 > - UNIQUE Virgin Peach Googly Gold Mauveover gen:2 cooldown:1 0.87992% RARE
 > - SUPER CHEAP: Gerbil, Ragdoll, Scarlet, Chestnut, Cotton Candy!!! 0.02 ETH (~$14)
-> - Fabulous Persian Spock Gerbil Gold Cottoncandy - Extremely rare gen 5 swift virgin | 2.9 ETH
+> - I'm giving away a Gen 1 FAST Gold for free...
 >
 > -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
@@ -52,6 +51,11 @@ Contents
   - [Special Collector's CryptoKitties](#special-collectors-cryptokitties)
   - [Sales Statistics $$$](#sales-statistics)
   - [Articles](#articles)
+  - [Money, Money, Money $$$](#money-money-money-) - _Gambling with CryptoKitties - Welcome to the Casino - Get-Rich-Quick_
+    - [How Do the Founder Make Money with CryptoKitties?](#how-do-the-founder-make-money-with-cryptokitties)
+    - [How Can You Make Money with CryptoKitties?](#how-can-you-make-money-with-cryptokitties)
+    - [Scams, Scams, Scams - The Art of the Steal](#scams-scams-scams---the-art-of-the-steal) - _Buyer Beware! Seller Beware! Here Be Dragons!_
+    - [Is CryptoKitties a Scam? Is CryptoKitties a Pyramid (Gambling) Scheme?](#is-cryptokitties-a-scam-is-cryptokitties-a-pyramid-gambling-scheme)
   - [Questions & Answers](#questions--answers) - _Tech, Legal, Market & Gaming / "Investing"_
   - [Code on the Blockchain - Electronic Contract Scripts](#code-on-the-blockchain---electronic-contract-scripts)
     - [Non-fungible Token (NFT) Standard - Ethereum Request for Comments #721 (ERC-721)](#non-fungible-token-nft-standard---ethereum-request-for-comments-721-erc-721)
@@ -491,10 +495,10 @@ there were too many people taking advantage
 and tricking new users.
 
 
-**Scam #2: Fake Services Phising (Stealing) Your Private Keys (Kitties)**
+**Scam #2: Fake Services Phishing (Stealing) Your Private Keys (Kitties)**
 
 Put up a website that offers to find the perfect soul mate (with machine learing)
-for siring new kitties with the rarest or the rarest traits.
+for siring new kitties with the rarest of the rarest traits.
 Please enter your private key to get started. Thank you!
 Now you've got new kitties for free. Profit!
 
