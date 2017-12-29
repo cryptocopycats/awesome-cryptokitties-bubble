@@ -1206,6 +1206,11 @@ Exclusive. Archivable. Collectibles.
 
 Learn more @ [crypto-stamps.com](http://crypto-stamps.com), twitter: [crypto_stamps](https://twitter.com/crypto_stamps)
 
+<!--  from reddit answer Dec/29: 
+We are a small team based in San francisco. 
+The team is composed of developers varying from Carnegie Mellon University and Columbia University.
+We are in the process of designing our own unique stamps, and are pursuiant with copyright laws.
+-->
 
 ### CryptoTulips on the Blockchain!  (Upcoming)
 
