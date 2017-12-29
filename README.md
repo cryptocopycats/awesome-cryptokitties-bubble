@@ -1170,8 +1170,7 @@ reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
 
 Collectible fighters. Level up and start battling.
 
-Learn more @
-web: [cryptofighters.io](http://cryptofighters.io),
+Learn more @ [cryptofighters.io](http://cryptofighters.io),
 twitter: [CryptoFighters](https://twitter.com/CryptoFighters)
 
 
@@ -1188,13 +1187,16 @@ Grow your fish to the top of food chain!
 
 ![](i/fishbank.png)
 
-Learn more @
-web: [fishbank.io](https://fishbank.io)
+Learn more @ [fishbank.io](https://fishbank.io)
 
 > New Year gift for all the crypto cuties!
 > Every owner of Gen 0 asset in any other crypto  pets collectible as of 1th Jan. 2018 
-> may request a special gift - the Rare fish token in Fishbank game. 
+> may request a special gift - the Rare fish token in Fishbank. 
 > That is what can be generally referred to as "hardfork effect" in blockchain ecosystems.
+
+Team:
+
+- Chat Robotic @ [chatrobotic.com](http://www.chatrobotic.com), twitter: [chatrobotic](https://twitter.com/chatrobotic)
 
 
 
@@ -1208,8 +1210,10 @@ Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 Learn more @ [openblockchains/tulips](https://github.com/openblockchains/tulips)
 
 
+
 ### More
 
+<!-- add decentraland ??   virtual land (parcels) on the blockchain and more -->
 
 
 #### News
