@@ -687,26 +687,52 @@ Learn more @ [cryptokittiesart.blogspot.com](https://cryptokittiesart.blogspot.c
 
 ##### Q: What's the cost of playing?
 
-A:
+A: Costs:
 
+- Buying a cat.  (For sale / Buy now price varies; see [Marketplace / For Sale](https://www.cryptokitties.co/marketplace))
+- Hiring a sire for your cat.  (Want to sire / Breed now price varies; see [Marketplace / Siring](https://www.cryptokitties.co/marketplace/siring))
+- Breeding @ 0.008 ETH (*)
+
+Fees:
+
+- 3.5% Sales fee. (When you successfully sell or sire a cat on the marketplace.)
+- Gas fees (**). These are transactions fees. Every time you start a transaction on the blockchain, you have to pay the "miners" to run the task. These transactions require gas fees:
+  - Buying a cat / hiring a sire.
+  - Breeding.
+  - Putting a cat up for auction (sell or sire).
+  - Taking a cat down from auction (sell or sire). [Note: Note: If you cat doesn't sell, it stays up for auction until you take it down.]
+
+
+(*): The breeding fee was at first 0.001 ETH. Due to high transaction traffic on the blockchain
+  the founders must raise the fee because the breeding fee has to be higher than gas fees to birth a new kitty.
+
+(**): The gas fee is shown before you send off a transaction. It is roughly between $0.30 - $3.00 
+ (depending on blockchain traffic).
+
+
+
+<!-- old text
 * Price of kitties that you purchase.
 * Fees for breeding two kitties together (about $0.50 to $0.60 as of 3rd December 2017).
 * Fees for listing the sale auction to sell your kitties (about $0.20 as of 3rd December 2017).
 * Additional funds in your wallet to allow the transactions to occur.
-
-> We have dropped the birthing fee from 0.015 ETH to 0.008 ETH. Happy breeding everyone!
-> 
-> -- [CryptoKitties](https://twitter.com/CryptoKitties/status/940302318792163328) - Dec/11
+-->
 
 
 
 ##### Q: What's the population? How many gen0 kitties will there be?
 
-A: 50_000 – Every 15 minutes a new gen0 kitty gets added (that is, 4 gen0 kitties/hour, 96 gen0 kitties/day, 672 gen0 kitties/week)
-and sold by clock auction (*) until reaching a limit of 50_000 in one year (end of November 2018).
+A: 50_000 Gen 0 Kitties
 
-(*): A gen0 kitty's (also known as "clock cat") price is automatically calculated by the average price 
-of the last five CryptoKitty sales, plus 50% and sold by a descending clock auction.
+- CryptoKitties started with 100 founder kitties - see #1 (Genesis!) to #100.
+- Every 15 minutes a new gen0 kitty (also known as "clock cat")
+  gets added (that is, 4 gen0 kitties/hour, 96 gen0 kitties/day, 672 gen0 kitties/week)
+  and sold by (dutch) clock auction (*) until reaching a limit of 50_000 in one year (end of November 2018) - 
+  see #1001 for first clock cat. 
+
+(*): A gen0 kitty's start price is automatically calculated by the average price 
+of the last five kitty sales, plus 50% and sold by a descending clock auction; see [Marketplace / Gen 0](https://www.cryptokitties.co/marketplace/gen0).
+
 
 
 ![](i/cryptokitties-population-cooldown.png)
