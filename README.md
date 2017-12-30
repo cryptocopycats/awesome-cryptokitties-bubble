@@ -407,14 +407,6 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 (Source: [CryptoKitties Sales](https://kittysales.co))
 
 
-Top 10 Sales
-
-![](i/cryptokitties-top10-sales.png)
-
-(Source: [CryptoKitties have the digital currency world purring, The San Francisco Chronicle](http://www.sfchronicle.com/news/article/CryptoKitties-have-the-digital-currency-world-12462575.php))
-
-
-
 New Kitties / Day:
 - Highest on Dec/10 -  31 642 New Kitties
 - Lowest  on Nov/27 -   781 New Kitties
@@ -474,6 +466,9 @@ by Tony Aubé, December 2017 -- Crypto Kitties is about so much more than cats.
 
 _Gambling with CryptoKitties - Welcome to the Casino - Get-Rich-Quick_
 
+![](i/cryptokitties-top10-sales.png)
+
+(Source: [CryptoKitties have the digital currency world purring, The San Francisco Chronicle](http://www.sfchronicle.com/news/article/CryptoKitties-have-the-digital-currency-world-12462575.php))
 
 
 #### How Do the Founder Make Money with CryptoKitties?
