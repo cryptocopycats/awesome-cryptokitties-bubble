@@ -566,6 +566,32 @@ Will CryptoKitties ever run out of new greater fools?
 
 
 
+**Q: Is CryptoKitties an online gambling casino?**
+
+Gambling vs Investing
+
+> Investments are generally not considered gambling when they meet the following criteria:
+>
+> - Economic utility
+> - Positive expected returns (at least in the long term)
+> - Underlying value independent of the risk being undertaken
+
+(Source: [Gambling @ Wikipedia](https://en.wikipedia.org/wiki/Gambling))
+
+For example, the mixing of genomes when breeding (siring) new kitties is a modern
+"masqueraded" or fun way to roll a dice or spin a roulette wheel.
+The betting (wagering) on rare traits is a modern "masqueraded" or fun
+way of betting (wagering) on lucky numbers.
+
+And, of course, the kitties
+are a modern "masqueraded" or fun way of casino "funny money" tokens
+rebranded as digital "virtual" cat collectibles or
+non-fungible tokens (N.F.T.s).
+
+**Beware: Gambling is fun and addictive. Winning and losing. Up and down.
+Treat CryptoKittes as entertainment like casino gambling, sports betting or poker cards playing.
+Do NOT "invest" trying to get-rich-quick
+or raise the stakes trying to win back what you have lost, and so on.***
 
 
 
