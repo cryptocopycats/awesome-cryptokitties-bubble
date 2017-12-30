@@ -802,8 +802,8 @@ Examples:
 A gen 2 kitty will start off with a swift 2 minutes cooldown when born, 
 and a gen 14 will be born with a plodding 4 hours cooldown.
 
-A gen 11 kitty virgin will start off with a brisk 1 hours cooldown (slot 10·11) when born,
-but after having 3 kids will end up 3 slots down with a plodding 8 hours cooldown (slot 16·17).
+A gen 11 kitty virgin will start off with a brisk 1 hours cooldown (slot gen 10·11) when born,
+but after having 3 kids will end up 3 slots down with a plodding 8 hours cooldown (slot gen 16·17).
 
 
 <!-- old official (simpler) cooldown table
