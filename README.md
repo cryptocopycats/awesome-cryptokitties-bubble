@@ -695,8 +695,8 @@ A: Costs:
 
 Fees:
 
-- 3.5% Sales fee. (When you successfully sell or sire a cat on the marketplace.)
-- Gas fees (**). These are transactions fees. Every time you start a transaction on the blockchain, you have to pay the "miners" to run the task. These transactions require gas fees:
+- 3.75% Sales fee. (When you successfully sell or sire a cat on the marketplace.)
+- Gas fees (**). These are transactions fees. Every time you start a transaction on the blockchain, you have to pay the "miners" to run the task. Transactions with gas fees incl.:
   - Buying a cat / hiring a sire.
   - Breeding.
   - Putting a cat up for auction (sell or sire).
@@ -704,11 +704,10 @@ Fees:
 
 
 (*): The breeding fee was at first 0.001 ETH. Due to high transaction traffic on the blockchain
-  the founders must raise the fee because the breeding fee has to be higher than gas fees to birth a new kitty.
+  the founders had to raise the fee because the breeding fee has to be higher than gas fees to birth a new kitty.
 
 (**): The gas fee is shown before you send off a transaction. It is roughly between $0.30 - $3.00 
  (depending on blockchain traffic).
-
 
 
 <!-- old text
@@ -772,34 +771,39 @@ For example:
 * If a Gen 0 and a Gen 5 breed, the kitten will be Gen 6.
 
 **Cooldowns.**  Each time a kitty breeds another kitty it needs a
-period of cooldown time to recover. The cooldown wait time increases with every generation 
-until it reaches "catatonic" cooldown, where it will remain.
+period of cooldown time to recover. The cooldown wait time increases every time
+a kitty breeds until it reaches "catatonic" cooldown, where it will remain.
 
 Note: Cooldowns - 
 fast (1m) › swift (2m·5m) › snappy (10m·30m) › brisk (1h·2h) › 
 plodding (4h·8h) › slow (16h·24h) › sluggish (2d·4d) › catatonic (1w) - 
-are NOT inherited but plainly depend on the generation (gen).
+are NOT inherited but depend on the generation, that is,  
+each new kitty is born with a cooldown based on its generation (gen).
 
+|  Gen      | (+) Kids |  Cooldown  | Time to Recover |
+|-----------|----------|------------|-----------------|
+|   0 · 1   |          | Fast       | 1 minute        |
+|   2 · 3   |          | Swift      | 2 minutes       |
+|   4 · 5   |          | -^^^-      | 5 minutes       |
+|   6 · 7   |          | Snappy     | 10 minutes      |
+|   8 · 9   |          | -^^^-      | 30 minutes      |
+|  10 · 11  |          | Brisk      | 1 hours         |
+|  12 · 13  |          | -^^^-      | 2 hours         |  
+|  14 · 15  |          | Plodding   | 4 hours         |
+|  16 · 17  |          | -^^^-      | 8 hours         |
+|  18 · 19  |          | Slow       | 16 hours        |
+|  20 · 21  |          | -^^^-      | 24 hours        |
+|  22 · 23  |          | Sluggish   | 2 days          |
+|  24 · 45  |          | -^^^-      | 4 days          |
+|  26+      |          | Catatonic  | 1 week          |
+ 
+Examples:
 
-|  Gen |  Cooldown    | Time to Recover |  Gen |  Cooldown    | Time to Recover |
-|------|--------------|-----------------|------|--------------|-----------------|
-|   0  |  Fast        | 1 minute        |  14  |  Plodding    | 4 hours         |
-|   1  |  Fast        | ^^^             |  15  |  Plodding    | ^^^             |
-|   2  |  Swift       | 2 minutes       |  16  |  Plodding    | 8 hours         |
-|   3  |  Swift       | ^^^             |  17  |  Plodding    | ^^^             |
-|   4  |  Swift       | 5 minutes       |  18  |  Slow        | 16 hours        |
-|   5  |  Swift       | ^^^             |  19  |  Slow        | ^^^             |
-|   6  |  Snappy      | 10 minutes      |  20  |  Slow        | 24 hours        |
-|   7  |  Snappy      | ^^^             |  21  |  Slow        | ^^^             |
-|   8  |  Snappy      | 30 minutes      |  22  |  Sluggish    | 2 days          |
-|   9  |  Snappy      | ^^^             |  23  |  Sluggish    | ^^^             |
-|  10  |  Brisk       | 1 hours         |  24  |  Sluggish    | 4 days          |
-|  11  |  Brisk       | ^^^             |  25  |  Sluggish    | ^^^             |
-|  12  |  Brisk       | 2 hours         |  26  |  Catatonic   |  1 week         |
-|  13  |  Brisk       | ^^^             |  27  |              |
+A gen 2 kitty will start off with a swift 2 minutes cooldown when born, 
+and a gen 14 will be born with a plodding 4 hours cooldown.
 
-
-For example a generation 2 kitty will start off with a swift cooldown when born, and a generation 14 will be born with a plodding cooldown.
+A gen 11 kitty virgin will start off with a brisk 1 hours cooldown (slot 10·11) when born,
+but after having 3 kids will end up 3 slots down with a plodding 8 hours cooldown (slot 16·17).
 
 
 <!-- old official (simpler) cooldown table
