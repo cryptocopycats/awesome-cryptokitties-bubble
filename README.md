@@ -262,12 +262,11 @@ CryptoKitty Team :
 Mack Flavelle came up with the original idea. 
 Mack is the project leader and self-described "fat cat" of CryptoKitties. 
 
-> If you are going to build gambling casinos on the internet [blockchain] then you should not explain 
+> If you are going to build consumer [gambling casino] products on the internet [blockchain] then you should not explain 
 > why you're using cats, but you should explain why you are not using cats.
 >
-> -- Mack Flavelle
+> -- [Mack Flavelle](http://www.cbc.ca/radio/spark/digital-kitties-make-cryptocurrency-more-accessible-1.4443100)
 
-<!-- editor's note: changed ~~consumer products~~ to gambling casinos :-) for clarity --> 
 
 
 ![](i/internet-for-cats.png)
