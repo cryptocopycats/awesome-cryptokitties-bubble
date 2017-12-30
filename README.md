@@ -508,11 +508,11 @@ Now you've got new kitties for free. Profit!
 
 
 
-#### Is CryptoKitties a Scam? Is CryptoKitties a Pyramid (Gambling) Scheme?
+#### Is CryptoKitties a Scam? Is CryptoKitties a Pyramid (Gambling) Scheme? Is CryptoKittes an Online (Gambling) Casino?
 
 First the official answer from the CryptoKitties F.A.Q.:
 
-**Q: Is CryptoKitties a scam?**
+##### Q: Is CryptoKitties a scam?
 
 > No, this isn’t a scam.
 > Anyone with insider knowledge of CryptoKitties - including our developers -
@@ -520,7 +520,7 @@ First the official answer from the CryptoKitties F.A.Q.:
 > This is to prevent anyone from using their knowledge of the breeding algorithm
 > to create the most valuable kinds of cat.
 
-**Q: Are CryptoKitties like dollars or like stuffed animals?**
+##### Q: Are CryptoKitties like dollars or like stuffed animals?
 
 > CryptoKitties are NOT a cryptocurrency.
 > They're more like a crypto collectible.
@@ -540,7 +540,7 @@ a crypto collectible’s real world analogy is closer to stuffed animals beanie 
 
 And here's an independent ("unofficial") answer:
 
-**Q: Is CryptoKitties a pyramid (gambling) scheme?**
+##### Q: Is CryptoKitties a pyramid (gambling) scheme?
 
 Yes, of course. It's gambling. CryptoKitties is designed on purpose for viral spreading.
 
@@ -565,8 +565,7 @@ Will CryptoKitties ever run out of new greater fools?
 > -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
 
-
-**Q: Is CryptoKitties an online gambling casino?**
+##### Q: Is CryptoKitties an online gambling casino?
 
 Gambling vs Investing
 
@@ -575,8 +574,8 @@ Gambling vs Investing
 > - Economic utility
 > - Positive expected returns (at least in the long term)
 > - Underlying value independent of the risk being undertaken
-
-(Source: [Gambling @ Wikipedia](https://en.wikipedia.org/wiki/Gambling))
+>
+> -- [What's Gambling @ Wikipedia](https://en.wikipedia.org/wiki/Gambling)
 
 For example, the mixing of genomes when breeding (siring) new kitties is a modern
 "masqueraded" or fun way to roll a dice or spin a roulette wheel.
@@ -597,9 +596,9 @@ or raise the stakes trying to win back what you have lost, and so on.***
 
 ### Questions & Answers
 
-_Tech_
+#### Tech
 
-**Q: Couldn't CryptoKitties be hosted on many types of databases besides a blockchain?**
+##### Q: Couldn't CryptoKitties be hosted on many types of databases besides a blockchain?
 
 > A: Crypto-collectibles have key properties that proprietary digital collectibles didn't: 
 > longevity, code-enforced scarcity and rules, resistance to actions of sponsoring company. 
@@ -608,9 +607,9 @@ _Tech_
 > -- [Chris Dixon](https://twitter.com/cdixon/status/937671322724982784)
 
 
-_Legal_
+#### Legal
 
-**Q: Do you really own your CryptoKitties?**
+##### Q: Do you really own your CryptoKitties?
 
 > A: Spoiler: No.
 >
@@ -621,10 +620,9 @@ _Legal_
 > -- [Greg McMullen](https://medium.com/@gmcmullen/do-you-really-own-your-cryptokitties-d2731d3491a9)
 
 
-_Market & Gaming / Investing_
+#### Casino & Gambling / "Market & Investing"
 
-
-**Q: What's the cost of playing?**
+##### Q: What's the cost of playing?
 
 A:
 
@@ -639,7 +637,7 @@ A:
 
 
 
-**Q: What's the population? How many gen0 kitties will there be?**
+##### Q: What's the population? How many gen0 kitties will there be?
 
 A: 50_000 – Every 15 minutes a new gen0 kitty gets added (that is, 4 gen0 kitties/hour, 96 gen0 kitties/day, 672 gen0 kitties/week)
 and sold by clock auction (*) until reaching a limit of 50_000 in one year (end of November 2018).
@@ -652,7 +650,7 @@ of the last five CryptoKitty sales, plus 50% and sold by a descending clock auct
 (Source: [Kitty Explorer / Generation Breakdown](http://www.kittyexplorer.com))
 
 
-**Q: What's a clock auction?**
+##### Q: What's a clock auction?
 
 It's an auction with an automatically calculated descending price by clock (that is, the prices depends on the time of the purchase). 
 Sellers choose a high opening bid, a minimum closing bid, and a timeframe for the auction to run.
@@ -661,8 +659,7 @@ Note: Buyers pay gas when they complete a purchase and sellers pay gas to start 
 
 
 
-
-**Q: What make's a kitty good?**
+##### Q: What make's a kitty good?
 
 A: The generation, cooldown speed, traits, and all affect the overall price and desirability of the kitties.
 Generally, anything gen(eration) 0/1/2/3/4, with fast/swift/snappy/brisk is a good kitty. Rare traits make it even better.
@@ -710,7 +707,7 @@ Traits include:
 - Eye Color / Background Color: Bubblegum Chestnut Gold Limegreen Mintgreen Sizzurp Strawberry Topaz
 - Mouth:  Whixtensions Dali Saycheese Beard Tongue Happygokitty Pouty Soserious Gerbil
 
-**Q: What are rare traits?**
+##### Q: What are rare traits?
 
 A: Use these website services:
 
@@ -739,6 +736,7 @@ Example:
 
 See the [Crypto Kitty World F.A.Q.](http://cryptokittyworld.com/faq/) 
 or the [Crypto Kitties Wiki](http://cryptokitties.wikia.com/wiki/CryptoKitties_Wiki) for many more questions and answers.
+
 
 
 #### More Questions & Answers
