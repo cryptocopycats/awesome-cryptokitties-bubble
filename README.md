@@ -253,11 +253,10 @@ CryptoKitty Team :
 
 (*): from the Ask the Team Anything on CryptoKitties Reddit
 
+Mack Flavelle's the guy who came up with the original idea. 
+Mack is the project leader and self-described "fat cat" of CryptoKitties. 
 
-Mack Flavelle is the project leader and self-described "fat cat" of CryptoKitties. 
-Mack's the guy who came up with the original idea. 
-
-> If you are going to build gambling casinos on the internet then you should not explain 
+> If you are going to build gambling casinos on the internet [blockchain] then you should not explain 
 > why you're using cats, but you should explain why you are not using cats.
 >
 > -- Mack Flavelle
