@@ -2,7 +2,7 @@
 ![](i/cryptokitties-genes01.png)
 
 
-The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, CryptoMonsters, CryptoTulips - Latest (and Greatest) Investment Opportunities - The Future is Meow
+The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, CryptoMonsters, CryptoTulips - Latest (and Greatest) Investment Opportunities in Online Casino Gambling - The Future is Meow
 
 > - Fabulous Persian Spock Gerbil Gold Cottoncandy - Extremely rare gen 5 swift virgin | 2.9 ETH
 > - Rarity: 0.00264% Gen 5 JAGUAR FABULOUS GOLD DALI!! VIRGIN! 
@@ -55,8 +55,22 @@ Contents
     - [How Do the Founder Make Money with CryptoKitties?](#how-do-the-founder-make-money-with-cryptokitties)
     - [How Can You Make Money with CryptoKitties?](#how-can-you-make-money-with-cryptokitties)
     - [Scams, Scams, Scams - The Art of the Steal](#scams-scams-scams---the-art-of-the-steal) - _Buyer Beware! Seller Beware! Here Be Dragons!_
-    - [Is CryptoKitties a Scam? Is CryptoKitties a Pyramid (Gambling) Scheme?](#is-cryptokitties-a-scam-is-cryptokitties-a-pyramid-gambling-scheme)
-  - [Questions & Answers](#questions--answers) - _Tech, Legal, Market & Gaming / "Investing"_
+    - [Is CryptoKitties a Scam? Is CryptoKitties a Pyramid (Gambling) Scheme? Is CryptoKittes an Online (Gambling) Casino?](#is-cryptokitties-a-scam-is-cryptokitties-a-pyramid-gambling-scheme-is-cryptokittes-an-online-gambling-casino)
+      - [Q: Is CryptoKitties a scam?](#q-is-cryptokitties-a-scam)
+      - [Q: Are CryptoKitties like dollars or like stuffed animals?](#q-are-cryptokitties-like-dollars-or-like-stuffed-animals)
+      - [Q: Is CryptoKitties a pyramid (gambling) scheme?](#q-is-cryptokitties-a-pyramid-gambling-scheme)
+      - [Q: Is CryptoKitties an online gambling casino?](#q-is-cryptokitties-an-online-gambling-casino)
+  - [Questions & Answers](#questions--answers)
+    - [Tech](#tech)
+       - [Q: Couldn't CryptoKitties be hosted on many types of databases besides a blockchain?](q-couldnt-cryptokitties-be-hosted-on-many-types-of-databases-besides-a-blockchain)
+    - [Legal](#legal)
+       - [Q: Do you really own your CryptoKitties?](#q-do-you-really-own-your-cryptokitties) - _Spoiler: No_
+    - [Casino & Gambling / "Market & Investing"](#casino--gambling--market--investing)
+      - [Q: What's the cost of playing?](#q-whats-the-cost-of-playing)
+      - [Q: What's the population? How many gen0 kitties will there be?](#q-whats-the-population-how-many-gen0-kitties-will-there-be)
+      - [Q: What's a clock auction?](#q-whats-a-clock-auction)
+      - [Q: What make's a kitty good?](#q-what-makes-a-kitty-good)
+      - [Q: What are rare traits?](#q-what-are-rare-traits)
   - [Code on the Blockchain - Electronic Contract Scripts](#code-on-the-blockchain---electronic-contract-scripts)
     - [Non-fungible Token (NFT) Standard - Ethereum Request for Comments #721 (ERC-721)](#non-fungible-token-nft-standard---ethereum-request-for-comments-721-erc-721)
   - [Inside CryptoKitties Genetics](#inside-cryptokitties-genetics)
@@ -587,7 +601,7 @@ are a modern "masqueraded" or fun way of casino "funny money" tokens
 rebranded as digital "virtual" cat collectibles or
 non-fungible tokens (N.F.T.s).
 
-**Beware: Gambling is fun and addictive. Winning and losing. Up and down.
+**BEWARE: Gambling is fun and addictive. Winning and losing. Up and down.
 Treat CryptoKittes as entertainment like casino gambling, sports betting or poker cards playing.
 Do NOT "invest" trying to get-rich-quick
 or raise the stakes trying to win back what you have lost, and so on.***
