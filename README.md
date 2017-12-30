@@ -82,8 +82,6 @@ Contents
   - [CryptoPets on the Blockchain! (Upcoming)](#cryptopets-on-the-blockchain--upcoming)
   - [CryptoMons(ters) on the Blockchain! (Upcoming)](#cryptomonsters-on-the-blockchain-upcoming)
   - [CryptoDrome (CryptoHorses) on the Blockchain! (Upcoming)](#cryptodrome-cryptohorses-on-the-blockchain-upcoming)
-  - [CryptoBirdies on the Blockchain! (Upcoming)](#cryptobirdies-on-the-blockchain-upcoming)
-  - [CryptoBunnies on the Blockchain! (Upcoming)](#cryptobunnies-on-the-blockchain-upcoming)
   - [CryptoFighters on the Blockchain! (Upcoming)](#cryptofighters-on-the-blockchain-upcoming)
   - [CryptoTulips on the Blockchain! (Upcoming)](#cryptotulips-on-the-blockchain--upcoming)
   - [More](#more)
