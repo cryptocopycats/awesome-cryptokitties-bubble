@@ -60,6 +60,7 @@ Contents
       - [Q: Are CryptoKitties like dollars or like stuffed animals?](#q-are-cryptokitties-like-dollars-or-like-stuffed-animals)
       - [Q: Is CryptoKitties a pyramid (gambling) scheme?](#q-is-cryptokitties-a-pyramid-gambling-scheme)
       - [Q: Is CryptoKitties an online gambling casino?](#q-is-cryptokitties-an-online-gambling-casino)
+  - [Fun, Fun, Fun](#fun-fun-fun) - _Modern Art Paintings (Acryl on Canvas) and More_
   - [Questions & Answers](#questions--answers)
     - [Tech](#tech)
        - [Q: Couldn't CryptoKitties be hosted on many types of databases besides a blockchain?](q-couldnt-cryptokitties-be-hosted-on-many-types-of-databases-besides-a-blockchain)
@@ -614,6 +615,24 @@ non-fungible tokens (N.F.T.s).
 Treat CryptoKittes as entertainment like casino gambling, sports betting or poker cards playing.
 Do NOT "invest" trying to get-rich-quick
 or raise the stakes trying to win back what you have lost, and so on.**
+
+
+
+### Fun, Fun, Fun
+
+
+#### CryptoKitties Art
+
+Buy Fine Crypto Kitty Art Paintings (Acryl on Canvas) - Original (*) Modern Art?! 
+
+![](i/cryptokitties-modernart-paintings.png)
+
+(*): Yes, you really really own the painting.
+
+> Everybody is going nuts about CrypoKitties ( including myself ) So, as a painter my madness is reflected in art; 
+> so I've started to paint this kitties... lot's of kitties :)
+
+Learn more @ [cryptokittiesart.blogspot.com](https://cryptokittiesart.blogspot.com), twitter: [CryptoKityArt](https://twitter.com/CryptoKityArt)
 
 
 
