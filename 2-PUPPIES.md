@@ -1,4 +1,4 @@
-# Puppies (Quick) Notes
+# Puppies - More (Quick) Notes
 
 
 ### EtherPub
