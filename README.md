@@ -1258,6 +1258,17 @@ Learn more @ [cryptopuppies.org](http://cryptopuppies.org), twitter: [CryptoPupp
 Learn more @ twitter: [Crypto_Puppies](https://twitter.com/Crypto_Puppies)
 
 
+## Puppy Planet on the Blockchain! (Upcoming)
+
+Buy, sell, hodl and breed puppies.
+
+![](i/puppyplanet.png)
+
+Learn more @ [puppyplanet.co](http://www.puppyplanet.co),
+twitter: [aPuppyPlanet](https://twitter.com/aPuppyPlanet)
+
+
+
 ### HashPuppies on the Blockchain! (Upcoming)
 
 > We want to have a presale first so we can raise funds to hire more devs and artists 
