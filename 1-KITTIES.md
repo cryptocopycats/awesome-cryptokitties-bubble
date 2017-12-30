@@ -1,4 +1,4 @@
-# CryptoKitties - More (Quick) Notes
+# Kitties - More (Quick) Notes
 
 
 ## Articles
