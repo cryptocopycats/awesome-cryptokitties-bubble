@@ -217,11 +217,12 @@ Founded in 2013. Headquarters in Vancouver, British Columbia (BC), Canada.
 > Our team of fifty founder-quality engineers, product leads, and designers combine a wealth of experience from fast-growing startups
 > and companies.
 
+CEO: Roham Gharegozlou  twitter: [https://twitter.com/rohamg](rohamg), angel: [roham](https://angel.co/roham)
+
 
 #### Team
 
 _Meet the CryptoKitties Makers_
-
 
 ![](i/cryptokitties-team.png)
 
@@ -230,10 +231,10 @@ _Meet the CryptoKitties Makers_
 
 CryptoKitty Team :
 
-- **Arthur Camara** (*) / Product and Development / twitter: [arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
-- **Fabiano Pereira** (*) / Blockchain Contract Scripter / twitter: [FlockonUS](https://twitter.com/FlockonUS), reddit: [flockonus](https://www.reddit.com/u/flockonus)
-- **Dieter Shirley**  (*)/ Director of Blockchain / twitter: [dete73](https://twitter.com/dete73), reddit: [dete73](https://www.reddit.com/u/dete73), github: [dete](https://github.com/dete)
 - **Mack Flavelle**  (*) / Product / twitter: [mackflavelle](https://twitter.com/mackflavelle), reddit: [mackflavelle](https://www.reddit.com/u/mackflavelle)
+- **Arthur Camara** (*) / Product and Development / twitter: [arthur_camara](https://twitter.com/arthur_camara), reddit: [arthurcamara1](https://www.reddit.com/u/arthurcamara1)
+- **Dieter Shirley**  (*)/ Director of Blockchain / twitter: [dete73](https://twitter.com/dete73), reddit: [dete73](https://www.reddit.com/u/dete73), github: [dete](https://github.com/dete)
+- **Fabiano Pereira** (*) / Blockchain Contract Scripter / twitter: [FlockonUS](https://twitter.com/FlockonUS), reddit: [flockonus](https://www.reddit.com/u/flockonus)
 - **Benny Giang** (*) / Community  / twitter: [BennyGiang](https://twitter.com/BennyGiang), reddit: [nezmoixa](https://www.reddit.com/u/nezmoixa)
 - **Layne LaFrance** (*) / Business and Support / twitter: [laynelafrance](https://twitter.com/laynelafrance), reddit: [laynee77](https://www.reddit.com/u/laynee77)
 - **Yasmine Nadery** / Marketing
@@ -251,6 +252,22 @@ CryptoKitty Team :
 - **Andrew Burian** / Operations
 
 (*): from the Ask the Team Anything on CryptoKitties Reddit
+
+
+Mack Flavelle is the project leader and self-described "fat cat" of CryptoKitties. 
+Mack's the guy who came up with the original idea. 
+
+> If you are going to build gambling casinos on the internet then you should not explain 
+> why you're using cats, but you should explain why you are not using cats.
+>
+> -- Mack Flavelle
+
+<!-- editor's note: changed ~~consumer products~~ to gambling casinos :-) for clarity --> 
+
+
+![](i/internet-for-cats.png)
+
+
 
 
 ### Special Collector's CryptoKitties
@@ -728,38 +745,29 @@ For example:
 period of cooldown time to recover. The cooldown wait time increases with every generation 
 until it reaches "catatonic" cooldown, where it will remain.
 
-Note: Cooldowns (fast › swift › snappy › brisk › plodding › slow › sluggish › catatonic) 
+Note: Cooldowns - 
+fast (1m) › swift (2m·5m) › snappy (10m·30m) › brisk (1h·2h) › 
+plodding (4h·8h) › slow (16h·24h) › sluggish (2d·4d) › catatonic (1w) - 
 are NOT inherited but plainly depend on the generation (gen).
 
-|  Gen |  Cooldown    | Time to Recover |
-|------|--------------|-----------------|
-|   0  |  Fast        | 1 minute        |
-|   1  |  Fast        | ^^^             |
-|   2  |  Swift       | 2 minutes       |
-|   3  |  Swift       | ^^^             |
-|   4  |  Swift       | 5 minutes       |
-|   5  |  Swift       | ^^^             |
-|   6  |  Snappy      | 10 minutes      |
-|   7  |  Snappy      | ^^^             |
-|   8  |  Snappy      | 30 minutes      |
-|   9  |  Snappy      | ^^^             |
-|  10  |  Brisk       | 1 hours         |
-|  11  |  Brisk       | ^^^             |
-|  12  |  Brisk       | 2 hours         |
-|  13  |  Brisk       | ^^^             |
-|  14  |  Plodding    | 4 hours         |
-|  15  |  Plodding    | ^^^             |
-|  16  |  Plodding    | 8 hours         |
-|  17  |  Plodding    | ^^^             |
-|  18  |  Slow        | 16 hours        |
-|  19  |  Slow        | ^^^             |
-|  20  |  Slow        | 24 hours        |
-|  21  |  Slow        | ^^^             |
-|  22  |  Sluggish    | 2 days          |
-|  23  |  Sluggish    | ^^^             |
-|  24  |  Sluggish    | 4 days          |
-|  25  |  Sluggish    | ^^^             |
-|  26  |  Catatonic   |  1 week         |
+
+|  Gen |  Cooldown    | Time to Recover |  Gen |  Cooldown    | Time to Recover |
+|------|--------------|-----------------|------|--------------|-----------------|
+|   0  |  Fast        | 1 minute        |  14  |  Plodding    | 4 hours         |
+|   1  |  Fast        | ^^^             |  15  |  Plodding    | ^^^             |
+|   2  |  Swift       | 2 minutes       |  16  |  Plodding    | 8 hours         |
+|   3  |  Swift       | ^^^             |  17  |  Plodding    | ^^^             |
+|   4  |  Swift       | 5 minutes       |  18  |  Slow        | 16 hours        |
+|   5  |  Swift       | ^^^             |  19  |  Slow        | ^^^             |
+|   6  |  Snappy      | 10 minutes      |  20  |  Slow        | 24 hours        |
+|   7  |  Snappy      | ^^^             |  21  |  Slow        | ^^^             |
+|   8  |  Snappy      | 30 minutes      |  22  |  Sluggish    | 2 days          |
+|   9  |  Snappy      | ^^^             |  23  |  Sluggish    | ^^^             |
+|  10  |  Brisk       | 1 hours         |  24  |  Sluggish    | 4 days          |
+|  11  |  Brisk       | ^^^             |  25  |  Sluggish    | ^^^             |
+|  12  |  Brisk       | 2 hours         |  26  |  Catatonic   |  1 week         |
+|  13  |  Brisk       | ^^^             |  27  |              |
+
 
 For example a generation 2 kitty will start off with a swift cooldown when born, and a generation 14 will be born with a plodding cooldown.
 
