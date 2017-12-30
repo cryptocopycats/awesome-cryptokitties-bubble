@@ -153,8 +153,13 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 - [**This Game Combines The Internet's Favorite Things: Cats & Cryptocurrency**](https://www.youtube.com/watch?v=qk7gRljIKww), Vice, Dec/5
 - [**Meet CryptoKitties, the $100,000 digital beanie babies epitomizing the cryptocurrency mania**](https://www.cnbc.com/2017/12/06/meet-cryptokitties-the-new-digital-beanie-babies-selling-for-100k.html), CNBC, Dec/6
 - [**Ethereum Network Copes With Surge of Activity as Virtual Kitten Game Goes Viral**](https://blogs.wsj.com/cio/2017/12/07/ethereum-network-copes-with-surge-of-activity-as-virtual-kitten-game-goes-viral/), The Wall Street Journal, Dec/7
+- [**CryptoKitties have the digital currency world purring**](http://www.sfchronicle.com/news/article/CryptoKitties-have-the-digital-currency-world-12462575.php),
+The San Francisco Chronicle, 
+Dec/27 - The digital kitties might not be worth the paper they're not printed on.
 - [**Reigning Cats -How to buy cryptocurrency Ethereum – is it worth as much as Bitcoin and what are CryptoKitties?**](https://www.thesun.co.uk/money/5087162/how-to-buy-ethereum-price-cryptocurrency-cryptokitties-bitcoin/), The Sun, Dec/28 - Players can buy and sell virtual cats for as much as $10,000 on the new digital currency - with their rather valuable 'Cattributes'
 - [**CryptoKitties, Explained ... Mostly**](https://www.nytimes.com/2017/12/28/style/cryptokitties-want-a-blockchain-snuggle.html), The New York Times, Dec/28 - Why are $20 million and 180,000 people suddenly in the market for digital cats? We gamified the blockchain.
+
+
 
 ### Timeline
 
@@ -340,7 +345,7 @@ Genes `cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea`
 (Source: [api.cryptokitties.co/kitties/275808](https://api.cryptokitties.co/kitties/275808))
 
 
-Celebrating 100 000 CryptoKitties on Dec/6
+Celebrating 100 000 CryptoKitties
 
 [Kitty No. 100 000](https://www.cryptokitties.co/kitty/100000) #100000 - Sold for 0.052 ETH on Dec/6
 
@@ -390,6 +395,7 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 
 ### Sales Statistics
 
+
 |Date    | Total Sales | Total Unique Kittens | Total Sold (ETH) | Total Sold ($) | Average Sale Price | Median Sale Price  |
 |--------|-------------|----------------------|------------------|----------------|--------------------|--------------------|
 | Dec/24 |     224 735 |              177 043 |    35 776.17 ETH | $17 575 048.39 |      $78.20        |  $12.62            |
@@ -399,6 +405,14 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 ![](i/cryptokitties-sales.png)
 
 (Source: [CryptoKitties Sales](https://kittysales.co))
+
+
+Top 10 Sales
+
+![](i/cryptokitties-top10-sales.png)
+
+(Source: [CryptoKitties have the digital currency world purring, The San Francisco Chronicle](http://www.sfchronicle.com/news/article/CryptoKitties-have-the-digital-currency-world-12462575.php))
+
 
 
 New Kitties / Day:
@@ -604,7 +618,7 @@ non-fungible tokens (N.F.T.s).
 **BEWARE: Gambling is fun and addictive. Winning and losing. Up and down.
 Treat CryptoKittes as entertainment like casino gambling, sports betting or poker cards playing.
 Do NOT "invest" trying to get-rich-quick
-or raise the stakes trying to win back what you have lost, and so on.***
+or raise the stakes trying to win back what you have lost, and so on.**
 
 
 
