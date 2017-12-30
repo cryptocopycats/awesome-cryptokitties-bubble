@@ -687,10 +687,18 @@ and sold by clock auction (*) until reaching a limit of 50_000 in one year (end 
 (*): A gen0 kitty's (also known as "clock cat") price is automatically calculated by the average price 
 of the last five CryptoKitty sales, plus 50% and sold by a descending clock auction.
 
+
+![](i/cryptokitties-population-cooldown.png)
+
+(Source: [Statistical Data on CryptoKitties](https://sites.google.com/view/catstats/))
+
+
+<!-- old chart
+
 ![](i/cryptokitties-gen.png)
 
 (Source: [Kitty Explorer / Generation Breakdown](http://www.kittyexplorer.com))
-
+   -->
 
 ##### Q: What's a clock auction?
 
@@ -717,9 +725,46 @@ For example:
 * If a Gen 0 and a Gen 5 breed, the kitten will be Gen 6.
 
 **Cooldowns.**  Each time a kitty breeds another kitty it needs a
-period of cooldown time to recover. The cooldown wait time increases (moves down one level) each time the kitty breeds
+period of cooldown time to recover. The cooldown wait time increases with every generation 
 until it reaches "catatonic" cooldown, where it will remain.
 
+Note: Cooldowns (fast › swift › snappy › brisk › plodding › slow › sluggish › catatonic) 
+are NOT inherited but plainly depend on the generation (gen).
+
+|  Gen |  Cooldown    | Time to Recover |
+|------|--------------|-----------------|
+|   0  |  Fast        | 1 minute        |
+|   1  |  Fast        | ^^^             |
+|   2  |  Swift       | 2 minutes       |
+|   3  |  Swift       | ^^^             |
+|   4  |  Swift       | 5 minutes       |
+|   5  |  Swift       | ^^^             |
+|   6  |  Snappy      | 10 minutes      |
+|   7  |  Snappy      | ^^^             |
+|   8  |  Snappy      | 30 minutes      |
+|   9  |  Snappy      | ^^^             |
+|  10  |  Brisk       | 1 hours         |
+|  11  |  Brisk       | ^^^             |
+|  12  |  Brisk       | 2 hours         |
+|  13  |  Brisk       | ^^^             |
+|  14  |  Plodding    | 4 hours         |
+|  15  |  Plodding    | ^^^             |
+|  16  |  Plodding    | 8 hours         |
+|  17  |  Plodding    | ^^^             |
+|  18  |  Slow        | 16 hours        |
+|  19  |  Slow        | ^^^             |
+|  20  |  Slow        | 24 hours        |
+|  21  |  Slow        | ^^^             |
+|  22  |  Sluggish    | 2 days          |
+|  23  |  Sluggish    | ^^^             |
+|  24  |  Sluggish    | 4 days          |
+|  25  |  Sluggish    | ^^^             |
+|  26  |  Catatonic   |  1 week         |
+
+For example a generation 2 kitty will start off with a swift cooldown when born, and a generation 14 will be born with a plodding cooldown.
+
+
+<!-- old official (simpler) cooldown table
 
 | Cooldowns  | Time to recover |
 |------------|-----------------|
@@ -732,7 +777,8 @@ until it reaches "catatonic" cooldown, where it will remain.
 | Sluggish   |         2d - 4d |
 | Catatonic  |          1 week |
 
-For example a generation 2 kitty will start off with a swift cooldown when born, and a generation 14 will be born with a plodding cooldown.
+-->
+
 
 
 **Traits.** Certain traits are rarer than others, making the Kitty more desirable. 
