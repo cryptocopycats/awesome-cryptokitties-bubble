@@ -219,8 +219,8 @@ Founded in 2013. Headquarters in Vancouver, British Columbia (BC), Canada.
 
 CEO: Roham Gharegozlou - twitter: [rohamg](https://twitter.com/rohamg), angel: [roham](https://angel.co/roham)
 
-> We recommend curating your kitties collection and enjoying the game, 
-> as opposed to engaging in speculation. #HODL
+> We recommend curating your kitties collection and enjoying the game [for life], 
+> as opposed to engaging in [get-rich-quick] speculation. #HODL
 > 
 > -- [Roham Gharegozlou](https://twitter.com/rohamg/status/940979947916623873)
 
