@@ -217,7 +217,7 @@ Founded in 2013. Headquarters in Vancouver, British Columbia (BC), Canada.
 > Our team of fifty founder-quality engineers, product leads, and designers combine a wealth of experience from fast-growing startups
 > and companies.
 
-CEO: Roham Gharegozlou  twitter: [https://twitter.com/rohamg](rohamg), angel: [roham](https://angel.co/roham)
+CEO: Roham Gharegozlou - twitter: [rohamg](https://twitter.com/rohamg), angel: [roham](https://angel.co/roham)
 
 
 #### Team
@@ -253,7 +253,7 @@ CryptoKitty Team :
 
 (*): from the Ask the Team Anything on CryptoKitties Reddit
 
-Mack Flavelle's the guy who came up with the original idea. 
+Mack Flavelle came up with the original idea. 
 Mack is the project leader and self-described "fat cat" of CryptoKitties. 
 
 > If you are going to build gambling casinos on the internet [blockchain] then you should not explain 
