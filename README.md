@@ -1258,7 +1258,7 @@ Learn more @ [cryptopuppies.org](http://cryptopuppies.org), twitter: [CryptoPupp
 Learn more @ twitter: [Crypto_Puppies](https://twitter.com/Crypto_Puppies)
 
 
-## Puppy Planet on the Blockchain! (Upcoming)
+### Puppy Planet on the Blockchain! (Upcoming)
 
 Buy, sell, hodl and breed puppies.
 
@@ -1266,7 +1266,6 @@ Buy, sell, hodl and breed puppies.
 
 Learn more @ [puppyplanet.co](http://www.puppyplanet.co),
 twitter: [aPuppyPlanet](https://twitter.com/aPuppyPlanet)
-
 
 
 ### HashPuppies on the Blockchain! (Upcoming)
@@ -1339,26 +1338,6 @@ Team:
 
 
 
-### CryptoBirdies on the Blockchain! (Upcoming)
-
-Buy. Sell. Breed birds. Hatch eggs.
-
-> CryptoBirdies offers a new blockchain experience.
-> CryptoBirdies is not just for Making Money. We want users to treat their birds as a real pet. 
-> They could Breed, Feed them, and put them in a Open Area where Birds and their owners can interact with each other.
-
-![](i/cryptobirdies.png)
-
-Learn more @
-twitter: [CryptoBirdies](https://twitter.com/CryptoBirdies)
-
-
-### CryptoBunnies on the Blockchain! (Upcoming)
-
-Learn more @
-twitter: [CryptoBunniesHQ](https://twitter.com/CryptoBunniesHQ),
-reddit: [cryptobunnies](https://www.reddit.com/r/cryptobunnies)
-
 
 ### CryptoFighters on the Blockchain! (Upcoming)
 
@@ -1392,19 +1371,6 @@ Team:
 
 - Chat Robotic @ [chatrobotic.com](http://www.chatrobotic.com), twitter: [chatrobotic](https://twitter.com/chatrobotic)
 
-
-
-### CryptoStamps on the Blockchain! (Upcoming)
-
-Exclusive. Archivable. Collectibles.
-
-Learn more @ [crypto-stamps.com](http://crypto-stamps.com), twitter: [crypto_stamps](https://twitter.com/crypto_stamps)
-
-<!--  from reddit answer Dec/29: 
-We are a small team based in San francisco. 
-The team is composed of developers varying from Carnegie Mellon University and Columbia University.
-We are in the process of designing our own unique stamps, and are pursuiant with copyright laws.
--->
 
 ### CryptoTulips on the Blockchain!  (Upcoming)
 
