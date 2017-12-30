@@ -632,6 +632,8 @@ Buy Fine Crypto Kitty Art Paintings (Acryl on Canvas) - Original (*) Modern Art?
 > Everybody is going nuts about CrypoKitties ( including myself ) So, as a painter my madness is reflected in art; 
 > so I've started to paint this kitties... lot's of kitties :)
 
+![](i/cryptokitties-modernart-paintings-ii.png)
+
 Learn more @ [cryptokittiesart.blogspot.com](https://cryptokittiesart.blogspot.com), twitter: [CryptoKityArt](https://twitter.com/CryptoKityArt)
 
 
