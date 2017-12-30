@@ -1428,6 +1428,47 @@ Team:
 - Chat Robotic @ [chatrobotic.com](http://www.chatrobotic.com), twitter: [chatrobotic](https://twitter.com/chatrobotic)
 
 
+White Paper V1  ([PDF Download](https://fishbank.io/whitepaper/FISHBANK-V1.pdf)):
+
+**Game concept**
+
+Player owns fishes (those are in fact ERC-721 crypto tokens) each with its unique name, image and
+characteristics defined by type. Core fish parameter is weight that defines its size and influence. Main
+target is to grow this parameter to become the biggest fish in the ocean.
+Fish is able to gain weight only by attacking other fishes, biting off them in case of win.
+
+The more powerful characteristics and the more weight the fish has the
+more chance it to win a fight with another fish it represents.
+
+These fishes can be traded or exchanged between players on central fish market.
+Every operation in the game is launched and controlled by a contract script.
+
+**The Fish**
+
+Every crypto fish token has its own set of characteristics:
+
+- Weight - Describes the size of the fish
+- Power - Damage on attack
+- Agility - Defense on attack
+- Speed - Cooldown time before attacks
+
+Weight is dynamic characteristic and can be changed within time while Power, Agility and
+Speed are called initial parameters those are given to fish from the very moment of creation
+and can't be changed in time.
+
+**Rarity**
+
+There are four kinds of rarity assessment  for fishes determined by sum of all
+initial fish characteristics:
+
+- Common
+- Rare (10+)
+- Legendary (15+)
+- Epic (25+)
+
+
+
+
 ### CryptoTulips on the Blockchain!  (Upcoming)
 
 Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! 
