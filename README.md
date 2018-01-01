@@ -202,7 +202,12 @@ _More (Minor) Milestones_
 - 2017 Dec/20  - New Trait - Alien (eye type)
 - 2017 Dec/22  - New Trait - Hintomint (body color)
 - 2017 Dec/22-24 - Winter CryptoKitties Giveaway Contest
-
+- 2017 Dec/28  - New Trait - Elk - Discovered in Kitty #422103. 
+- 2017 Dec/31  - New Trait - Icy  - Secondary color (chest color) - white
+- 2017 Dec/31  - New Trait - Selkirk - Body type - hair puff with thin tail
+- 2017 Dec/31  - New Trait - Flamingo - Secondary color (chest color) - pink
+- 2017 Dec/31  - New Trait - Seafoam  - Secondary color (chest color) - green
+- 2017 Dec/31  - New Fancy - PhuZiqaat - Best guess recipe = chartreux + spock + alien + pouty
 
 
 ### Owners / Producers
