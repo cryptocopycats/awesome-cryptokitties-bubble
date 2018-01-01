@@ -655,6 +655,7 @@ Buy Fine Crypto Kitty Art Paintings (Acryl on Canvas) - Original (*) Modern Art?
 
 Learn more @ [cryptokittiesart.blogspot.com](https://cryptokittiesart.blogspot.com), twitter: [CryptoKityArt](https://twitter.com/CryptoKityArt)
 
+![](i/cryptokitties-modernart-paintings-iii.png)
 
 
 ### Questions & Answers
