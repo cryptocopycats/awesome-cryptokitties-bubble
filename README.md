@@ -208,6 +208,15 @@ _More (Minor) Milestones_
 - 2017 Dec/31  - New Trait - Flamingo - Secondary color (chest color) - pink
 - 2017 Dec/31  - New Trait - Seafoam  - Secondary color (chest color) - green
 - 2017 Dec/31  - New Fancy - PhuZiqaat - Best guess recipe = chartreux + spock + alien + pouty
+- 2018 Jan/3   - New Trait - Thundergrey - Eye color
+- 2018 Jan/4   - New Trait - Wonky - Eye type
+- 2018 Jan/4   - New Trait - Pumpkin - Eye color
+- 2018 Jan/4   - New Trait - Babypuke  - Eye color
+- 2018 Jan/6   - New Trait - Grim  - Mouth type
+- 2018 Jan/6   - New Trait - Grimace  - Mouth type
+- 2018 Jan/6   - New Trait - Neckbeard  - Mouth type
+- 2018 Jan/6   - New Trait - Stunned  - Eye type
+
 
 
 ### Owners / Producers
