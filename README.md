@@ -1109,21 +1109,23 @@ and genotypes (what you don't see).
 
 > The genome represents 12 groups of 4 genes. 
 > Each group of 4 genes maps to a given cattribute trait.
-> Within each group of 4 genes, there are 3 recessive genes 
-> and 1 dominant gene which will be reflected as a cattribute for that trait, 
+> Within each group of 4 genes, there are 3 recessive genes [R1, R2, R3] 
+> and 1 dominant gene [D1] which will be reflected as a cattribute for that trait, 
 > represented in the appearance of that kitty.
 >
 > [...]
 >
 > Here is a quick sketch of the relative odds of getting a specific gene from the parents
 >
-> - 75% - either dominant gene from parent A or B
-> - 18.75% (75/4) - chance of getting either 1st recessive from A or B
-> - 4.69% (75/4²) - chance of getting either 2nd recessive from A or B
-> - 1.17% (75/4³) - chance of getting either 3rd recessive from A or B
+> - 75% - either dominant gene [D1] from parent A or B
+> - 18.75% (75/4) - chance of getting either 1st recessive [R1] from A or B
+> - 4.69% (75/4²) - chance of getting either 2nd recessive [R2] from A or B
+> - 1.17% (75/4³) - chance of getting either 3rd recessive [R3] from A or B
 > - 25% - chance of getting a mutation given A & B contain the right gene pairs
 
 ![](i/cryptokitties-genes-ii.png)
+
+
 
 
 Q: What's kai notation (base58)?
@@ -1133,17 +1135,16 @@ is a base58 variant for decoding the 256-bit integer into 5-bit blocks.
 Each 5-bit block is a gene. The 256-bit genome breaks down into 12 groups of 4 (x 5-bit) genes (that is, 12 x 4 x 5-bit = 240 bits) 
 Example:
 
-|Kai|Binary |Kai|Binary |Kai|Binary |Kai|Binary |
-|---|-------|---|-------|---|-------|---|-------|
-| 1 | 00000 | 9 | 01000 | h | 10000 | q | 11000 |
-| 2 | 00001 | a | 01001 | i | 10001 | r | 11001 |
-| 3 | 00010 | b | 01010 | j | 10010 | s | 11010 |
-| 4 | 00011 | c | 01011 | k | 10011 | t | 11011 |
-| 5 | 00100 | d | 01100 | m | 10100 | u | 11100 |
-| 6 | 00101 | e | 01101 | n | 10101 | v | 11101 |
-| 7 | 00110 | f | 01110 | o | 10110 | w | 11110 |
-| 8 | 00111 | g | 01111 | p | 10111 | x | 11111 |
-
+|Kai    |Binary |Num|Kai    |Binary |Num|Kai    |Binary |Num|Kai    |Binary |Num|
+|-------|-------|---|-------|-------|---|-------|-------|---|-------|-------|---|
+| **1** | 00000 | 0 | **9** | 01000 | 8 | **h** | 10000 |16 | **q** | 11000 |24 |
+| **2** | 00001 | 1 | **a** | 01001 | 9 | **i** | 10001 |17 | **r** | 11001 |25 |
+| **3** | 00010 | 2 | **b** | 01010 | 10| **j** | 10010 |18 | **s** | 11010 |26 |
+| **4** | 00011 | 3 | **c** | 01011 | 11| **k** | 10011 |19 | **t** | 11011 |27 |
+| **5** | 00100 | 4 | **d** | 01100 | 12| **m** | 10100 |20 | **u** | 11100 |28 |
+| **6** | 00101 | 5 | **e** | 01101 | 13| **n** | 10101 |21 | **v** | 11101 |29 |
+| **7** | 00110 | 6 | **f** | 01110 | 14| **o** | 10110 |22 | **w** | 11110 |30 |
+| **8** | 00111 | 7 | **g** | 01111 | 15| **p** | 10111 |23 | **x** | 11111 |31 |
 
 Note: The digit-0 and the letter-l are NOT used.
 
@@ -1155,6 +1156,39 @@ Note: The digit-0 and the letter-l are NOT used.
 > and paste because a double-click will usually select the whole string.
 >
 > [-- Base58 @ Wikipedia](https://en.wikipedia.org/wiki/Base58)
+
+
+
+Example - Eyes Gene Mapping (Bits 12 to 15) - Kai-to-Cattributes ("Kaittributes"):
+
+|Kai|Cattribute   |Kai|Cattribute  |Kai|Cattribute  |Kai|Cattribute  |
+|---|-------------|---|------------|---|------------|---|------------|
+| 1 | ??          | 9 | ??         | h | ??         | q | ??         |
+| 2 | wonky       | a | ??         | i | alien      | r | wingtips   |
+| 3 | serpent     | b | ??         | j | fabulous   | s | ??         |
+| 4 | googly      | c | ??         | k | raisedbrow | t | ??         |
+| 5 | otaku       | d | ??         | m | ??         | u | ??         |
+| 6 | simple      | e | ??         | n | ??         | v | ??         |
+| 7 | crazy       | f | ??         | o | ??         | w | ??         |
+| 8 | thicccbrowz | g | stunned    | p | ??         | x | ??         |
+
+Note: ?? - "rare" cattribute not yet seen in kitties
+
+
+Example - Body Gene Mapping (Bits 0 to 3)  
+
+|Kai|Cattribute   |Kai|Cattribute  |Kai|Cattribute  |Kai|Cattribute  |
+|---|-------------|---|------------|---|------------|---|------------|
+| 1 | ??          | 9 | ??         | h | ??         | q | ??         |
+| 2 | selkirk     | a | cymric     | i | ??         | r | ??         |
+| 3 | ??          | b | chartreux  | j | ??         | s | ??         |
+| 4 | ??          | c | himalayan  | k | ??         | t | manx       |
+| 5 | ??          | d | munchkin   | m | ??         | u | ??         |
+| 6 | ??          | e | sphynx     | n | mainecoon  | v | ??         |
+| 7 | ??          | f | ragamuffin | o | laperm     | w | ??         |
+| 8 | ??          | g | ragdoll    | p | persian    | x | ??         |
+
+Note: ?? - "rare" cattribute not yet seen in kitties
 
 
 
