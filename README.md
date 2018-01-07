@@ -1105,6 +1105,58 @@ and genotypes (what you don't see).
 (Source: [CryptoKittydex, Kaittributes](https://cryptokittydex.com/kaittributes))
 
 
+[**The CryptoKitties Genome Project: On Dominance, Inheritance and Mutation**](https://medium.com/@kaigani/the-cryptokitties-genome-project-on-dominance-inheritance-and-mutation-b73059dcd0a4) by Kai, Jan 6, 2018 -- Genome, deciphered
+
+> The genome represents 12 groups of 4 genes. 
+> Each group of 4 genes maps to a given cattribute trait.
+> Within each group of 4 genes, there are 3 recessive genes 
+> and 1 dominant gene which will be reflected as a cattribute for that trait, 
+> represented in the appearance of that kitty.
+>
+> [...]
+>
+> Here is a quick sketch of the relative odds of getting a specific gene from the parents
+>
+> - 75% - either dominant gene from parent A or B
+> - 18.75% (75/4) - chance of getting either 1st recessive from A or B
+> - 4.69% (75/4²) - chance of getting either 2nd recessive from A or B
+> - 1.17% (75/4³) - chance of getting either 3rd recessive from A or B
+> - 25% - chance of getting a mutation given A & B contain the right gene pairs
+
+![](i/cryptokitties-genes-ii.png)
+
+
+Q: What's kai notation (base58)?
+
+Kai notation (named to honor Kai who deciphered the kitties genome)
+is a base58 variant for decoding the 256-bit integer into 5-bit blocks.
+Each 5-bit block is a gene. The 256-bit genome breaks down into 12 groups of 4 (x 5-bit) genes (that is, 12 x 4 x 5-bit = 240 bits) 
+Example:
+
+|Kai|Binary |Kai|Binary |Kai|Binary |Kai|Binary |
+|---|-------|---|-------|---|-------|---|-------|
+| 1 | 00000 | 9 | 01000 | h | 10000 | q | 11000 |
+| 2 | 00001 | a | 01001 | i | 10001 | r | 11001 |
+| 3 | 00010 | b | 01010 | j | 10010 | s | 11010 |
+| 4 | 00011 | c | 01011 | k | 10011 | t | 11011 |
+| 5 | 00100 | d | 01100 | m | 10100 | u | 11100 |
+| 6 | 00101 | e | 01101 | n | 10101 | v | 11101 |
+| 7 | 00110 | f | 01110 | o | 10110 | w | 11110 |
+| 8 | 00111 | g | 01111 | p | 10111 | x | 11111 |
+
+
+Note: The digit-0 and the letter-l are NOT used.
+
+> Base58 is a group of binary-to-text encoding schemes used to represent large integers as alphanumeric text.
+> It is similar to Base64 but has been modified to avoid both non-alphanumeric characters 
+> and letters which might look ambiguous when printed [e.g. 1 and l, 0 and o]. 
+> It is therefore designed for human users who manually enter the data, 
+> copying from some visual source, but also allows easy copy 
+> and paste because a double-click will usually select the whole string.
+>
+> [-- Base58 @ Wikipedia](https://en.wikipedia.org/wiki/Base58)
+
+
 
 [**CryptoKitties mixGenes Function**](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80) by Sean Soria, Dec 22
 
