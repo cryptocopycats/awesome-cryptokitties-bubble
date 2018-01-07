@@ -198,24 +198,33 @@ _More (Minor) Milestones_
 - 2017 Dec/4 - DUE TO CONGESTION ON THE NETWORK WE ARE INCREASING THE BIRTHING FEE FROM 0.002 ETH TO 0.015 ETH. WE HOPE THIS WILL ALLOW MORE KITTENS TO BE BORN ON TIME AS THERE HAVE BEEN SIGNIFICANT DELAYS 
 - 2017 Dec/6 - WE ARE INCREASING THE RECOMMENDED DEFAULT GAS PRICE FROM 25 TO 40 GWEI IN ORDER TO INCENTIVIZE THE MINERS. AS ALWAYS YOU ARE ABLE TO ADJUST THIS AT YOUR OWN DISCRETION
 - 2017 Dec/11 - We have dropped the birthing fee from 0.015 ETH to 0.008 ETH. Happy breeding everyone!
-- 2017 Dec/20  - New Trait - Serpent (eye type)
-- 2017 Dec/20  - New Trait - Alien (eye type)
-- 2017 Dec/22  - New Trait - Hintomint (body color)
 - 2017 Dec/22-24 - Winter CryptoKitties Giveaway Contest
-- 2017 Dec/28  - New Trait - Elk - Discovered in Kitty #422103. 
-- 2017 Dec/31  - New Trait - Icy  - Secondary color (chest color) - white
-- 2017 Dec/31  - New Trait - Selkirk - Body type - hair puff with thin tail
-- 2017 Dec/31  - New Trait - Flamingo - Secondary color (chest color) - pink
-- 2017 Dec/31  - New Trait - Seafoam  - Secondary color (chest color) - green
-- 2017 Dec/31  - New Fancy - PhuZiqaat - Best guess recipe = chartreux + spock + alien + pouty
-- 2018 Jan/3   - New Trait - Thundergrey - Eye color
-- 2018 Jan/4   - New Trait - Wonky - Eye type
-- 2018 Jan/4   - New Trait - Pumpkin - Eye color
-- 2018 Jan/4   - New Trait - Babypuke  - Eye color
-- 2018 Jan/6   - New Trait - Grim  - Mouth type
-- 2018 Jan/6   - New Trait - Grimace  - Mouth type
-- 2018 Jan/6   - New Trait - Neckbeard  - Mouth type
-- 2018 Jan/6   - New Trait - Stunned  - Eye type
+
+
+_New Traits / Fancies Timeline_
+
+2017
+
+- Dec/20  - New Trait - Serpent - Eye type
+- Dec/20  - New Trait - Alien - Eye type
+- Dec/22  - New Trait - Hintomint  - Body color
+- Dec/28  - New Trait - Elk - Discovered in Kitty #422103. 
+- Dec/31  - New Trait - Icy  - Secondary color (chest color) - white
+- Dec/31  - New Trait - Selkirk - Body type - hair puff with thin tail
+- Dec/31  - New Trait - Flamingo - Secondary color (chest color) - pink
+- Dec/31  - New Trait - Seafoam  - Secondary color (chest color) - green
+- Dec/31  - **New Fancy** - PhuZiqaat - Best guess recipe = chartreux + spock + alien + pouty
+
+2018
+
+- Jan/3   - New Trait - Thundergrey - Eye color
+- Jan/4   - New Trait - Wonky - Eye type
+- Jan/4   - New Trait - Pumpkin - Eye color
+- Jan/4   - New Trait - Babypuke  - Eye color
+- Jan/6   - New Trait - Grim  - Mouth type
+- Jan/6   - New Trait - Grimace  - Mouth type
+- Jan/6   - New Trait - Neckbeard  - Mouth type
+- Jan/6   - New Trait - Stunned  - Eye type
 
 
 
