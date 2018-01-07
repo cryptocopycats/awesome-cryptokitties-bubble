@@ -740,7 +740,7 @@ of the last five kitty sales, plus 50% and sold by a descending clock auction; s
 
 
 
-![](i/cryptokitties-population-cooldown.png)
+![](i/cryptokitties-population-cooldown-ii.png)
 
 (Source: [Statistical Data on CryptoKitties](https://sites.google.com/view/catstats/))
 
@@ -1146,7 +1146,7 @@ Example:
 | **7** | 00110 | 6 | **f** | 01110 | 14| **o** | 10110 |22 | **w** | 11110 |30 |
 | **8** | 00111 | 7 | **g** | 01111 | 15| **p** | 10111 |23 | **x** | 11111 |31 |
 
-Note: The digit-0 and the letter-l are NOT used.
+Note: The digit-0 and the letter-l are NOT used in kai.
 
 > Base58 is a group of binary-to-text encoding schemes used to represent large integers as alphanumeric text.
 > It is similar to Base64 but has been modified to avoid both non-alphanumeric characters 
