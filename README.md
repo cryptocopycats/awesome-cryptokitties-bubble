@@ -1540,7 +1540,8 @@ Hero Tavern is a decentralized app that based on Ethereum platform. It is also a
 
 [![Lesson I](https://img.youtube.com/vi/JaHnUReb-6o/0.jpg)](https://www.youtube.com/embed/JaHnUReb-6o "Lesson I")
 
-Tutorial Video on YouTube: https://www.youtube.com/channel/UCkCNZZrHjg4PqN5U2Tbu-tw
+Tutorial Video on YouTube: https://www.youtube.com/channel/UCkCNZZrHjg4PqN5U2Tbu-tw     
+
 Learn more @ [hero-tavern](https://www.hero-tavern.org),
 twitter: [hero_tavern](https://twitter.com/crypto_heros)
 
