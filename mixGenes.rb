@@ -1,5 +1,8 @@
 #################
-# mix genes - "magic" sooper-sekret gene mixing operation forumula
+#  CryptoKitties geneScience.mixGenes - "magic" sooper-sekret gene mixing operation forumula (ruby edition)
+#    to run use:
+#      $ ruby ./mixGenes.rb
+#
 #
 #  based on the pseudo-code published by Sean Soria
 #    in "CryptoKitties mixGenes Function"
