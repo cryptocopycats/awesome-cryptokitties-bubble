@@ -113,9 +113,12 @@ Collect and breed digital cats. Start meow. Buy! Sell! Hold!
 
 (*): See Q: Do you really own your CryptoKitties? A: Spoiler: No.
 
+
 Learn more @ [cryptokitties.co](https://cryptokitties.co), 
+medium: [cryptokitties](https://medium.com/cryptokitties),
 twitter: [CryptoKitties](https://twitter.com/CryptoKitties),
 reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
+
 
 ![](i/cryptokitties.png)
 
@@ -128,7 +131,7 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 >
 > -- [Eduardo Salazar](https://twitter.com/ceduardosalazar/status/938558630663634944)
 
-> [My Gen 7 CryptoKitty #104375](https://www.cryptokitties.co/kitty/104375). The Future is Meow.
+> My Gen 7 CryptoKitty. The Future is Meow.
 >
 > -- [Anshul Dhawan](https://twitter.com/TheAnshulDhawan/status/938551642202324993)
 
@@ -142,6 +145,7 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 > Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 >  
 > -- [WikiLeaks](https://twitter.com/wikileaks/status/944209405377101824)
+
 
 
 ### Press Coverage
@@ -162,8 +166,10 @@ Dec/27 - The digital kitties might not be worth the paper they're not printed on
 
 ### Timeline
 
-_CryptoKitties History_ 
+Note: For official (twice weekly) updates / timeline see [updates.cryptokitties.co](https://updates.cryptokitties.co).
 
+
+_CryptoKitties History_ 
 
 - 2017 Oct/19 - CryptoKitties alpha test starts at ETH Waterloo (in Ontario, Canada) - an Ethereum hackathon; hundreds of users bred thousands of cats
 - 2017 Nov/22 - CryptoKitties contract scripts uploaded onto the public Ethereum blockchain
@@ -181,6 +187,13 @@ _CryptoKitties History_
 - 2017 Dec/14 - Celebrating 300 000 CryptoKitties
 - 2017 Dec/21  - WikiLeaks Accepts (Sells) CryptoKittes for Donations  <!-- check date? add tweet  -->
 - 2017 Dec/24 - Celebrating 400 000 CryptoKitties
+
+<!-- new year -->
+
+- 2018 Feb/14 - Family (breeding "bloodline") jewels (for "mewtations"/mutations) added / live
+- 2018 Feb/19 - Official blog launched
+- 2018 Feb/23 - Fancy Cats now limited edition
+- 2018 Mar/15 - Enhanced cattributes added / live
 
 
 
@@ -208,7 +221,6 @@ Big in Greater China? Updates
 
 
 
-
 _Upcoming (Planed) Milestones_
 
 - Spring 2018  - The CryptoKitties mobile app starts
@@ -226,6 +238,7 @@ _More (Minor) Milestones_
 - 2017 Dec/6 - WE ARE INCREASING THE RECOMMENDED DEFAULT GAS PRICE FROM 25 TO 40 GWEI IN ORDER TO INCENTIVIZE THE MINERS. AS ALWAYS YOU ARE ABLE TO ADJUST THIS AT YOUR OWN DISCRETION
 - 2017 Dec/11 - We have dropped the birthing fee from 0.015 ETH to 0.008 ETH. Happy breeding everyone!
 - 2017 Dec/22-24 - Winter CryptoKitties Giveaway Contest
+- 2018 March/13 - [Why does our database fall out of sync?](https://medium.com/cryptokitties/why-does-our-database-fall-out-of-sync-c86b1eefa6d)
 
 
 _New Traits / Fancies Timeline_
