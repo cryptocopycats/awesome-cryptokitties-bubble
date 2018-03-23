@@ -505,6 +505,38 @@ by Tony Aubé, December 2017 -- Crypto Kitties is about so much more than cats.
 > to a multitude of new, real-world use-cases that would have never been possible before.
 
 
+[**KittyHats: Accessories For Your CryptoKitties**](http://www.cryptogamer.net/2018/01/10/kittyhats-accessories-cryptokitties/)
+by Andrew Rangel (CryptoGamer), January 2018 -- Fungible ERC20 assets for your Kitty fashionista
+
+> There are accessories ranging from 0.0013 ETH (or $1.72)
+> to Yeezy's shoes which are 1 ETH or (or $1,321).
+> They come in limited quantities and the developers assure there won't be "reprints" or re-releases of the items. 
+> [...]
+> Like CryptoKitties, the prices are a problem.
+> The iWatch sticker, which could run them into copyright trouble, 
+> is priced at 0.3 ETH or a whopping $396 which is more than a physical Apple Watch. 
+
+[**Zombies eating kitties (or the potential for interoperability in cryptonetworks)**](https://www.nickgrossman.is/2018/zombies-eating-kitties/) 
+by Nick Grossman (Union Square Ventures), March 2018
+
+> Bitcoin and cryptocurrencies already sound ridiculous to most people, 
+> and virtual "real" kittens made out of cryptocurrency take it a step further.
+> [...]
+> On KittyHats - developed independently from CryptoKitties - you can buy a hat for your kitty.  
+> Here's the one I bought [a flat brim hat]. 
+> What's particularly interesting is that I don't own the hat, my kitty does.
+>
+>> You own the cat. But the cat owns the hat. 
+>> Cascading unique digital good ownership. Super interesting.
+>>
+>> -- [Liad Shababo](https://twitter.com/L1AD/status/976847770932989952)
+
+[**CryptoKitties - innovative or idiotic?**](https://medium.com/@MelTranfield/cryptokitties-innovative-or-idiotic-59a685199592)
+by Melissa Tranfield, March 2018
+
+> Will CryptoKitties be the catalyst for widespread public understanding of blockchain, 
+> or merely yet another internet gaming fad strapped to this decade's trending technology?
+
 
 
 ### Money, Money, Money $$$
