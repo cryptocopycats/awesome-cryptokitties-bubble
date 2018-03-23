@@ -176,11 +176,38 @@ _CryptoKitties History_
 - 2017 Dec/6  - Celebrating 100 000 CryptoKitties  <!-- check date? add tweet -->
 - 2017 Dec/6  - Highest selling cat - Kitty #4 (Gen 0) - sold for Ξ 247.0000 ETH (~$107_816.49)
 - 2017 Dec/7  - Highest selling cat - Kitty #18 (Gen 0) - sold for Ξ 253.3368 ETH (~$110_707.16)
-- 2017 Dec/10 - Celebrating 200_000 CryptoKitties
-- 2017 Dece/12 - 150k+ registered users; $15M USD in transactions
-- 2017 Dec/14 - Celebrating 300_000 CryptoKitties
+- 2017 Dec/10 - Celebrating 200 000 CryptoKitties
+- 2017 Dec/12 - 150k+ registered users; $15M USD in transactions
+- 2017 Dec/14 - Celebrating 300 000 CryptoKitties
 - 2017 Dec/21  - WikiLeaks Accepts (Sells) CryptoKittes for Donations  <!-- check date? add tweet  -->
-- 2017 Dec/24 - Celebrating 400_000 CryptoKitties
+- 2017 Dec/24 - Celebrating 400 000 CryptoKitties
+
+
+
+_From the Official CryptoKitties News Blogs_
+
+- 2018 Feb/19 - [How to get started and stay up to date on CryptoKitties](https://medium.com/cryptokitties/how-to-get-started-and-stay-up-to-date-on-cryptokitties-15e2a5fb8f17) 
+
+> Moving forward, we're going to treat this blog as our source of truth [...]
+> this blog will be how you get the latest in-depth news for everything CryptoKitties.
+
+- 2018 Feb/23 - [All Fancy Cats are now limited edition!](https://medium.com/cryptokitties/all-fancy-cats-are-now-limited-edition-717dfa8e20e)
+- 2018 March/12 - [All about Family Jewels](https://medium.com/cryptokitties/all-about-family-jewels-ee4bc1f56608) -- A guide to Family Jewels, mewtations, and how they all work together
+- 2018 March/20 - [Cat's out of the bag - CryptoKitties receives $12M in funding](https://medium.com/cryptokitties/cryptokitties-receives-12m-in-funding-38322f90ab65)
+
+> Who are these fat cats investing in CryptoKitties? The investment is led by Andreessen Horowitz 
+> and Union Square Ventures, two of the world's top venture capital firms...
+
+
+Big in Greater China? Updates
+
+- 2018 March/7 - [Big news on CryptoKitties iOS App launch in China, Hong Kong, and Taiwan!](https://medium.com/cryptokitties/big-news-on-cryptokitties-ios-app-launch-in-china-hong-kong-and-taiwan-bf767719fe22) -- Giveaways, new cats, our first Artist Series contributor will precede the launch
+- 2018 March/8 - [CryptoKitties: Now Made in China™](https://medium.com/cryptokitties/cryptokitties-now-made-in-china-b8eddfaed599)
+- 2018 March/21 - [So how's it going in China?](https://medium.com/cryptokitties/so-hows-it-going-in-china-6b5c512b58f4)
+
+
+
+
 
 _Upcoming (Planed) Milestones_
 
@@ -225,6 +252,7 @@ _New Traits / Fancies Timeline_
 - Jan/6   - New Trait - Grimace  - Mouth type
 - Jan/6   - New Trait - Neckbeard  - Mouth type
 - Jan/6   - New Trait - Stunned  - Eye type
+
 
 
 
@@ -522,8 +550,8 @@ by Nick Grossman (Union Square Ventures), March 2018
 > Bitcoin and cryptocurrencies already sound ridiculous to most people, 
 > and virtual "real" kittens made out of cryptocurrency take it a step further.
 > [...]
-> On KittyHats - developed independently from CryptoKitties - you can buy a hat for your kitty.  
-> Here's the one I bought [a flat brim hat]. 
+> On KittyHats - developed independently from CryptoKitties - you can buy a hat for your kitty.
+> Here's the one I bought [a flat brim hat].
 > What's particularly interesting is that I don't own the hat, my kitty does.
 >
 >> You own the cat. But the cat owns the hat. 
