@@ -168,7 +168,7 @@ end  # class Base32
 ## add a shortcut (convenience) alias
 Kai = Base32
 # why kai?
-#  in honor of Kaigani who deciphered the genes - thanks!
+#  in honor of Kai Turner who deciphered the genes - thanks!
 #    see https://medium.com/@kaigani/the-cryptokitties-genome-project-on-dominance-inheritance-and-mutation-b73059dcd0a4
 
 
