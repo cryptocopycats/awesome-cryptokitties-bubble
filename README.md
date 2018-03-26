@@ -72,9 +72,8 @@ Contents
       - [Q: What's a clock auction?](#q-whats-a-clock-auction)
       - [Q: What make's a kitty good?](#q-what-makes-a-kitty-good)
       - [Q: What are rare traits?](#q-what-are-rare-traits)
-  - [Code on the Blockchain - Electronic Contract Scripts](#code-on-the-blockchain---electronic-contract-scripts)
-    - [Non-fungible Token (NFT) Standard - Ethereum Request for Comments #721 (ERC-721)](#non-fungible-token-nft-standard---ethereum-request-for-comments-721-erc-721)
   - [Inside CryptoKitties Genetics](#inside-cryptokitties-genetics)
+  - [Code on the Blockchain - Electronic Contract Scripts](#code-on-the-blockchain---electronic-contract-scripts)
   - [More / Misc](#more--misc)
 - [Crypto Copycats on the Blockchain!](#crypto-copycats-on-the-blockchain)
 - [History Corner](#history-corner) - _Collectibles on the Blockchain before CryptoKitties_
@@ -1026,15 +1025,15 @@ People will give CryptoKitties to their children
 on their first birthday. There'll be a complex ecosystem around the game, with lots of features and tools.
 
 
-### Code on the Blockchain - Electronic Contract Scripts
-
-See the [Contracts](contracts) page »
-
-
 ### Inside CryptoKitties Genetics
 
 See the [Genes](genes) page »
 
+
+
+### Code on the Blockchain - Electronic Contract Scripts
+
+See the [Contracts](contracts) page »
 
 
 
