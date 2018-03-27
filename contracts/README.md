@@ -6,10 +6,19 @@ The [KittyCore](dl/KittyCore.sol) contract script is about 2 000 lines total.
 The only sooper-sekretoo contract is the [GeneScienceInterface](GeneScienceInterface.sol) with the "magic" mixGenes function 
 that given genes of kitten 1 & 2, return a genetic combination.
 
-Note: The mixGenes got "reverse-engineered" from the opcode - thanks to Sean Soria (see [CryptoKitties mixGenes Function](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80)) -  
+Note: The mixGenes got "reverse-engineered" from the opcode - thanks to Sean Soria (see [CryptoKitties mixGenes Function, Dec 2017](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80)) -  
 and is now a "public" sooper-sektretoo.
 See [`mixGenes.rb`](https://github.com/openblockchains/awesome-cryptokitties/blob/master/genes/mixGenes.rb) for a ruby version 
 or [`mixGenes.py`](https://github.com/openblockchains/awesome-cryptokitties/blob/master/genes/mixGenes.py) for a python version.
+
+
+## Source Code
+
+Etherscan
+
+- KittyCore (Open Source) see [address/0x06012c8cf97bead5deae237070f9587f8e7a266d](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
+- GeneScienceInterface (Opcode), see [address/0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b](https://etherscan.io/address/0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b#code)
+
 
 
 
