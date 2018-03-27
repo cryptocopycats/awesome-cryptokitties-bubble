@@ -194,6 +194,14 @@ struct Kitty {
 >
 > -- Commentary from the CryptoKitties source code
 
+``` solidity
+// Limits the number of cats the contract owner can ever create.
+
+uint256 public constant PROMO_CREATION_LIMIT = 5000;
+uint256 public constant GEN0_CREATION_LIMIT = 45000;
+```
+
+(Source: [KittyMinting.sol](KittyCore.sol))
 
 
 
@@ -203,6 +211,7 @@ struct Kitty {
 ``` solidity
 /// @notice Returns all the relevant information about a specific kitty.
 /// @param _id The ID of the kitty of interest.
+
 function getKitty(uint256 _id)
     external
     view
