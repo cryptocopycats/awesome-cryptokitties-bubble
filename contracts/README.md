@@ -15,14 +15,30 @@ See [`mixGenes.rb`](https://github.com/openblockchains/awesome-cryptokitties/blo
 or [`mixGenes.py`](https://github.com/openblockchains/awesome-cryptokitties/blob/master/genes/mixGenes.py) for a python version.
 
 
+
+
 ## Source Code
 
 Etherscan
 
 - KittyCore (Open Source), see contract address [`0x06012c8cf97bead5deae237070f9587f8e7a266d`](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
+
+> The genetic combination algorithm is kept seperate so we can open-source all of
+> the rest of our code without making it _too_ easy for folks to figure out how the genetics work.
+> Don't worry, I'm sure someone will reverse engineer it soon enough!
+>
+> -- Commentary from the CryptoKitties source code
+
 - GeneScienceInterface (Opcode), see contract address [`0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b`](https://etherscan.io/address/0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b#code)
 
-<!-- break -->
+
+> The auctions are
+> seperate since their logic is somewhat complex and there's always a risk of subtle bugs. By keeping
+> them in their own contracts, we can upgrade them without disrupting the main contract that tracks
+> kitty ownership. 
+>
+> -- Commentary from the CryptoKitties source code
+
 
 - SaleClockAuction (Open Source), see contract address [`0xb1690c08e213a35ed9bab7b318de14420fb57d8c`](https://etherscan.io/address/0xb1690c08e213a35ed9bab7b318de14420fb57d8c#code)
 - SiringClockAuction (Open Source), see contract address [`0xc7af99fe5513eb6710e6d5f44f9989da40f27f26`](https://etherscan.io/address/0xc7af99fe5513eb6710e6d5f44f9989da40f27f26#code)
@@ -74,12 +90,23 @@ contract KittyCore is KittyMinting
 
 ### KittyAccessControl - Who controls the contract? - CEO, CFO, COO
 
+> This contract manages the various addresses and constraints for operations
+> that can be executed only by specific roles. Namely CEO, CFO and COO.
+>
+> -- Commentary from the CryptoKitties source code
+
 
 
 ### KittyBase - What's a kitty, really? - Kitty data type structure
 
+> This is where we define the most fundamental code shared throughout the core
+> functionality. This includes our main data storage, constants and data types, plus
+> internal functions for managing these items.
+>
+> -- Commentary from the CryptoKitties source code
 
-``` sol
+
+``` solidity
 /// @dev The main Kitty struct. Every cat in CryptoKitties is represented by a copy
 ///  of this structure, so great care was taken to ensure that it fits neatly into
 ///  exactly two 256-bit words. Note that the order of the members in this structure
@@ -135,9 +162,82 @@ struct Kitty {
 
 ### KittyOwnership - Kitties as tokens
 
+> This provides the methods required for basic non fungible token
+> transactions, following the draft [ERC-721 spec](https://github.com/ethereum/EIPs/issues/721).
+>
+> -- Commentary from the CryptoKitties source code
+
+
 ### KittyBreeding - Cats get down and dirty
 
+> This file contains the methods necessary to breed cats together, including
+> keeping track of siring offers, and relies on an external genetic combination contract.
+>
+> -- Commentary from the CryptoKitties source code
 
+
+### KittyAuction - Buying, selling and pimpin' of cats
+
+> Here we have the public methods for auctioning or bidding on cats or siring
+> services. The actual auction functionality is handled in two sibling contracts (one
+> for sales and one for siring), while auction creation and bidding is mostly mediated
+> through this facet of the core contract.
+>
+> -- Commentary from the CryptoKitties source code
+
+
+### KittyMiniting - The gen0 cat factory
+
+> This final facet contains the functionality we use for creating new gen0 cats.
+> We can make up to 5000 "promo" cats that can be given away (especially important when
+> the community is new), and all others can only be created and then immediately put up
+> for auction via an algorithmically determined starting price. Regardless of how they
+> are created, there is a hard limit of 50k gen0 cats. After that, it's all up to the
+> community to breed, breed, breed!
+>
+> -- Commentary from the CryptoKitties source code
+
+
+
+
+### KittyCore - The master contract - all together now
+
+
+``` solidity
+/// @notice Returns all the relevant information about a specific kitty.
+/// @param _id The ID of the kitty of interest.
+function getKitty(uint256 _id)
+    external
+    view
+    returns (
+      bool isGestating,
+      bool isReady,
+      uint256 cooldownIndex,
+      uint256 nextActionAt,
+      uint256 siringWithId,
+      uint256 birthTime,
+      uint256 matronId,
+      uint256 sireId,
+      uint256 generation,
+      uint256 genes
+    ) {
+      Kitty storage kit = kitties[_id];
+
+      // if this variable is 0 then it's not gestating
+      isGestating = (kit.siringWithId != 0);
+      isReady = (kit.cooldownEndBlock <= block.number);
+      cooldownIndex = uint256(kit.cooldownIndex);
+      nextActionAt = uint256(kit.cooldownEndBlock);
+      siringWithId = uint256(kit.siringWithId);
+      birthTime = uint256(kit.birthTime);
+      matronId = uint256(kit.matronId);
+      sireId = uint256(kit.sireId);
+      generation = uint256(kit.generation);
+      genes = kit.genes;
+   }
+```
+
+(Source: [KittyCore.sol](KittyCore.sol))
 
 
 
