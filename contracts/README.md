@@ -24,11 +24,17 @@ Etherscan
 
 <!-- break -->
 
-- Sale auction, see contract address [`0xb1690c08e213a35ed9bab7b318de14420fb57d8c`](https://etherscan.io/address/0xb1690c08e213a35ed9bab7b318de14420fb57d8c#code)
-- Siring auction, see contract address [`0xc7af99fe5513eb6710e6d5f44f9989da40f27f26`](https://etherscan.io/address/0xc7af99fe5513eb6710e6d5f44f9989da40f27f26#code)
+- SaleClockAuction (Open Source), see contract address [`0xb1690c08e213a35ed9bab7b318de14420fb57d8c`](https://etherscan.io/address/0xb1690c08e213a35ed9bab7b318de14420fb57d8c#code)
+- SiringClockAuction (Open Source), see contract address [`0xc7af99fe5513eb6710e6d5f44f9989da40f27f26`](https://etherscan.io/address/0xc7af99fe5513eb6710e6d5f44f9989da40f27f26#code)
+
+
+<!-- add why? why not?
+
 - CEO, see contract address [`0xaf1e54b359b0897133f437fc961dd16f20c045e1`](https://etherscan.io/address/0xaf1e54b359b0897133f437fc961dd16f20c045e1#code)
 - CFO, see contract address [`0x2041bb7d8b49f0bde3aa1fa7fb506ac6c539394c`](https://etherscan.io/address/0x2041bb7d8b49f0bde3aa1fa7fb506ac6c539394c#code)
 - COO, see contract address [`0xa21037849678af57f9865c6b9887f4e339f6377a`](https://etherscan.io/address/0xa21037849678af57f9865c6b9887f4e339f6377a#code)
+-->
+
 
 
 ## Overview
@@ -56,7 +62,7 @@ The contract inheritance for the main kitty contract looks like this:
 
 
 ``` solidity
-contract [KittyAccessControl](KittyAccessControl.sol)
+contract KittyAccessControl
 contract KittyBase is KittyAccessControl
 contract KittyOwnership is KittyBase, ERC721
 contract KittyBreeding is KittyOwnership
