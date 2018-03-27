@@ -3,7 +3,7 @@ _Code on the Blockchain - Electronic Contract Scripts_
 # CryptoKitties Blockchain Contracts / Services
 
 
-Note: Almost all of the CryptoKitties contract scripts are open source and documented with lots of inline comments. Thanks!
+Note: Almost all of the CryptoKitties contract scripts are open source and documented with inline running commentary. Thanks!
 The [KittyCore](dl/KittyCore.sol) contract script is about 2 000 lines total. 
 
 The only sooper-sekretoo contract is the [GeneScienceInterface](GeneScienceInterface.sol) with the "magic" mixGenes function 
