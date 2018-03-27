@@ -1,5 +1,19 @@
 # CryptoKitties Blockchain Contracts / Services
 
+Note: Almost all of the CryptoKitties contract scripts are open source.
+The [KittyCore](dl/KittyCore.sol) contract script is about 2 000 lines total. 
+
+The only sooper-sekretoo contract is the [GeneScienceInterface](GeneScienceInterface.sol) with the "magic" mixGenes function 
+that given genes of kitten 1 & 2, return a genetic combination.
+
+Note: The mixGenes got "reverse-engineered" from the opcode - thanks to Sean Soria (see [CryptoKitties mixGenes Function](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80)) -  
+and is now a "public" sooper-sektretoo.
+See [`mixGenes.rb`](https://github.com/openblockchains/awesome-cryptokitties/blob/master/genes/mixGenes.rb) for a ruby version 
+or [`mixGenes.py`](https://github.com/openblockchains/awesome-cryptokitties/blob/master/genes/mixGenes.py) for a python version.
+
+
+
+## Overview
 
 The contract inheritance for the main kitty contract looks like this:
 
@@ -13,6 +27,12 @@ contract KittyAuction is KittyBreeding
 contract KittyMinting is KittyAuction
 contract KittyCore is KittyMinting
 ```
+
+
+
+
+
+
 
 
 ### Code on the Blockchain - Electronic Contract Scripts
