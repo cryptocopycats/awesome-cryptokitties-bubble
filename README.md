@@ -604,6 +604,17 @@ The rarer your kitties traits the higher your service fee income!
 No. 3 - Breed your own new kitties and sell to a greater fool for a higher price!
 
 
+**Articles**
+
+[**This man has made more money trading cryptokitties than investing in his IRA**](https://www.theverge.com/2017/12/13/16754266/cryptokitties-ethereum-ether-game-cats)
+by Shannon Liao, The Verge, December 2017 -- Todd -a 30-year-old -spent 30 ether in total in the casino so far, but his Kitty Portfolio, at the time of the interview, is worth 99 ether - a hypothetical net gain of $42 321, not considering transaction fees
+
+[**How we made $100 000 trading CryptoKitties**](https://hackernoon.com/how-we-made-100k-trading-cryptokitties-2d69aebe715b)
+by Ivan Bogatyy, April 2018 -- get in early and buy low and sell high to greater fools before the bubble inflates; follow up with arbitrage and front-running bots 
+
+[**How I Beat CryptoKitties**](https://hackernoon.com/how-i-beat-cryptokitties-f9aa71c03c87) by Robert Durst, April 2018 -- creating thousands of (bot) accounts to fake likes; and of course, with 240,000+ likes, the most liked cat in the casino!
+
+
 
 
 #### Scams, Scams, Scams - The Art of the Steal
