@@ -612,7 +612,7 @@ by Shannon Liao, The Verge, December 2017 -- Todd -a 30-year-old -spent 30 ether
 [**This User Made 462 Ether ($210 000) In 3 Days Trading CryptoKitties**](http://storeofvalueblog.com/posts/this-user-made-462-ether-in-3-days-playing-cryptokitties/) -- get in early and buy (limited) founder cats (only 100 max auctioned off) 
 and sell high to greater fools before the bubble pops
 
-| Kittie  |	Bought (eth)	| Sold (eth)  |	Profit (-fees)	| Bought      | Sold |
+| Kitty   |	Bought (Eth)	| Sold (Eth)  |	Profit (-Fees)	| Bought      | Sold |
 |---------|---------------|-------------|-----------------|-------------|------|
 | #7      |	49.21	        | 190.05	    | +133.71	        | Dec/3 21:28	| Dec/4 19:45  |
 | #42	    | 9.86	        | 75.08	      | +62.41	        | Dec/3 9:21	| Dec/4 8:19   |
