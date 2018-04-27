@@ -510,7 +510,7 @@ Average Kitty Price / Day:
 
 _CryptoKitties marks the beginning of a (massive) digital revolution. To understand why, learn about the blockchain, blockchain, blockchain._
 
-[**Why we’re not doing an Initial Coin Offering (ICO)**](https://www.axiomzen.co/news/article/why-were-not-doing-an-initial-coin-offering-ico) by Benny Giang (Axiom Zen, Vancouver, Canada), November 2017
+[**Why we're not doing an Initial Coin Offering (ICO)**](https://www.axiomzen.co/news/article/why-were-not-doing-an-initial-coin-offering-ico) by Benny Giang (Axiom Zen, Vancouver, Canada), November 2017
 
 > CryptoKitties is not holding an Initial Coin Offering (ICO).
 > Instead, we're offering utility from day one and pursuing a sustainable revenue model based on our games' mechanics.
@@ -606,11 +606,24 @@ No. 3 - Breed your own new kitties and sell to a greater fool for a higher price
 
 **Articles**
 
-[**This man has made more money trading CryptoKitties than investing in his individual retirement account (IRA)**](https://www.theverge.com/2017/12/13/16754266/cryptokitties-ethereum-ether-game-cats) [(Comments)](https://www.reddit.com/r/CryptoKitties/comments/7k1q7b/this_man_has_made_more_money_trading/)
+[**This man has made more money trading CryptoKitties than investing in his individual retirement account (IRA)**](https://www.theverge.com/2017/12/13/16754266/cryptokitties-ethereum-ether-game-cats), [(Comments)](https://www.reddit.com/r/CryptoKitties/comments/7k1q7b/this_man_has_made_more_money_trading/)
 by Shannon Liao, The Verge, December 2017 -- Todd -a 30-year-old -spent 30 ether in total in the casino so far, but his kitty portfolio, at the time of the interview, is worth 99 ether - a hypothetical net gain of $42 321, not considering transaction fees
 
 [**This User Made 462 Ether ($210 000) In 3 Days Trading CryptoKitties**](http://storeofvalueblog.com/posts/this-user-made-462-ether-in-3-days-playing-cryptokitties/) -- get in early and buy (limited) founder cats (only 100 max auctioned off) 
 and sell high to greater fools before the bubble pops
+
+| Kittie  |	Bought (eth)	| Sold (eth)  |	Profit (-fees)	| Bought      | Sold |
+|---------|---------------|-------------|-----------------|-------------|------|
+| #7      |	49.21	        | 190.05	    | +133.71	        | Dec/3 21:28	| Dec/4 19:45  |
+| #42	    | 9.86	        | 75.08	      | +62.41	        | Dec/3 9:21	| Dec/4 8:19   |
+| #23	    | 69.14         |	133.88	    | +59.71	        | Dec/4 8:38  | Dec/5 7:07   |
+| #45     |	9.84	        | 35.06	      | +23.90	        | Dec/3 19:39 | Dec/4 7:24   |
+| #47     | 9.84	        | 30.17       | +19.19          | Dec/3 19:47 | Dec/4 6:27   |
+| #27	    | 70.46	        | 95.33	      | +21.29	        | Dec/4 8:46  |	Dec/7 13:27  |
+| #52	    | 50.15         |	125.73	    | +70.87	        | Dec/6 5:15  | Dec/6 6:01   |
+| #93	    | 50.32	        | 126.03	    | +70.98	        | Dec/6 5:30  |	Dec/6 7:26   |
+| Total   |	318.84	      | 811.33	    | +462.06         |
+
 
 [**How we made $100 000+ trading CryptoKitties**](https://hackernoon.com/how-we-made-100k-trading-cryptokitties-2d69aebe715b)
 by Ivan Bogatyy, April 2018 -- get in early and buy low and sell high to greater fools before the bubble pops; follow up with arbitrage and front-running bots 
