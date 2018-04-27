@@ -468,6 +468,51 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 
 
 
+### Mania to Cooldown
+
+#### Q: How popular is CryptoKitties?
+
+In December 2017 - CryptoKitties Mania:
+
+> CryptoKitties is now the most popular contract on ethereum, 
+> accounting for 11 percent of total traffic (transactions).
+>
+> (Source: [CryptoKitties Mania Overwhelms Ethereum Network's Processing](https://www.bloomberg.com/news/articles/2017-12-04/cryptokitties-quickly-becomes-most-widely-used-ethereum-app), December 4th, 2017)
+
+
+> CryptoKitties make up over 20 percent of all ethereum computations 
+> and the app is Ethereum’s most popular by far.
+>
+> (Source: [How CryptoKitties Disrupted the Ethereum Network](https://hackernoon.com/how-crypto-kitties-disrupted-the-ethereum-network-845c22aa1e6e), December 2017)
+
+
+In April 2018 - CryptoKitties Cooldown:
+
+
+> The number of active decentralized app (dapp) users [on ethereum] 
+> is shockingly low, even for high-profile app like CryptoKitties.
+>
+> Citing data from DappRadar, Chris McCann reports that CryptoKitties has fewer than 1 000 daily active users (DAU). 
+> Granted, interest has sharply declined over the past few months, 
+> but he estimates that even at its peak the [CryptoKitties] app 
+> likely only had about 14 000 daily users.
+> Neopets, a game to which CryptoKitties is often compared, once had as many as 35 million users.
+>
+> (Source: [CryptoKitties Isn’t as Popular as You Think It Is](https://www.ccn.com/cryptokitties-isnt-as-popular-as-you-think-it-is/), April 2018)
+
+
+![](i/dappradar.png)
+
+(Source: [DappRadar](https://dappradar.com), April 2018)
+
+
+![](i/rolldiceclub-activeplayers.png)
+
+(Source: [Roll Dice Club - CryptoKitties - Active Players](http://www.rolldice.club/cryptokitties/index.php), April 2018)
+
+
+
+
 ### Sales Statistics
 
 
