@@ -70,7 +70,8 @@
  - `AuctionSuccessful(kittyID [uint256], price [uint256], winner [address])`
  - `AuctionCancelled(kittyID [uint256])`
 
-# KittySires Contract: [0xC7af99Fe5513eB6710e6D5f44F9989dA40F27F26](https://etherscan.io/address/0xC7af99Fe5513eB6710e6D5f44F9989dA40F27F26#code)
+
+## KittySires Contract: [0xC7af99Fe5513eB6710e6D5f44F9989dA40F27F26](https://etherscan.io/address/0xC7af99Fe5513eB6710e6D5f44F9989dA40F27F26#code)
 
 ### Calls/Reads
  - `getAuction(kittyID [uint256])`: returns [seller [address], startPrice [uint256], endPrice [uint256], duration [uint256], startTime [uint256]]
