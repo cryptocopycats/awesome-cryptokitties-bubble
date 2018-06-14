@@ -13,7 +13,7 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > - SUPER CHEAP: Gerbil, Ragdoll, Scarlet, Chestnut, Cotton Candy!!! 0.02 ETH (~$14)
 > - I'm giving away a Gen 1 FAST Gold for free...
 >
-> -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
+> -- [CrypotKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
 
 > Blockchain has unlocked the magic of digital scarcity, and combining that with the power of
@@ -32,7 +32,7 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > This was a modern tulip bubble. You were buying hex strings that tied to the picture of a cat.
 > People were paying 10-20-30 ETH for a cat picture. 10 ETH was around $4000? For a cat picture. Yeah...
 >
-> -- [CrypoKitties](https://www.reddit.com/r/CryptoKitties)
+> -- [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 
 
 
@@ -766,7 +766,7 @@ Will CryptoKitties ever run out of new greater fools?
 > - Selling all kitties for .45 ETH - 9 kitties, quick cooldowns, early generations, rare traits
 > - Selling whole account with 18 good kitties (10 amurs, rare traits, 1 fancy, max gen.3-9) - Make me an offer!
 >
-> -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
+> -- [CryptoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
 
 ##### Q: Is CryptoKitties an online gambling casino?
@@ -809,7 +809,7 @@ Buy Fine Crypto Kitty Art Paintings (Acryl on Canvas) - Original (*) Modern Art?
 
 (*): Yes, you really really own the painting.
 
-> Everybody is going nuts about CrypoKitties ( including myself ) So, as a painter my madness is reflected in art;
+> Everybody is going nuts about CryptoKitties ( including myself ) So, as a painter my madness is reflected in art;
 > so I've started to paint this kitties... lot's of kitties :)
 
 ![](i/cryptokitties-modernart-paintings-ii.png)
