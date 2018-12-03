@@ -333,6 +333,9 @@ Mack is the project leader and self-described "fat cat" of CryptoKitties.
 
 ![](i/kitty1.png)
 
+![](https://cryptocopycats.github.io/media/kitties/100x100/fancy-genesis.png)
+
+
 [Genesis Kittie](https://www.cryptokitties.co/kitty/1) #1 (Exclusive Genesis) - Sold for 246.926 ETH (~$115 000) on Dec/2  
 
 Genes `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
@@ -359,6 +362,9 @@ Genes `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
 (Source: [api.cryptokitties.co/kitties/1](https://api.cryptokitties.co/kitties/1))
 
 ![](i/kitty174756.png)
+
+![](https://cryptocopycats.github.io/media/kitties/100x100/fancy-mistletoe.png)
+
 
 [First Xmas Kittie](https://www.cryptokitties.co/kitty/174756) #174756 (Fancy Mistletoe) - Sold for 2.097 ETH	on Dec/10
 
@@ -393,6 +399,9 @@ Genes `cdcd 5656 4744 gfg4 66d4 7877 eccf 251j 77k7 222k gddg ddea`
 ![](i/kitty275808.png)
 
 [Ho Ho Ho - First Santa Claus Kittie](https://www.cryptokitties.co/kitty/275808)  #275808 (Fancy SantaClaws) - Sold for 7.258 ETH on	Dec/13
+
+![](https://cryptocopycats.github.io/media/kitties/100x100/fancy-santaclaws.png)
+
 
 ``` json
 {"id":275808,"name":"the First SantaClaws! 🎅","generation":6,
