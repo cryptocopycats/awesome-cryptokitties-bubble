@@ -1118,13 +1118,11 @@ See the [Contracts](contracts) page »
 
 ### More / Misc
 
-**Kitty Raririty Calculator** Browser (Fan Add-on) Extension (github: [HaJaeKyung/KittyExtension](https://github.com/HaJaeKyung/KittyExtension)) by Ha Jae Kyung -- gives color coded rarity info by hovering; Pink: ultra rare,
-Orange: very rare,
-Purple: rare,
-Blue: uncommon,
-White: common
 
-**Kitty Offspring Guesser / Cattribute Predictor** (web: [kitty.services](http://www.kitty.services)) -- Genetics Fur Cats: Premier genetic testing services for your CryptoKitties based on machine learning and the blockchain - put in the IDs of your parents-to-be and we'll let you know what their offspring will look like.
+See the [CryptoKitties (and Copycats) Links & Resources Appendix](https://github.com/cryptocopycats/programming-cryptocollectibles/blob/master/A1_resources.md) 
+in the Programming CryptoCollectibles Step-by-Step Book  
+for Trait Cheatsheets, (Offspring) Breeding Calculators, Cattribute Rarity & Popularity Stats, 
+Public Kitty Datasets & More
 
 
 
