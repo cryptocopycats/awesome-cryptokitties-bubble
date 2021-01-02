@@ -1,3 +1,7 @@
+For more blockchain books, see the new [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
+
+---
+
 
 ![](i/cryptokitties-genes01.png)
 
