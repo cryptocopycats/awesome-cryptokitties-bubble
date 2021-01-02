@@ -1,4 +1,4 @@
-For more blockchain books, see the new [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
+For more blockchain books, see the [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
 
 ---
 
