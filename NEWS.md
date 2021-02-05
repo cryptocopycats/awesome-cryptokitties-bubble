@@ -264,3 +264,8 @@ Todos:
 >  It pairs linear types with object capabilities to create a secure 
 >  and declarative model for digital ownership. -- [March 6, 2020](https://twitter.com/dete73/status/1235984368822136833)
 
+Links:
+- Flow Playground @ <https://play.onflow.org>
+- Flow Docs @ <https://docs.onflow.org>
+- Flow Forum @ <https://forum.onflow.org>
+
