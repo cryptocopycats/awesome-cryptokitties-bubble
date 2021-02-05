@@ -250,3 +250,17 @@ Todos:
 > to upgrade any Generation 0 you may own with any Generation 0 in the pool.
 >
 > (Source: [Wrapped CryptoKitties Lite Pa-purr](https://www.wrappered.com/litepapurr.html))
+
+
+### What's Flow?
+
+> Dieter Shirley, Co-Creator CryptoKitties, Creator Flow @ Dapper Labs:
+>
+>  Flow takes the best ideas from [Factbook's] Diem's MoveVM and combines them with 
+>  a modern, ergonomic syntax inspired by Rust and Swift. 
+>  We think it's a far better way to build digital assets.  -- [March 6, 2020](https://twitter.com/dete73/status/1235984369572966400)
+>
+>  The playground shows off our new smart contract language, Cadence. 
+>  It pairs linear types with object capabilities to create a secure 
+>  and declarative model for digital ownership. -- [March 6, 2020](https://twitter.com/dete73/status/1235984368822136833)
+
