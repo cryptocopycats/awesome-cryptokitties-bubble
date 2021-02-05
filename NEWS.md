@@ -74,6 +74,29 @@ Articles:
 
 ### Ethereum Gas Price - All Time High - Transaction Fees
   
+  
+> Birthing fees are pretty high.
+> I would like to breed but i saw the transaction free / cost which are at $1000. 
+>
+> I'm trying to buy one, and set the gas price to slow (1hr). Over three hours later, and up to $8.53 on gas & still no cat. 
+> Is the game doomed?
+> Update! The transaction took 6 hrs & 15 min. - but it did finally go through.
+>
+> Fees are exceptionally high now due to Ethereum's high price and movements. 
+> The gas fees are tied to Ether (ETH) therefore high prices.
+>
+> Probably stuck with my cats forever... jeez, I hate to think of how much they cost in dollars with ether (ETH) as expensive as it is now.
+>
+> How much gas limit should I use to Adopt a Cat?
+> The recommended gas limit in meta mask is absurd and the transaction 
+> fee would be like $800, how much should i use?
+>
+> Gas prices [on Ethereum] have now nearly completely stopped the market. 
+> I know there's plans to revitalize CryptoKitties [on Flow].
+
+
+
+  
 <!--  
 ### Promotions, Promotions, Promotions  
   -->
