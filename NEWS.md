@@ -151,8 +151,10 @@ Articles:
 
 ### Wrapped Gen-0 CryptoKitties (WG0),  Wrapped Virgin Gen-0 CryptoKitties (WVG0) 
 
-
 > The Wrapped Gen-0 contract ($WG0) is now the biggest holder of Gen-0 CryptoKitties -- [(Oct 9, 2020)](https://twitter.com/Poopie_cat/status/1315340687634690050)
+
+![](i/kittyhelper-wrapped-2021-02-05.png)
+
 
 - <https://www.wrappered.com>
   - <https://www.wrappered.com/faqs.html>
@@ -162,14 +164,15 @@ Articles:
 > There is a fixed cap of 50,000 Gen-0 Kitties whereas non-Gen-0 Kitties can be bred indefinitely.
 
 
-
-![](i/kittyhelper-wrapped-2021-02-05.png)
-
 Price History:
+
+![](i/wrapped-gen0-2021-02-05.png)
 
 Wrapped Gen-0 ($WG0):
 - <https://www.coingecko.com/en/coins/wrapped-gen-0-cryptokitties>
 - 2021/02/05 - 0.1275 ETH (~$208.26) / Circulating Supply: 1,908 
+
+![](i/wrapped-virgin-gen0-2021-02-05.png)
 
 Wrapped Gen-0 ($WVG0):
 - 2021/02/05 - 0.2653 ETH / Circulating Supply: 316
@@ -188,6 +191,8 @@ Todos:
 > Do you want to collateralise your CDP (Collateralized Debt Position), with yDAI (Yield Zero-Coupon Bond DAI) 
 > leveraged CHAI (Wrapper over the DAI Savings Rate), 
 > which you can flash loan to your synthetic USD to buy your wrapped cryptokitties?
+
+![](i/wrapped-2021-02-05.png)
 
 Turn unique non-fungible tokens into a fungible token.
 
