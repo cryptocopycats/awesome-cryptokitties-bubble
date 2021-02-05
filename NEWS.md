@@ -1,7 +1,7 @@
 
+![](i/kitties-per-day-2021-02-05.png)
 
 ![](i/kittyhelper-players-2021-02-05.png)
-
 
 > - Does anyone buy anymore? Had this kitties for years. Anyone wanna buy?
 > - I have 340 kitties... and I wanna bulk SELL
@@ -14,6 +14,8 @@
 > - Are these kittens worth anything?
 > 
 > -- [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
+
+![](i/kitty-sales-per-day-2021-02-05.png)
 
 
 # CryptoKitties - What's News?
