@@ -47,7 +47,7 @@ A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the 
 
 What's News?
 
-For the latest updates, see [**CryptoKitties in 2021 »**](NEWS.md) 
+For the latest updates, see [**CryptoKitties in 2021 & 2020 »**](NEWS.md) 
 
 
 Contents
