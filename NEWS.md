@@ -105,7 +105,6 @@ Articles:
 ## 2020
 
 
-
 ### Wrapped Gen-0 CryptoKitties (WG0),  Wrapped Virgin Gen-0 CryptoKitties (WVG0) 
 
 > The Wrapped Gen-0 contract ($WG0) is now the biggest holder of Gen-0 CryptoKitties -- [(Oct 9, 2020)](https://twitter.com/Poopie_cat/status/1315340687634690050)
@@ -177,6 +176,21 @@ Todos:
 
 
 ## Appendix
+
+### Wrapped Kitties (WCK) Facts
+
+> Every Wrapped CryptoKitty token is backed 1:1 by a CryptoKitty. 
+> As Kitties are "wrapped" WCK is minted. Inversely, Kitties are transferred out of the contract when $WCK is burned
+>
+> To create a single $WCK, you'll need one CryptoKitty and two additional transactions. 
+> At 100 gwei the approval tx costs ~0.005 ETH & wrapping tx ~0.013 for a total of 0.018 ETH each excluding the variable cost of the Kitty
+>
+> You can save on gas by batch wrapping cats. At 100 gwei, the tx fees to mint 30 $WCK totals ~0.34 ETH or roughly 0.011 ETH each
+>
+> $WCK supply is not fixed but the minting process is very laborious. 
+> The theoretical max circulating supply is the total number of CryptoKitties which is currently 1.96m
+>
+> (Source: [$WCK Facts, Poppie Cat](https://twitter.com/Poopie_cat/status/1308847180745236483))
 
 
 ### Wrapped CryptoKitties Lite Pa-purr
