@@ -64,6 +64,15 @@
     > - Nestpacity: Number of times the nest can be used before disintegration
     > - Durability: Probability that the nest does not consume Nestpacity on a breed
 
+<!-- break -->
+
+> On Ethereum, your CryptoKitties live in the storage area associated with the CryptoKitties contract, 
+> and they have a data field to track who owns them.
+>
+> On Flow, your CryptoKitties will live in the storage area associated with YOUR account...
+> 
+> -- [Dieter Shirley, Co-Creator CryptoKitties, Creator Flow @ Dapper Labs](https://twitter.com/dete73/status/1301217801101807616)
+
 
 
 **CryptoKitties v2.0 (Flow Edition) Designer**
