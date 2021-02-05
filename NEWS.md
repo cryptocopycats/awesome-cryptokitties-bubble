@@ -76,7 +76,7 @@ New Cattributes! - CryptoKitties on Flow - Render (Design) Your Own Kitty - <htt
 > The CryptoKitties NFTs can continue on Ethereum while being equipped by Hats
 > that are NFTs on Flow – they will claim their hats upon traveling over.
 
-Hats on Cats! - Sample CryptpKitties App for Flow - Source: <http://github.com/onflow/kitty-items>
+Hats on Cats! - Sample CryptoKitties App for Flow - Source: <http://github.com/onflow/kitty-items>
 
 > Q: What is Kitty Items?
 >
