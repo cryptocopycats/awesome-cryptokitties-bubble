@@ -45,6 +45,11 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain! and CryptoCopycats - digital collectibles secured on a distributed public databases w/ crypto hashes.  Are CryptoPuppies the new CryptoKitties?  Contributions welcome.
 
 
+## What's News?
+
+For the latest updates, see [**CryptoKitties in 2021 »**](NEWS.md) 
+
+
 Contents
 
 - [CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain!](#cryptokitties-yes-cute-little-cartoon-cats-on-the-blockchain)
@@ -82,7 +87,6 @@ Contents
 - [Crypto Copycats on the Blockchain!](#crypto-copycats-on-the-blockchain)
 - [History Corner](#history-corner) - _Collectibles on the Blockchain before CryptoKitties_
   - [CryptoPunks on the Blockchain!](#cryptopunks-on-the-blockchain)
-
 
 
 
