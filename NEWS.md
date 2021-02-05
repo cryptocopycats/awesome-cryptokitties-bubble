@@ -73,7 +73,7 @@ New Cattributes! - CryptoKitties on Flow - Render (Design) Your Own Kitty - <htt
 
 **Kitty Items - Hats on Cats!**
 
-> Here the CryptoKitties NFTs can continue on Ethereum while being equipped by Hats
+> The CryptoKitties NFTs can continue on Ethereum while being equipped by Hats
 > that are NFTs on Flow – they will claim their hats upon traveling over.
 
 Hats on Cats! - Sample CryptpKitties App for Flow - Source: <http://github.com/onflow/kitty-items>
@@ -81,8 +81,6 @@ Hats on Cats! - Sample CryptpKitties App for Flow - Source: <http://github.com/o
 > Q: What is Kitty Items?
 >
 > Kitty Items, a project that demonstrates the current best practices for building decentralized app on flow.
->
-> This project uses Cadence, Flow Client Library (FCL) and the Flow JavaScript SDK.
 >
 > Items are hats for your cats, but under the hood they're non-fungible tokens stored on the flow blockchain.
 >
