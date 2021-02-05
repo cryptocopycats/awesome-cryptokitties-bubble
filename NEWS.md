@@ -153,9 +153,6 @@ Articles:
 
 > The Wrapped Gen-0 contract ($WG0) is now the biggest holder of Gen-0 CryptoKitties -- [(Oct 9, 2020)](https://twitter.com/Poopie_cat/status/1315340687634690050)
 
-![](i/kittyhelper-wrapped-2021-02-05.png)
-
-
 - <https://www.wrappered.com>
   - <https://www.wrappered.com/faqs.html>
  
@@ -166,15 +163,18 @@ Articles:
 
 Price History:
 
+Wrapped Gen-0 ($WG0):
+
 ![](i/wrapped-gen0-2021-02-05.png)
 
-Wrapped Gen-0 ($WG0):
 - <https://www.coingecko.com/en/coins/wrapped-gen-0-cryptokitties>
 - 2021/02/05 - 0.1275 ETH (~$208.26) / Circulating Supply: 1,908 
 
+
+Wrapped Virgin Gen-0 ($WVG0):
+
 ![](i/wrapped-virgin-gen0-2021-02-05.png)
 
-Wrapped Gen-0 ($WVG0):
 - 2021/02/05 - 0.2653 ETH / Circulating Supply: 316
 
 
@@ -191,8 +191,6 @@ Todos:
 > Do you want to collateralise your CDP (Collateralized Debt Position), with yDAI (Yield Zero-Coupon Bond DAI) 
 > leveraged CHAI (Wrapper over the DAI Savings Rate), 
 > which you can flash loan to your synthetic USD to buy your wrapped cryptokitties?
-
-![](i/wrapped-2021-02-05.png)
 
 Turn unique non-fungible tokens into a fungible token.
 
@@ -213,8 +211,11 @@ Price History:
 > have been wrapped into $WCK tokens raising the floor price of Kitties by 50% Chart with upwards trend  -- [(June 12, 2019)](https://twitter.com/Poopie_cat/status/1138813558165102592)
 
 Wrapped CryptoKitty ($WCK):
+
+![](i/wrapped-2021-02-05.png)
+
 - 2021/02/05 - 0.0018 ETH / Circulating Supply: 65,612
-- add prices here 
+- add more prices here 
 
 
 Todos: 
@@ -247,6 +248,8 @@ Todos:
 
 
 ### Wrapped CryptoKitties Lite Pa-purr
+
+![](i/kittyhelper-wrapped-2021-02-05.png)
 
 > NFTs suffer from lack of liquidity and have a tendency to have high spreads. These issues along with additional 
 > complexity of understanding their respective markets makes speculating on NFTs difficult. 
