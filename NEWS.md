@@ -30,8 +30,18 @@
 > as we work towards building the closed alpha of CryptoKitties on Flow. 
 
 [CryptoKittes on Flow (Blockchain) - Build in Public Board](https://trello.com/b/MVwdMAn7/ck-on-flow-build-in-public)
-- June 1 - Intrinsic Genes & Nests
-- June 8 - [Gene Science](https://trello.com/c/ROGqDiMM/20-gene-science)
+- [Intrinsic Genes & Nests](https://trello.com/c/89DL79It/25-intrinsic-genes)
+  - > Intrinsic genes modify the breeding and genetic properties of CryptoKitties and occupy 4 loci in a Kitty's genome.
+    > Types of intrinsic genes:
+    > 
+    > Breeding Properties:
+    > - Vigor: modifies breeding time
+    > - Fecundity: modifies Catpacity
+    >
+    > Genetic Properties:
+    > - Mutability: modifies both base mutation and devolution probability
+    > - Penetrance: modifies rate of recessive emergence (gene swaps within a Locus)
+- [Gene Science](https://trello.com/c/ROGqDiMM/20-gene-science)
   - > The Gene Science contract is responsible for the genetic structure of Kitties. 
     > Unlike CryptoKitties' math-based mutation pyramid, Gene Science on Flow uses a queryable lookup table to enforce breeding 
     > logic for mutating pairs.
@@ -43,10 +53,20 @@
     > A gene size of 10 bits will allow for 2^10 potential genes in a single locus.
     > 25 loci make up the CryptoKitties genome with the first 12 being reserved for legacy loci. 
     > We've also made changes in the technical implementation of mixgenes and the core Kitty structure to allow backwards compatibility.
-- June 15 - Cat-pacity and timers 
+- [Breeding with Nests](https://trello.com/c/1LvC0fF0/33-breeding-with-nests)
+  - > Nests are consumable NFTs required in breeding. To breed a pair of Kitties, you'll need one Nest and available 
+    > Cat-pacity from a parent. Upon breeding, an Egg NFT is created and placed within your chosen Nest which can be hatched at a later time.
+    >
+    > Nests have their own genes which can affect the breeding or genetic outcome of your Kitties.
+    > Not all of these properties are included in-scope.
+    >
+    > - Level: Maximum Level of Cat born in this nest
+    > - Nestpacity: Number of times the nest can be used before disintegration
+    > - Durability: Probability that the nest does not consume Nestpacity on a breed
 
 
-CryptoKittes on Flow - Render (Design) Your Own Kitty - <https://ck-renderer.herokuapp.com/>
+
+CryptoKittes on Flow - Render (Design) Your Own Kitty - New Cattributes! - <https://ck-renderer.herokuapp.com/>
 
 Articles:
 - [CryptoKitties: Getting in the Flow - Blockchain’s favorite mascot is making moves](https://www.cryptokitties.co/blog/post/cryptokitties-on-flow/) - Official CryptoKitties on Flow Announcement
