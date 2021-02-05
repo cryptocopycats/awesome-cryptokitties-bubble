@@ -17,12 +17,46 @@
 
 ### CryptoKitties v2.0 - From Ethereum to Flow (Blockchain) - Build In Public
 
-- 
+> Welcome to the early stages of our grand meowgration to Flow. 
+> We want to enable mainstream adoption of the mascot of blockchain through free to play, new mechanics, 
+> upgradable smart contracts, easy on-boarding, fewer limitations and restrictions, 
+> and yes, fully composable, extensible on-chain layer one Kitties with true utility.
+> Phew, that was a lot but every bit of it matters.
+>
+> Our vision is to inspire the world to collect CryptoKitties.
+>
+> This board will contain ideas, implementations, and designs of all the new features we want to test and potentially bring to Flow.
+> Let's put lot of emphasis on the word "test". These features are in various stages of development 
+> as we work towards building the closed alpha of CryptoKitties on Flow. 
+
+[CryptoKittes on Flow (Blockchain) - Build in Public Board](https://trello.com/b/MVwdMAn7/ck-on-flow-build-in-public)
+- June 1 - Intrinsic Genes & Nests
+- June 8 - [Gene Science](https://trello.com/c/ROGqDiMM/20-gene-science)
+  - > The Gene Science contract is responsible for the genetic structure of Kitties. 
+    > Unlike CryptoKitties' math-based mutation pyramid, Gene Science on Flow uses a queryable lookup table to enforce breeding 
+    > logic for mutating pairs.
+    > 
+    > Every known legacy mutation will be ported over to CryptoKitties on Flow and locked forever. 
+    > While legacy mutations will remain untouched, we do want your Jaguar to be able to mutate 
+    > with new CK on Flow genes while retaining its legacy mutation.
+    >
+    > A gene size of 10 bits will allow for 2^10 potential genes in a single locus.
+    > 25 loci make up the CryptoKitties genome with the first 12 being reserved for legacy loci. 
+    > We've also made changes in the technical implementation of mixgenes and the core Kitty structure to allow backwards compatibility.
+- June 15 - Cat-pacity and timers 
+
+
+CryptoKittes on Flow - Render (Design) Your Own Kitty - <https://ck-renderer.herokuapp.com/>
+
+Articles:
+- [CryptoKitties: Getting in the Flow - Blockchain’s favorite mascot is making moves](https://www.cryptokitties.co/blog/post/cryptokitties-on-flow/) - Official CryptoKitties on Flow Announcement
+
 
 ### Ethereum Gas Price - All Time High - Transaction Fees
   
+<!--  
 ### Promotions, Promotions, Promotions  
-  
+  -->
   
   
 ## 2020
@@ -87,12 +121,12 @@ Wrapped CryptoKitty ($WCK):
 
 Todos: 
 - Check year of contract start? 
-- Add contract?
+- Add contract? - <https://etherscan.io/address/0x09fE5f0236F0Ea5D930197DCE254d77B04128075#contracts>
 
 
-
+<!--
 ### Promotions, Promotions, Promotions
-
+-->
 
 
 
