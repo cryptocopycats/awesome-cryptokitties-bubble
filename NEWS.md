@@ -1,7 +1,6 @@
 
 
-![](i/kittyhelper-top-2021-02-05.png)
-
+![](i/kittyhelper-players-2021-02-05.png)
 
 
 > - Does anyone buy anymore? Had this kitties for years. Anyone wanna buy?
@@ -148,6 +147,7 @@ Articles:
 
 ### Wrapped Gen-0 CryptoKitties (WG0),  Wrapped Virgin Gen-0 CryptoKitties (WVG0) 
 
+
 > The Wrapped Gen-0 contract ($WG0) is now the biggest holder of Gen-0 CryptoKitties -- [(Oct 9, 2020)](https://twitter.com/Poopie_cat/status/1315340687634690050)
 
 - <https://www.wrappered.com>
@@ -157,6 +157,9 @@ Articles:
 >
 > There is a fixed cap of 50,000 Gen-0 Kitties whereas non-Gen-0 Kitties can be bred indefinitely.
 
+
+
+![](i/kittyhelper-wrapped-2021-02-05.png)
 
 Price History:
 
