@@ -8,7 +8,7 @@
 > - Can someone help me sell my cats?
 > - Are these kittens worth anything?
 > 
-> -- [CrypotKitties](https://www.reddit.com/r/CryptoKitties)
+> -- [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 
 
 # CryptoKitties - What's News?
