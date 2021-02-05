@@ -208,7 +208,7 @@ Buy $WCK on Uniswap with $ETH
 Price History:
 
 > In 24 hours, almost 2,000 CryptoKitties
-> have been wrapped into $WCK tokens raising the floor price of Kitties by 50% Chart with upwards trend  -- [(June 12, 2019)](https://twitter.com/Poopie_cat/status/1138813558165102592)
+> have been wrapped into $WCK tokens raising the floor price of Kitties by 50% -- [(June 12, 2019)](https://twitter.com/Poopie_cat/status/1138813558165102592)
 
 Wrapped CryptoKitty ($WCK):
 
