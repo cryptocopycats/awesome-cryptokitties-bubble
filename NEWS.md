@@ -149,6 +149,9 @@ How? Tokens (ERC20 on Ethereum) each backed 1:1 by an CryptoKitty (ERC721 on Eth
 - <https://wrappedkitties.com>
 
 
+> The new thing is cryptokitties wrapped in a newly minted token, 
+> that's being traded on a unicorn-themed exchange.
+
 Buy $WCK on Uniswap with $ETH
 - <https://info.uniswap.org/pair/0x2174e6d76fe8fa6602db6af86f5e17840bdb0760>
 
