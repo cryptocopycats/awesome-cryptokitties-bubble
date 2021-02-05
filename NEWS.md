@@ -68,7 +68,9 @@
     > 25 loci make up the CryptoKitties genome with the first 12 being reserved for legacy loci. 
     > We've also made changes in the technical implementation of mixgenes and the core Kitty structure to allow backwards compatibility.
 - [Breeding with Nests](https://trello.com/c/1LvC0fF0/33-breeding-with-nests)
-  - > Nests are consumable NFTs required in breeding. To breed a pair of Kitties, you'll need one Nest and available 
+  - > ![](i/cryptokitties-v2-nest.png)
+    >
+    > Nests are consumable NFTs required in breeding. To breed a pair of Kitties, you'll need one Nest and available 
     > Cat-pacity from a parent. Upon breeding, an Egg NFT is created and placed within your chosen Nest which can be hatched at a later time.
     >
     > Nests have their own genes which can affect the breeding or genetic outcome of your Kitties.
@@ -77,8 +79,6 @@
     > - Level: Maximum Level of Cat born in this nest
     > - Nestpacity: Number of times the nest can be used before disintegration
     > - Durability: Probability that the nest does not consume Nestpacity on a breed
-
-![](i/cryptokitties-v2-nest.png)
 
 <!-- break -->
 
