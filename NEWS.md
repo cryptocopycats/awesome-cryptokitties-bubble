@@ -88,6 +88,8 @@
 
 New Cattributes! - CryptoKitties on Flow - Render (Design) Your Own Kitty - <https://ck-renderer.herokuapp.com/>
 
+![](i/cryptokitties-v2-renderer.png)
+
 
 **Kitty Items - Hats on Cats!**
 
