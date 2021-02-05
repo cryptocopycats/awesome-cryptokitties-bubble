@@ -43,6 +43,8 @@
 > Let's put lot of emphasis on the word "test". These features are in various stages of development 
 > as we work towards building the closed alpha of CryptoKitties on Flow. 
 
+![](i/cryptokitties-v2-board.png)
+
 [CryptoKittes on Flow (Blockchain) Board - Build in Public](https://trello.com/b/MVwdMAn7/ck-on-flow-build-in-public)
 - [Intrinsic Genes & Nests](https://trello.com/c/89DL79It/25-intrinsic-genes)
   - > Intrinsic genes modify the breeding and genetic properties of CryptoKitties and occupy 4 loci in a Kitty's genome.
