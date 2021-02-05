@@ -79,6 +79,8 @@
     > - Nestpacity: Number of times the nest can be used before disintegration
     > - Durability: Probability that the nest does not consume Nestpacity on a breed
 
+![](i/cryptokitties-v2-nest.png)
+
 <!-- break -->
 
 
