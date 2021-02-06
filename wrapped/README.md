@@ -1,11 +1,12 @@
 _Code on the Blockchain - Electronic Contract Scripts_
 
-# Wrapped CryptoKitties (WCK) Blockchain Contract / Service
+
+![](../i/kittyhelper-wrapped-2021-02-05.png)
+
+# Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services
 
 > $WCK wrapped cryptokitties; its actually backed by a digital cat;
 > where as other coins are backed by hot-air.
-
-![](../i/kittyhelper-wrapped-2021-02-05.png)
 
 
 Turn unique non-fungible tokens into a fungible token.
