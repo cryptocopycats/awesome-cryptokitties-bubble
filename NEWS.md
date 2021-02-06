@@ -231,37 +231,6 @@ Todos:
 ## Appendix
 
 
-### Wrapped CryptoKitties Lite Pa-purr
-
-![](i/kittyhelper-wrapped-2021-02-05.png)
-
-> NFTs suffer from lack of liquidity and have a tendency to have high spreads. These issues along with additional
-> complexity of understanding their respective markets makes speculating on NFTs difficult.
-> Many investors are left to do their own research and figure out what others have had years to learn.
-> Investing in NFTs remains challenging due to their non-fungibility and transaction costs on ethereum.
->
-> Wrapped CryptoKitties ($WCK) was the first experiment to convert NFTs into ERC20s to enable easy trading on exchanges like Uniswap.
-> With WCK, any CryptoKitty, regardless of market value, could be “wrapped” into a ERC-20 token.
-> This breakthrough allowed CryptoKitties players to convert over 50 thousand Kitties to gain access to liquid markets.
->
-> Enter Wrapped Gen-0 ($WG0) CryptoKitties. The motivation behind WGO is to provide easy access to liquidity
-> for a more valuable asset class with fixed supply. Only 50,000 Generation 0 cats can ever exist and much less are in circulation.
-> WG0 is a modification of the original experiment, with the additional requirement that the wrapped CryptoKitty must be a scarce Generation 0 cat.
->
-> Deflationary supply Generation 0s is another variant that remains interesting for collectors and speculators.
-> This asset class is called Virgin Generation 0 and Wrapped Virgin Generation 0 ($WVG0).
-> These Kitties are of mint quality and must remain unbred to keep their virginity.
->
-> There are only two ways to get a WG0 token: wrap an existing Gen 0 kitty that you own, or buy one from Uniswap.
-> A WG0 token is always backed exactly 1:1 with a Gen 0 kitty, and at any time a holder of 1 WG0 token can "burn"
-> the token and withdraw any Gen 0 from the WG0 contract. This creates unique opportunities to arbitrage between CryptoKitties'
-> first-party marketplace and the WG0 pool as well as the ability
-> to upgrade any Generation 0 you may own with any Generation 0 in the pool.
->
-> (Source: [Wrapped CryptoKitties Lite Pa-purr](https://www.wrappered.com/litepapurr.html))
-
-
-
 ### What's Flow?
 
 > Dieter Shirley, Co-Creator CryptoKitties, Creator Flow @ Dapper Labs:

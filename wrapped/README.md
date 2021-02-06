@@ -5,6 +5,9 @@ _Code on the Blockchain - Electronic Contract Scripts_
 > $WCK wrapped cryptokitties; its actually backed by a digital cat;
 > where as other coins are backed by hot-air.
 
+![](../i/kittyhelper-wrapped-2021-02-05.png)
+
+
 Turn unique non-fungible tokens into a fungible token.
 
 How? Tokens (ERC20 on Ethereum) each backed 1:1 by an CryptoKitty (ERC721 on Ethereum)
@@ -19,7 +22,9 @@ The [WrappedCK](dl/WrappedCK.sol) contract script is about 500 lines total.
 
 Etherscan
 
-- WrappedCK, see contract address [`0x09fE5f0236F0Ea5D930197DCE254d77B04128075`](https://etherscan.io/address/0x09fE5f0236F0Ea5D930197DCE254d77B04128075#contracts)
+- WrappedCK (WCK), see contract address [`0x09fe5f0236f0ea5d930197dce254d77b04128075`](https://etherscan.io/address/0x09fe5f0236f0ea5d930197dce254d77b04128075#code)
+- WrappedG0 (WG0), see contract address [`0xa10740ff9ff6852eac84cdcff9184e1d6d27c057`](https://etherscan.io/address/0xa10740ff9ff6852eac84cdcff9184e1d6d27c057#code) - Gen 0 Variant
+- WrappedVG0 (WVG0), see contract address [`0x25c7b64a93eb1261e130ec21a3e9918caa38b611`](https://etherscan.io/address/0x25c7b64a93eb1261e130ec21a3e9918caa38b611#code) - Virgin Gen 0 Variant
 
 
 
@@ -222,6 +227,38 @@ function batchRemoveWithdrawnKittiesFromStorage(
 
 
 
+## Bonus - Wrapped CryptoKitties Gen-0 (WG0), Wrapped Virgin CryptoKitties Gen-0 (WVG0)
+
+> Main contract for Wrapped G0. This contract converts Gen 0 Cryptokitties between the ERC721 standard
+> and the ERC20 standard by locking cryptokitties into the contract and minting 1:1 backed
+> ERC20 tokens, that
+> can then be redeemed for cryptokitties when desired.
+> This concept originated with WCK (Wrapped Cryptokitties).
+> This code is only a very slight modification of the original contract;
+> It simply adds the Gen 0 requirement
+>	 as well the getKitty interfacing.
+
+
+``` solidity
+uint256 kittyCooldown;
+uint256 kittyGen;
+
+(,,kittyCooldown,,,,,,kittyGen,) = kittyCore.getKitty(kittyToDeposit);
+
+require( kittyGen == 0, 'this cat must be generation 0' );
+```
+
+
+Wrapped Virgin CryptoKitties Gen-0 (WVG0) adds:
+
+``` solidity
+require( kittyCooldown == 0, 'cooldown must be fast' );
+```
+
+
+
+
+
 ## Appendix
 
 ### Wrapped Kitties (WCK) Facts
@@ -238,4 +275,34 @@ function batchRemoveWithdrawnKittiesFromStorage(
 > The theoretical max circulating supply is the total number of CryptoKitties which is currently 1.96m
 >
 > (Source: [$WCK Facts, Poppie Cat](https://twitter.com/Poopie_cat/status/1308847180745236483))
+
+
+
+### Wrapped CryptoKitties Lite Pa-purr
+
+> NFTs suffer from lack of liquidity and have a tendency to have high spreads. These issues along with additional
+> complexity of understanding their respective markets makes speculating on NFTs difficult.
+> Many investors are left to do their own research and figure out what others have had years to learn.
+> Investing in NFTs remains challenging due to their non-fungibility and transaction costs on ethereum.
+>
+> Wrapped CryptoKitties ($WCK) was the first experiment to convert NFTs into ERC20s to enable easy trading on exchanges like Uniswap.
+> With WCK, any CryptoKitty, regardless of market value, could be “wrapped” into a ERC-20 token.
+> This breakthrough allowed CryptoKitties players to convert over 50 thousand Kitties to gain access to liquid markets.
+>
+> Enter Wrapped Gen-0 ($WG0) CryptoKitties. The motivation behind WGO is to provide easy access to liquidity
+> for a more valuable asset class with fixed supply. Only 50,000 Generation 0 cats can ever exist and much less are in circulation.
+> WG0 is a modification of the original experiment, with the additional requirement that the wrapped CryptoKitty must be a scarce Generation 0 cat.
+>
+> Deflationary supply Generation 0s is another variant that remains interesting for collectors and speculators.
+> This asset class is called Virgin Generation 0 and Wrapped Virgin Generation 0 ($WVG0).
+> These Kitties are of mint quality and must remain unbred to keep their virginity.
+>
+> There are only two ways to get a WG0 token: wrap an existing Gen 0 kitty that you own, or buy one from Uniswap.
+> A WG0 token is always backed exactly 1:1 with a Gen 0 kitty, and at any time a holder of 1 WG0 token can "burn"
+> the token and withdraw any Gen 0 from the WG0 contract. This creates unique opportunities to arbitrage between CryptoKitties'
+> first-party marketplace and the WG0 pool as well as the ability
+> to upgrade any Generation 0 you may own with any Generation 0 in the pool.
+>
+> (Source: [Wrapped CryptoKitties Lite Pa-purr](https://www.wrappered.com/litepapurr.html))
+
 

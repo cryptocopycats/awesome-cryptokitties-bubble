@@ -1,10 +1,12 @@
 /**
  *  Note: For learning and education copied from
- *    https://etherscan.io/address/0x09fE5f0236F0Ea5D930197DCE254d77B04128075#code
+ *    https://etherscan.io/address/0xa10740ff9ff6852eac84cdcff9184e1d6d27c057#code
  *
  *
- * Submitted for verification at Etherscan.io on 2019-05-31
+ * Submitted for verification at Etherscan.io on 2019-12-18
 */
+
+
 
 pragma solidity ^0.5.8;
 
@@ -312,17 +314,20 @@ contract ReentrancyGuard {
 }
 
 
-/// @title Main contract for WrappedCK. This contract converts Cryptokitties between the ERC721 standard and the
-///  ERC20 standard by locking cryptokitties into the contract and minting 1:1 backed ERC20 tokens, that
-///  can then be redeemed for cryptokitties when desired.
-/// @notice When wrapping a cryptokitty, you get a generic WCK token. Since the WCK token is generic, it has no
+/// @title Main contract for Wrapped G0. This contract converts Gen 0 Cryptokitties between the ERC721 standard
+///  and the ERC20 standard by locking cryptokitties into the contract and minting 1:1 backed ERC20 tokens, that
+///  can then be redeemed for cryptokitties when desired. This concept originated with WCK (Wrapped Cryptokitties).
+///  This code is only a very slight modification of the original contract; It simply adds the Gen 0 requirement
+///	 as well the getKitty interfacing.
+///
+/// @notice When wrapping a cryptokitty, you get a generic WG0 token. Since the WG0 token is generic, it has no
 ///  no information about what cryptokitty you submitted, so you will most likely not receive the same kitty
 ///  back when redeeming the token unless you specify that kitty's ID. The token only entitles you to receive
 ///  *a* cryptokitty in return, not necessarily the *same* cryptokitty in return. A different user can submit
-///  their own WCK tokens to the contract and withdraw the kitty that you originally deposited. WCK tokens have
-///  no information about which kitty was originally deposited to mint WCK - this is due to the very nature of
+///  their own WG0 tokens to the contract and withdraw the kitty that you originally deposited. WG0 tokens have
+///  no information about which kitty was originally deposited to mint WG0 - this is due to the very nature of
 ///  the ERC20 standard being fungible, and the ERC721 standard being nonfungible.
-contract WrappedCK is ERC20, ReentrancyGuard {
+contract WrappedG0 is ERC20, ReentrancyGuard {
 
     // OpenZeppelin's SafeMath library is used for all arithmetic operations to avoid overflows/underflows.
     using SafeMath for uint256;
@@ -332,13 +337,13 @@ contract WrappedCK is ERC20, ReentrancyGuard {
     /* ****** */
 
     /// @dev This event is fired when a user deposits cryptokitties into the contract in exchange
-    ///  for an equal number of WCK ERC20 tokens.
+    ///  for an equal number of WG0 ERC20 tokens.
     /// @param kittyId  The cryptokitty id of the kitty that was deposited into the contract.
     event DepositKittyAndMintToken(
         uint256 kittyId
     );
 
-    /// @dev This event is fired when a user deposits WCK ERC20 tokens into the contract in exchange
+    /// @dev This event is fired when a user deposits WG0 ERC20 tokens into the contract in exchange
     ///  for an equal number of locked cryptokitties.
     /// @param kittyId  The cryptokitty id of the kitty that was withdrawn from the contract.
     event BurnTokenAndWithdrawKitty(
@@ -350,7 +355,7 @@ contract WrappedCK is ERC20, ReentrancyGuard {
     /* ******* */
 
     /// @dev An Array containing all of the cryptokitties that are locked in the contract, backing
-    ///  WCK ERC20 tokens 1:1
+    ///  WG0 ERC20 tokens 1:1
     /// @notice Some of the kitties in this array were indeed deposited to the contract, but they
     ///  are no longer held by the contract. This is because withdrawSpecificKitty() allows a
     ///  user to withdraw a kitty "out of order". Since it would be prohibitively expensive to
@@ -371,10 +376,10 @@ contract WrappedCK is ERC20, ReentrancyGuard {
     /* CONSTANTS */
     /* ********* */
 
-    /// @dev The metadata details about the "Wrapped CryptoKitties" WCK ERC20 token.
+    /// @dev The metadata details about the "Wrapped CryptoKitties" WG0 ERC20 token.
     uint8 constant public decimals = 18;
-    string constant public name = "Wrapped CryptoKitties";
-    string constant public symbol = "WCK";
+    string constant public name = "Wrapped Gen 0";
+    string constant public symbol = "WG0";
 
     /// @dev The address of official CryptoKitties contract that stores the metadata about each cat.
     /// @notice The owner is not capable of changing the address of the CryptoKitties Core contract
@@ -387,7 +392,7 @@ contract WrappedCK is ERC20, ReentrancyGuard {
     /* ********* */
 
     /// @notice Allows a user to lock cryptokitties in the contract in exchange for an equal number
-    ///  of WCK ERC20 tokens.
+    ///  of WG0 ERC20 tokens.
     /// @param _kittyIds  The ids of the cryptokitties that will be locked into the contract.
     /// @notice The user must first call approve() in the Cryptokitties Core contract on each kitty
     ///  that thye wish to deposit before calling depositKittiesAndMintTokens(). There is no danger
@@ -395,11 +400,21 @@ contract WrappedCK is ERC20, ReentrancyGuard {
     ///  function only approves this contract for a single Cryptokitty. Calling approve() allows this
     ///  contract to transfer the specified kitty in the depositKittiesAndMintTokens() function.
     function depositKittiesAndMintTokens(uint256[] calldata _kittyIds) external nonReentrant {
+
+
         require(_kittyIds.length > 0, 'you must submit an array with at least one element');
         for(uint i = 0; i < _kittyIds.length; i++){
             uint256 kittyToDeposit = _kittyIds[i];
+
+            uint256 kittyCooldown;
+            uint256 kittyGen;
+
+            (,,kittyCooldown,,,,,,kittyGen,) = kittyCore.getKitty(kittyToDeposit);
+
             require(msg.sender == kittyCore.ownerOf(kittyToDeposit), 'you do not own this cat');
-            require(kittyCore.kittyIndexToApproved(kittyToDeposit) == address(this), 'you must approve() this contract to give it permission to withdraw this cat before you can deposit a cat');
+            require(kittyCore.kittyIndexToApproved(kittyToDeposit) == address(this), 'you must approve() this contract before you can deposit a cat');
+            require(kittyGen == 0, 'this cat must be generation 0');
+
             kittyCore.transferFrom(msg.sender, address(this), kittyToDeposit);
             _pushKitty(kittyToDeposit);
             emit DepositKittyAndMintToken(kittyToDeposit);
@@ -407,7 +422,7 @@ contract WrappedCK is ERC20, ReentrancyGuard {
         _mint(msg.sender, (_kittyIds.length).mul(10**18));
     }
 
-    /// @notice Allows a user to burn WCK ERC20 tokens in exchange for an equal number of locked
+    /// @notice Allows a user to burn WG0 ERC20 tokens in exchange for an equal number of locked
     ///  cryptokitties.
     /// @param _kittyIds  The IDs of the kitties that the user wishes to withdraw. If the user submits 0
     ///  as the ID for any kitty, the contract uses the last kitty in the array for that kitty.
@@ -499,6 +514,6 @@ contract KittyCore {
     function ownerOf(uint256 _tokenId) public view returns (address owner);
     function transferFrom(address _from, address _to, uint256 _tokenId) external;
     function transfer(address _to, uint256 _tokenId) external;
+    function getKitty(uint256 _id) public view returns (bool,bool,uint256 _cooldownIndex,uint256,uint256,uint256,uint256,uint256,uint256 _generation,uint256);
     mapping (uint256 => address) public kittyIndexToApproved;
 }
-
