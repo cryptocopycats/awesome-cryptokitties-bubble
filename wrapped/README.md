@@ -3,7 +3,7 @@ _Code on the Blockchain - Electronic Contract Scripts_
 
 ![](../i/kittyhelper-wrapped-2021-02-05.png)
 
-# Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services
+# Inside the Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services
 
 > $WCK wrapped cryptokitties; its actually backed by a digital cat;
 > where as other coins are backed by hot-air.
