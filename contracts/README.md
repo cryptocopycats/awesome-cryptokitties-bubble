@@ -4,14 +4,14 @@ _Code on the Blockchain - Electronic Contract Scripts_
 
 
 Note: Almost all of the CryptoKitties contract scripts are open source and documented with inline running commentary. Thanks!
-The [KittyCore](dl/KittyCore.sol) contract script is about 2 000 lines total. 
+The [KittyCore](dl/KittyCore.sol) contract script is about 2 000 lines total.
 
-The only sooper-sekretoo contract is the [GeneScienceInterface](GeneScienceInterface.sol) with the "magic" mixGenes function 
+The only sooper-sekretoo contract is the [GeneScienceInterface](GeneScienceInterface.sol) with the "magic" mixGenes function
 that given genes of kitten 1 & 2, return a genetic combination.
 
 Note: The mixGenes got "reverse-engineered" from the opcode - thanks to Sean Soria (see [CryptoKitties mixGenes Function](https://medium.com/@sean.soria/cryptokitties-mixgenes-function-69207883fc80), Dec 2017) -
 and is now a "public" sooper-sektretoo.
-See [`mixGenes.rb`](https://github.com/openblockchains/awesome-cryptokitties/blob/master/genes/mixGenes.rb) for a ruby version 
+See [`mixGenes.rb`](https://github.com/openblockchains/awesome-cryptokitties/blob/master/genes/mixGenes.rb) for a ruby version
 or [`mixGenes.py`](https://github.com/openblockchains/awesome-cryptokitties/blob/master/genes/mixGenes.py) for a python version.
 
 
@@ -21,8 +21,8 @@ or [`mixGenes.py`](https://github.com/openblockchains/awesome-cryptokitties/blob
 
 Etherscan
 
-- KittyCore (Open Source), see contract address [`0x06012c8cf97bead5deae237070f9587f8e7a266d`](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
-- GeneScienceInterface (Opcode), see contract address [`0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b`](https://etherscan.io/address/0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b#code)
+- KittyCore, see contract address [`0x06012c8cf97bead5deae237070f9587f8e7a266d`](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
+- GeneScience, see contract address [`0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b`](https://etherscan.io/address/0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b#code)
 
 > The genetic combination algorithm is kept seperate so we can open-source all of
 > the rest of our code without making it _too_ easy for folks to figure out how the genetics work.
@@ -30,13 +30,18 @@ Etherscan
 >
 > -- Commentary from the CryptoKitties source code
 
-- SaleClockAuction (Open Source), see contract address [`0xb1690c08e213a35ed9bab7b318de14420fb57d8c`](https://etherscan.io/address/0xb1690c08e213a35ed9bab7b318de14420fb57d8c#code)
-- SiringClockAuction (Open Source), see contract address [`0xc7af99fe5513eb6710e6d5f44f9989da40f27f26`](https://etherscan.io/address/0xc7af99fe5513eb6710e6d5f44f9989da40f27f26#code)
+**Update 2019**  The sooper-sekretoo GeneScience contract
+with the "magic" mixGenes function is now open source
+with inline running commentary. Thanks!
+
+
+- SaleClockAuction, see contract address [`0xb1690c08e213a35ed9bab7b318de14420fb57d8c`](https://etherscan.io/address/0xb1690c08e213a35ed9bab7b318de14420fb57d8c#code)
+- SiringClockAuction, see contract address [`0xc7af99fe5513eb6710e6d5f44f9989da40f27f26`](https://etherscan.io/address/0xc7af99fe5513eb6710e6d5f44f9989da40f27f26#code)
 
 > The auctions are
 > seperate since their logic is somewhat complex and there's always a risk of subtle bugs. By keeping
 > them in their own contracts, we can upgrade them without disrupting the main contract that tracks
-> kitty ownership. 
+> kitty ownership.
 >
 > -- Commentary from the CryptoKitties source code
 
@@ -55,7 +60,7 @@ Etherscan
 Contract structure:
 
 > The day-one functionality of the contract scripts includes:
->                
+>
 > - Keep track of the genes of upcoming gen0 CryptoKitties
 > - Introducing the genes of gen0 CryptoKitties to the Core Contract
 > - Launching the auctions for gen0 CryptoKitties (including price determination)

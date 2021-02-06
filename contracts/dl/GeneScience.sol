@@ -1,3 +1,12 @@
+/**
+ *  Note: For learning and education copied from
+ *    https://etherscan.io/address/0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b#code
+ *
+ * Submitted for verification at Etherscan.io on 2019-01-31
+*/
+
+pragma solidity ^0.4.18;
+
 
 
 /// @title GeneScience implements the trait calculation for new kitties
