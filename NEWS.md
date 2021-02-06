@@ -178,8 +178,8 @@ Wrapped Virgin Gen-0 ($WVG0):
 - 2021/02/05 - 0.2653 ETH / Circulating Supply: 316
 
 
-Todos:
-- Add contract?
+For contracts, see [Inside the Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services »](wrapped)
+
 
 
 ## 2019
@@ -218,9 +218,11 @@ Wrapped CryptoKitty ($WCK):
 - add more prices here
 
 
+For contract, see [Inside the Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services »](wrapped)
+
+
 Todos:
 - Check year of contract start?
-- Add contract? - <https://etherscan.io/address/0x09fE5f0236F0Ea5D930197DCE254d77B04128075#contracts>
 
 
 <!--
