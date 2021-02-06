@@ -1,6 +1,6 @@
 _Code on the Blockchain - Electronic Contract Scripts_
 
-# Wrapped CryptoKitties Blockchain Contracts / Services
+# Wrapped CryptoKitties (WCK) Blockchain Contract / Service
 
 > $WCK wrapped cryptokitties; its actually backed by a digital cat;
 > where as other coins are backed by hot-air.
@@ -10,7 +10,7 @@ Turn unique non-fungible tokens into a fungible token.
 How? Tokens (ERC20 on Ethereum) each backed 1:1 by an CryptoKitty (ERC721 on Ethereum)
 
 
-Note: The Wrapped CryptoKitties contract script is open source and documented with inline running commentary. Thanks!
+Note: The Wrapped CryptoKitties (WCK) contract script is open source and documented with inline running commentary. Thanks!
 The [WrappedCK](dl/WrappedCK.sol) contract script is about 500 lines total.
 
 
