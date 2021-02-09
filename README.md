@@ -40,7 +40,7 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 
 
 
-# Awesome CryptoKitties (& CryptoCopycats)
+# Awesome CryptoKitties Bubble (Anno 2017)
 
 A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain! and CryptoCopycats - digital collectibles secured on a distributed public databases w/ crypto hashes.  Are CryptoPuppies the new CryptoKitties?  Contributions welcome.
 
@@ -1167,6 +1167,7 @@ Buy, sell and trade CryptoPunks!
 Learn more @ [larvalabs.com/cryptopunks](https://www.larvalabs.com/cryptopunks),
 github: [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) (contract script sources)
 
+For more see [**Awesome CryptoPunks Bubble (Anno 2021) »**](https://github.com/openblockchains/awesome-cryptopunks-bubble)
 
 **Q: What's different?**
 
