@@ -55,19 +55,43 @@ Contract commentary:
 > the ERC20 standard being fungible, and the ERC721 standard being nonfungible.
 
 
-The contract outline & inheritance for the wrapped kitty contract looks like this:
 
+
+Interfaces (Ethereum Standards) used / supported:
 
 ``` solidity
 interface IERC20                // ERC20 interface
+```
+
+Libraries (re)used:
+
+``` solidity
+library SafeMath                // Unsigned math operations with safety checks
+```
+
+And the contract outline & inheritance for the wrapped kitty contract:
+
+``` solidity
 contract ERC20 is IERC20        // Standard ERC20 token
 contract ReentrancyGuard        // Helps contracts guard against reentrancy attacks
 contract WrappedCK is ERC20, ReentrancyGuard    //  Main contract
-  using SafeMath                // Unsigned math operations with safety checks
-
-// Extern
-contract KittyCore              // Interface for interacting with CryptoKitties
 ```
+
+And [KittyCore contract](../contracts) functions (and mappings) called
+and accessed
+(via the "imported" external functions (and mappings) in KittyCore):
+
+``` solidity
+// Interface for interacting with the external KittyCore contract
+contract KittyCore {
+  function ownerOf(uint256 _tokenId) public view returns (address owner);
+  function transferFrom(address _from, address _to, uint256 _tokenId);
+  function transfer(address _to, uint256 _tokenId);
+  function getKitty(uint256 _id) public view returns (bool,bool,uint256 _cooldownIndex,uint256,uint256,uint256,uint256,uint256,uint256 _generation,uint256);
+  mapping (uint256 => address) public kittyIndexToApproved;
+}
+```
+
 
 
 ### WrappedCK
@@ -77,9 +101,9 @@ contract KittyCore              // Interface for interacting with CryptoKitties
 > The metadata details about the "Wrapped CryptoKitties" WCK ERC20 token.
 
 ``` solidity
-uint8 constant public decimals = 18;
-string constant public name = "Wrapped CryptoKitties";
-string constant public symbol = "WCK";
+uint8  constant public decimals = 18;
+string constant public name     = "Wrapped CryptoKitties";
+string constant public symbol   = "WCK";
 ```
 
 > The address of official CryptoKitties contract that stores the metadata about each cat.
