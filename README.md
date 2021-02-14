@@ -40,6 +40,17 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 
 
 
+**REMINDER: In the digitial world there are no originals! Every copy is a original and you cannot tell the difference 
+(all 0s and 1s are the same). And, yes, you can always make as many (free) copies as you like (in a free world).
+Claiming that you can protect your exclusive rights to pixels because the record of ownership 
+is stored in a public database is absurd.
+Without laws and governments that help you with your rights - the claim is just 
+a meaningless series of 0s and 1s.  PS: Do you really own CryptoKitties? (Spoiler: No.)
+Check your license agreement with DapperLabs - the pixel art seller - and do NOT get fooled by the record of ownership. 
+You are a licensee and NOT an owner.**
+
+
+
 # Awesome CryptoKitties Bubble (Anno 2017)
 
 A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the Blockchain! and CryptoCopycats - digital collectibles secured on a distributed public databases w/ crypto hashes.  Are CryptoPuppies the new CryptoKitties?  Contributions welcome.
