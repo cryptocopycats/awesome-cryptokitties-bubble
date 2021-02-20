@@ -52,9 +52,9 @@ You are a licensee and NOT an owner.**
 
 From the [CryptoKitties License F.A.Q](https://www.niftylicense.org):
 
-> Dapper Labs, Inc. created the art of your cryptokitty, and it's a big part of our brand. 
+> Dapper Labs, Inc. created [and owns] the art of your cryptokitty, and it's a big part of our brand. 
 > At the end of the day, businesses also need to have the right to make the big decisions [and the big $$$] 
-> about how the art gets used [and sold] in a commercial setting.
+> about how the art gets used in a commercial setting.
 >
 > We reserve to ourselves the right to make bigger [and bigger] deals to help our business grow
 > [and rake in all the $$$ for ourselves - of course].
