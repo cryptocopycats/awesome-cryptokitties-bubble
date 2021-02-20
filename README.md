@@ -56,7 +56,7 @@ From the [CryptoKitties License F.A.Q](https://www.niftylicense.org):
 > At the end of the day, businesses also need to have the right to make the big decisions [and the big $$$] 
 > about how the art gets used [and sold] in a commercial setting.
 >
-> We reserve to ourselves the right to make bigger deals to help our business grow
+> We reserve to ourselves the right to make bigger [and bigger] deals to help our business grow
 > [and rake in all the $$$ for ourselves - of course].
 
 
