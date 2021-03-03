@@ -40,20 +40,20 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 
 
 
-**REMINDER: In the digitial world there are no originals! Every copy is a original and you cannot tell the difference 
+**REMINDER: In the digitial world there are no originals! Every copy is a original and you cannot tell the difference
 (all 0s and 1s are the same). And, yes, you can always make as many (free) copies as you like (in a free world).
-Claiming that you can protect your exclusive rights to pixels because the record of ownership 
+Claiming that you can protect your exclusive rights to pixels because the record of ownership
 is stored in a public database is absurd.
-Without laws and governments that help you with your rights - the claim is just 
+Without laws and governments that help you with your rights - the claim is just
 a meaningless series of 0s and 1s.  PS: Do you really own CryptoKitties? (Spoiler: No.)
-Check your license agreement with DapperLabs - the pixel art license seller - and do NOT get fooled by the record of ownership. 
+Check your license agreement with DapperLabs - the pixel art license seller - and do NOT get fooled by the record of ownership.
 You are a licensee and NOT an owner.**
 
 
 From the [CryptoKitties License F.A.Q](https://www.niftylicense.org):
 
-> Dapper Labs, Inc. created [and owns] the art of your cryptokitty, and it's a big part of our brand. 
-> At the end of the day, businesses also need to have the right to make the big decisions [and the big $$$] 
+> Dapper Labs, Inc. created [and owns] the art of your cryptokitty, and it's a big part of our brand.
+> At the end of the day, businesses also need to have the right to make the big decisions [and the big $$$]
 > about how the art gets used in a commercial setting.
 >
 > We reserve to ourselves the right to make bigger [and bigger] deals to help our business grow
@@ -69,7 +69,7 @@ A collection about Awesome CryptoKitties (Yes, Cute Little Cartoon Cats) on the 
 
 What's News?
 
-For the latest updates, see [**CryptoKitties in 2021 & 2020 »**](NEWS.md) 
+For the latest updates, see [**CryptoKitties in 2021 & 2020 »**](NEWS.md)
 
 
 Contents
@@ -164,7 +164,7 @@ reddit: [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 > In many jurisdictions you can write them down for tax purposes as an investment.
 > [Official WikiLeaks CryptoKitties](https://wikileaks.shop/pages/cryptokitties) -
 > Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
->  
+>
 > -- [WikiLeaks](https://twitter.com/wikileaks/status/944209405377101824)
 
 
@@ -364,7 +364,7 @@ Mack is the project leader and self-described "fat cat" of CryptoKitties.
 ![](https://cryptocopycats.github.io/media/kitties/100x100/fancy-genesis.png)
 
 
-Genesis Kitty [#1](https://www.cryptokitties.co/kitty/1) (Exclusive Cat) - Sold for 246.926 ETH (~$115 000) on Dec/2  
+Genesis Kitty [#1](https://www.cryptokitties.co/kitty/1) (Exclusive Cat) - Sold for 246.926 ETH (~$115 000) on Dec/2
 
 Genes `ccac 7787 fa7f afaa 1646 7755 f9ee 4444 6766 7366 cccc eede`
 
@@ -511,13 +511,13 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 
 In December 2017 - CryptoKitties Mania:
 
-> CryptoKitties is now the most popular contract on ethereum, 
+> CryptoKitties is now the most popular contract on ethereum,
 > accounting for 11 percent of total traffic (transactions).
 >
 > (Source: [CryptoKitties Mania Overwhelms Ethereum Network's Processing](https://www.bloomberg.com/news/articles/2017-12-04/cryptokitties-quickly-becomes-most-widely-used-ethereum-app), December 4th, 2017)
 
 
-> CryptoKitties make up over 20 percent of all ethereum computations 
+> CryptoKitties make up over 20 percent of all ethereum computations
 > and the app is Ethereum’s most popular by far.
 >
 > (Source: [How CryptoKitties Disrupted the Ethereum Network](https://hackernoon.com/how-crypto-kitties-disrupted-the-ethereum-network-845c22aa1e6e), December 2017)
@@ -526,12 +526,12 @@ In December 2017 - CryptoKitties Mania:
 In April 2018 - CryptoKitties Cooldown:
 
 
-> The number of active decentralized app (dapp) users [on ethereum] 
+> The number of active decentralized app (dapp) users [on ethereum]
 > is shockingly low, even for high-profile app like CryptoKitties.
 >
-> Citing data from DappRadar, Chris McCann reports that CryptoKitties has fewer than 1 000 daily active users (DAU). 
-> Granted, interest has sharply declined over the past few months, 
-> but he estimates that even at its peak the [CryptoKitties] app 
+> Citing data from DappRadar, Chris McCann reports that CryptoKitties has fewer than 1 000 daily active users (DAU).
+> Granted, interest has sharply declined over the past few months,
+> but he estimates that even at its peak the [CryptoKitties] app
 > likely only had about 14 000 daily users.
 > Neopets, a game to which CryptoKitties is often compared, once had as many as 35 million users.
 >
@@ -691,7 +691,7 @@ No. 3 - Breed your own new kitties and sell to a greater fool for a higher price
 [**This man has made more money trading CryptoKitties than investing in his individual retirement account (IRA)**](https://www.theverge.com/2017/12/13/16754266/cryptokitties-ethereum-ether-game-cats), [(Comments)](https://www.reddit.com/r/CryptoKitties/comments/7k1q7b/this_man_has_made_more_money_trading/)
 by Shannon Liao, The Verge, December 2017 -- Todd -a 30-year-old -spent 30 ether in total in the casino so far, but his kitty portfolio, at the time of the interview, is worth 99 ether - a hypothetical net gain of $42 321, not considering transaction fees
 
-[**This User Made 462 Ether ($210 000) In 3 Days Trading CryptoKitties**](http://storeofvalueblog.com/posts/this-user-made-462-ether-in-3-days-playing-cryptokitties/) -- get in early and buy (limited) founder cats (only 100 max auctioned off) 
+[**This User Made 462 Ether ($210 000) In 3 Days Trading CryptoKitties**](http://storeofvalueblog.com/posts/this-user-made-462-ether-in-3-days-playing-cryptokitties/) -- get in early and buy (limited) founder cats (only 100 max auctioned off)
 and sell high to greater fools before the bubble pops
 
 | Kitty   |	Bought (Eth)	| Sold (Eth)  |	Profit (-Fees)	| Bought      | Sold |
@@ -708,7 +708,7 @@ and sell high to greater fools before the bubble pops
 
 
 [**How we made $100 000+ trading CryptoKitties**](https://hackernoon.com/how-we-made-100k-trading-cryptokitties-2d69aebe715b)
-by Ivan Bogatyy, April 2018 -- get in early and buy low and sell high to greater fools before the bubble pops; follow up with arbitrage and front-running bots 
+by Ivan Bogatyy, April 2018 -- get in early and buy low and sell high to greater fools before the bubble pops; follow up with arbitrage and front-running bots
 
 [**How I Beat CryptoKitties**](https://hackernoon.com/how-i-beat-cryptokitties-f9aa71c03c87) by Robert Durst, April 2018 -- creating thousands of (bot) accounts to fake likes; and of course, with 240,000+ likes, the most liked cat in the casino!
 
@@ -976,7 +976,7 @@ a kitty breeds until it reaches "catatonic" cooldown, where it will remain.
 Note: Cooldowns -
 fast (1m) › swift (2m·5m) › snappy (10m·30m) › brisk (1h·2h) ›
 plodding (4h·8h) › slow (16h·24h) › sluggish (2d·4d) › catatonic (1w) -
-are NOT inherited but depend on the generation, that is,  
+are NOT inherited but depend on the generation, that is,
 each new kitty is born with a cooldown based on its generation (gen).
 
 |  Gen      | (+) Kids |  Cooldown  | Time to Recover |
@@ -987,7 +987,7 @@ each new kitty is born with a cooldown based on its generation (gen).
 |   6 · 7   |          | Snappy     | 10 minutes      |
 |   8 · 9   |          | -^^^-      | 30 minutes      |
 |  10 · 11  |          | Brisk      | 1 hours         |
-|  12 · 13  |          | -^^^-      | 2 hours         |  
+|  12 · 13  |          | -^^^-      | 2 hours         |
 |  14 · 15  |          | Plodding   | 4 hours         |
 |  16 · 17  |          | -^^^-      | 8 hours         |
 |  18 · 19  |          | Slow       | 16 hours        |
@@ -1044,7 +1044,7 @@ A: Use these website services:
 - [Kitty Explorer Cattributes](http://www.kittyexplorer.com/kitties/?cattributes=whixtensions)
 
 Currently
-hintomint (144 kitties), alien (652 kitties),  serpent (900 kitties),  manx (1 082 kitties),  
+hintomint (144 kitties), alien (652 kitties),  serpent (900 kitties),  manx (1 082 kitties),
 hotrod (1 223 kitties), daffodil (1 347 kitties) are the three rarest.
 
 <!-- was:
@@ -1142,17 +1142,17 @@ See the [Genes](genes) page »
 
 ### Code on the Blockchain - Electronic Contract Scripts
 
-See the [Contracts](contracts) page »
+See the [Contracts](https://github.com/cryptocopycats/contracts) project »
 
 
 
 ### More / Misc
 
 
-See the [CryptoKitties (and Copycats) Links & Resources Appendix](https://github.com/cryptocopycats/programming-cryptocollectibles/blob/master/A1_resources.md) 
-in the Programming CryptoCollectibles Step-by-Step Book  
-for Trait Cheatsheets, (Offspring) Breeding Calculators, Cattribute Rarity & Popularity Stats, 
+See the [CryptoKitties (and Copycats) Links & Resources](https://github.com/cryptocopycats/kittypedia/blob/master/RESOURCES.md) page
+in the Kittypedia for Trait Cheatsheets, (Offspring) Breeding Calculators, Cattribute Rarity & Popularity Stats,
 Public Kitty Datasets & More
+
 
 
 

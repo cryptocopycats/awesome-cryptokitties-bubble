@@ -178,7 +178,8 @@ Wrapped Virgin Gen-0 ($WVG0):
 - 2021/02/05 - 0.2653 ETH / Circulating Supply: 316
 
 
-For contracts, see [Inside the Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services »](wrapped)
+For contracts, see [Inside the Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services »](https://github.com/cryptocopycats/contracts/tree/master/wrapped)
+
 
 
 
@@ -218,7 +219,7 @@ Wrapped CryptoKitty ($WCK):
 - add more prices here
 
 
-For contract, see [Inside the Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services »](wrapped)
+For contract, see [Inside the Wrapped CryptoKitties (WCK, WG0, WVG0) Blockchain Contracts / Services »](https://github.com/cryptocopycats/contracts/tree/master/wrapped)
 
 
 Todos:
