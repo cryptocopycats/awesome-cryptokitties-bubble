@@ -1188,7 +1188,7 @@ Buy, sell and trade CryptoPunks!
 
 
 
-For more see [**Awesome CryptoPunks Bubble (Anno 2021) »**](https://github.com/openblockchains/awesome-cryptopunks-bubble)
+For more see [**Awesome CryptoPunks Bubble (Anno 2021) »**](https://github.com/cryptopunksnotdead/awesome-cryptopunks-bubble)
 
 **Q: What's different?**
 
