@@ -1186,8 +1186,7 @@ Buy, sell and trade CryptoPunks!
 > - [Punk #323](https://www.larvalabs.com/cryptopunks/details/323) new bid 0Ξ ($0.83) -- Male, Mohawk Dark
 > - [Punk #1781](https://www.larvalabs.com/cryptopunks/details/1781) offered for 0.14Ξ ($116.13) -- Male, Normal Beard, Headband
 
-Learn more @ [larvalabs.com/cryptopunks](https://www.larvalabs.com/cryptopunks),
-github: [larvalabs/cryptopunks](https://github.com/larvalabs/cryptopunks) (contract script sources)
+
 
 For more see [**Awesome CryptoPunks Bubble (Anno 2021) »**](https://github.com/openblockchains/awesome-cryptopunks-bubble)
 
