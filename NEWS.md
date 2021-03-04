@@ -32,17 +32,32 @@
 > Is the game doomed?
 > Update! The transaction took 6 hrs & 15 min. - but it did finally go through.
 >
+> Just bought two cheap kitties and tried to breed them. 
+> But the birthding fee is 0.1 ETH (~150 USD)... that's crazy.
+>
+> Yeah, CryptoKitties is unplayable right now.
+>
+> Yeah, after buying two cats unaware it would cost 0.1 ETH (~150 USD ) to breed them 
+> I am a little upset. This is way too expensive, 
+> I see absolutely no way to get started for less than a few hundred dollars worth of ETH 
+> if you want to breed cats that are worth selling.
+>
 > Fees are exceptionally high now due to Ethereum's high price and movements.
 > The gas fees are tied to Ether (ETH) therefore high prices.
 >
 > Probably stuck with my cats forever... jeez, I hate to think of how much they cost in dollars with ether (ETH) as expensive as it is now.
 >
-> How much gas limit should I use to Adopt a Cat?
+> How much gas limit should I use to adopt a cat?
 > The recommended gas limit in meta mask is absurd and the transaction
 > fee would be like $800, how much should i use?
 >
 > Gas prices [on Ethereum] have now nearly completely stopped the market.
 > I know there's plans to revitalize CryptoKitties [on Flow].
+>
+> People are mostly buying wrapped in bulk to lower gas fees. 
+> With the wrapped kitty tokens (WCK, WG0, WVG0) you can buy ten cats and pay $30 fee vs $300 (10 x $30) fees.
+
+
 
 
 ### CryptoKitties v2.0 - From Ethereum to Flow (Blockchain) - Build In Public
