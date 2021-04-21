@@ -9,7 +9,8 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 
 Yes, Dapper Labs - the $7.5 billion dollar CryptoKitties gambling operator & promotor - falesly (or is that fraudulently?) 
 claiming it's a "video game with cute-little cartoon cats that you own 100%" - 
-censors this author's public service message. Remember - I do not get paid for updating the awesome pages here.
+censors this author's public service message. Remember - I do not get paid for updating the awesome pages here. 
+In response to continue posting I've opened-up a new dev channel [r/CryptoKittiesDev](https://old.reddit.com/r/CryptoKittiesDev/). Join us.
 
 ---
 
