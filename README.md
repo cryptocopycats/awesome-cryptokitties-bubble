@@ -2,6 +2,10 @@ For more blockchain books, see the [**Best of Crypto Books page »**](https://op
 
 ---
 
+**A message from the CryptoKitties makers:**
+
+**You've been permanently banned from participating in [r/CryptoKitties](https://old.reddit.com/r/ruby/). You won't be able to post or comment. Reason: Self-promotion.**
+
 
 ![](i/cryptokitties-genes01.png)
 
