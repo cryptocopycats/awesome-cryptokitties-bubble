@@ -1,10 +1,17 @@
 For more blockchain books, see the [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
 
+
 ---
 
 **A message from the CryptoKitties makers:**
 
 **You've been permanently banned from participating in [r/CryptoKitties](https://old.reddit.com/r/ruby/). You won't be able to post or comment. Reason: Self-promotion.**
+
+Yes, Dapper Labs - the $7.5 billion dollar CryptoKitties gambling operator & promotor - falesly (or is that fraudulently?) 
+claiming it's a "video game with cute-little cartoon cats that you own 100%" - 
+censor's this author's public service message. Remember - I do not get paid for writing this awesome page.
+
+---
 
 
 ![](i/cryptokitties-genes01.png)
